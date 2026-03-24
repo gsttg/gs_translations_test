@@ -20,5 +20,6 @@
         "ACCOUNT_BLOCKED": "Das Konto ist wegen zu vieler fehlgeschlagener Anmeldungen, gesperrt. Versuchen Sie, Ihr Passwort zurückzusetzen."
       }
     }
-  }
+  },
+  "Personalausweis": "Personalausweis."
 }
