@@ -3,7 +3,8 @@
     "ds": "Datenschutzinformationen",
     "salutation": {
       "options": {
-        "MS": "Test Title"
+        "MS": "Test Title",
+        "MSS": "Test Title"
       }
     }
   },
