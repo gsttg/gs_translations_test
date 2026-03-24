@@ -21,5 +21,8 @@
         }
       }
     }
+  },
+  "lottery-cart": {
+    "checkout-notice": "You must checkout and buy your tickets to secure your seats."
   }
 }
