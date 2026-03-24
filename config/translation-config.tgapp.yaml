@@ -1,0 +1,12 @@
+# Ticket Gretchen — German + English, no formal address
+types:
+  app:
+    languages:
+      de:
+        sources:
+          - de.json
+          - de-tgapp.json
+      en:
+        sources:
+          - en.json
+          - en-tgapp.json

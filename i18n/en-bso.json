@@ -1,0 +1,46 @@
+{
+  "community": {
+    "your": "<30 Community"
+  },
+  "intro": {
+    "slide1": {
+      "text1": "Never miss anything: Here you can find all the events of the Bavarian State Opera, the Bavarian State Ballet, and the Bavarian State Orchestra at a glance – and many <30 offers.",
+      "title": "Welcome to <30"
+    },
+    "slide2": {
+      "text1": "No printing, no rummaging in your pockets: Keep all tickets and news in one place.",
+      "text2": "Book your tickets quickly and easily right here, in your <30 app.",
+      "title": "Keep your tickets under control"
+    },
+    "slide3": {
+      "text1": "Connect with other opera, ballet, or music lovers and share your experiences with them.",
+      "text2": "Become part of the <30-Circle and enjoy even cheaper tickets and special events.",
+      "title": "Become part of the community"
+    }
+  },
+  "menu": {
+    "calendar": "Schedule",
+    "favourites": "Favourites",
+    "home": "Home",
+    "my-tickets": "My app-tickets",
+    "profile": "Profile"
+  },
+  "order-no-item": {
+    "title": "Find your app-tickets here."
+  },
+  "order-overview": {
+    "my-tickets": "My app-tickets"
+  },
+  "preorder": {
+    "status": {
+      "COMPLETED": {
+        "description": "You can find your tickets in the My app-tickets section."
+      }
+    }
+  },
+  "user": {
+    "tickets": {
+      "title": "My app-tickets"
+    }
+  }
+}

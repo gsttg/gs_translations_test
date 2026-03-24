@@ -1,0 +1,39 @@
+{
+  "event-filter": {
+    "category": {
+      "TAG": "Genre"
+    }
+  },
+  "intro": {
+    "slide1": {
+      "text1": "All news and offers at a glance. So you have your tickets in your pocket",
+      "title": "Welcome to the Festspielhaus app"
+    },
+    "slide2": {
+      "text1": "Use your existing login details or create a new account",
+      "title": "Login or register"
+    }
+  },
+  "menu": {
+    "my-tickets": "My app-tickets",
+    "profile": "My profile"
+  },
+  "order-no-item": {
+    "title": "Find your app-tickets here."
+  },
+  "order-overview": {
+    "my-tickets": "My app-tickets"
+  },
+  "preorder": {
+    "status": {
+      "COMPLETED": {
+        "description": "You can find your tickets in the My app-tickets section."
+      }
+    }
+  },
+  "user": {
+    "tickets": {
+      "title": "My app-tickets"
+    }
+  }
+}

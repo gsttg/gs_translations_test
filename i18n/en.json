@@ -1,0 +1,3008 @@
+{
+  "ad-tracking": {
+    "reactivate": "To enable personalized recommendations, please allow tracking in iOS settings.",
+    "text": "Allow us to show you recommendations that match your preferences so that you can continue to use this app with the quality you are used to. Tap on 'Allow' in the next window.",
+    "title": "Improve your experience"
+  },
+  "auth": {
+    "additionalMessage": "If you do not have an email address associated with your existing account, please contact Customer Care.",
+    "agb1": "The ",
+    "agb2": "Terms & Conditions",
+    "agb3": " of {{legalName}} apply.",
+    "agb3-5": "and",
+    "confirmpassword": "Repeat password",
+    "create-account": "Create an account to continue",
+    "ds": "Privacy terms",
+    "email": "E-mail",
+    "email-placeholder": "your.name@mail.com",
+    "fb": "Facebook",
+    "firstname": "First name",
+    "forgotpassword": {
+      "noproblem": "No problem",
+      "success": "Yay! You've got e-mail",
+      "text": "Forgot your password?"
+    },
+    "lastname": "Last name",
+    "login": {
+      "error": {
+        "401": "Invalid e-mail address or password.",
+        "500": "An unknown error has occured. Please try again later.",
+        "ACCOUNT_BLOCKED": "Account is blocked due to too many failed login. Try resetting your password.",
+        "ALREADY_LOGGED_IN": "You are already logged in.",
+        "AMBIGUOUS_CUSTOMER": "Multiple customers with this identifier found in partner system.",
+        "ENTITYCONSTRAINTVIOLATION": "This link seems to be expired.",
+        "NO_PASSWORD_SET": "There is no password set for this account yet.",
+        "PASSWORD_RESET_LINK_INVALID_EMAIL": "Password could not be reset! Invalid e-mail address.",
+        "PASSWORD_RESET_LINK_USED_ALREADY": "The password reset link has already been used.",
+        "server-not-available": "The server is currently not available.",
+        "try-again-later": "Please try again later.",
+        "UNAUTHORIZED": "Invalid e-mail address or password.",
+        "VALIDATIONERROR": "Invalid e-mail address or password."
+      },
+      "toast": {
+        "success": {
+          "message": "Login successful!",
+          "verify": "Successfully logged in, please verify your email address before making your first purchase."
+        }
+      }
+    },
+    "logout": {
+      "popup": {
+        "confirm": {
+          "message": "Are you sure you want to logout?",
+          "no": "No",
+          "title": "Logout",
+          "yes": "Yes"
+        },
+        "prompt": {
+          "guidelines": "Password guidelines: min. 8 characters, min. 1 small letter, min. 1 capital letter and 1 number",
+          "message": "Please set a password so you can login to {{appName}} again.",
+          "no": "Cancel",
+          "password": "Password:",
+          "title": "Logout",
+          "yes": "Logout"
+        }
+      },
+      "toast": {
+        "success": {
+          "message": "You have been logged out successfully"
+        }
+      }
+    },
+    "message": "You already have a {{appName}} account or wish to create a new one?",
+    "newpassword": "New password",
+    "newsletterOptIn": "Yes, I would like to receive email communications about events and special offers.",
+    "not-fulfilling-password-criteria": "Your password does not meet the password guidelines. Please check your input!",
+    "not-same-password": "The passwords do not match. Please check your entry!",
+    "password": "Password",
+    "register": {
+      "send-verification-mail": "Request verification link",
+      "toast": {
+        "success": {
+          "message": "Yay! You have successfully registered!",
+          "verify": "The registration was successful, please verify your email address before your first purchase."
+        }
+      }
+    },
+    "salutation": {
+      "label": "Salutation",
+      "options": {
+        "COMPANY": "Company",
+        "MR": "Mr.",
+        "MS": "Ms.",
+        "MX": "Mx.",
+        "NONE": "None"
+      }
+    },
+    "socialloginmessage": "Or take e-mail address directly from: ",
+    "title": "Login or register",
+    "tokenlogin": {
+      "alternative": "Alternatively you can follow the instructions to set a password. After that you can log in here.",
+      "loginpw": "Login with password",
+      "message": "We just sent you an e-mail. Open it on this device to login automagically.",
+      "popup": {
+        "nopw": {
+          "message": "Please use the email to set a new password, before logging in.",
+          "title": "Just one more step"
+        }
+      },
+      "title": "Welcome back!"
+    },
+    "unknownemail": "Whoops! Unknown e-mail address",
+    "whoops": "Whoops!"
+  },
+  "backButtonText": "Back",
+  "best-seat": {
+    "more": "All options",
+    "sold-out": "Sold out",
+    "toast": {
+      "notickets": {
+        "message": "Press the plus button to add tickets to your cart.",
+        "title": "Cart is empty"
+      }
+    }
+  },
+  "booking-options": {
+    "alert": {
+      "lottery": {
+        "header": "Lottery",
+        "message": {
+          "ALREADY_PRE_ORDERED": "You're already in the lottery for this performance.",
+          "MAX_ACTIVE_PRE_ORDERS_REACHED": "Unfortunately, you have reached the maximum number of active lotteries.",
+          "MISSING_REQUIRED_CUSTOMER_VALUES": "Please add missing customer data in your profile to proceed.",
+          "PROCESSING_DATE_INVALID": "There is no lottery available for this performance.",
+          "TOO_MANY_TICKETS": "You already have the maximum number of active lotteries.",
+          "UNAUTHORIZED": "Unfortunately, you are not authorized to participate in this lottery.",
+          "undefined": "There is no lottery available for this performance.",
+          "USER_EXCLUDED_FROM_PRE_ORDER": "Unfortunately, you cannot participate in this lottery."
+        }
+      },
+      "quota": {
+        "message": "The chosen quota is not available."
+      }
+    },
+    "book": "Buy tickets",
+    "create-alert": "Create alert",
+    "edit-alert": "Edit alert",
+    "enter-lottery": "Enter lottery for your chance at discounted tickets",
+    "enter-lottery-button": "Enter lottery",
+    "get-tickets": "Get tickets",
+    "hide-calendar": "Show next dates",
+    "learn-more": "Learn more.",
+    "lottery-tickets": "Lottery tickets",
+    "lottery-tickets-note": "Lottery tickets are deeply discounted tickets made available the day before the performance via an online lottery, accessible only through the app.",
+    "performance-info": "Date infos",
+    "promotion-alert": {
+      "description": "The discount is currently not available for this performance."
+    },
+    "regular": {
+      "description": "Tickets at regular price",
+      "title": "Tickets at regular price"
+    },
+    "select-performance": "Choose a timeslot",
+    "show-event-info": "Event info",
+    "show-lottery-info": "To the lottery",
+    "show-performance-info": "Date info",
+    "sold-out": "Sold out"
+  },
+  "button": {
+    "accept": "Accept",
+    "add": "Add",
+    "back": "Back",
+    "book": "Choose tickets",
+    "buy-tickets": "Search for tickets",
+    "cancel": "Cancel",
+    "choose": "Choose",
+    "close": "Close",
+    "confirm": "Confirm",
+    "continue": "Continue",
+    "deselect-all": "Deselect all",
+    "donate": "Donate",
+    "edit": "Edit",
+    "ellipsis": "Options",
+    "favorised": "Favorised",
+    "filter": "Filter",
+    "find-tickets": "Search for tickets",
+    "get-access": "Get access",
+    "help": "Help",
+    "join": "Join now",
+    "locate": "Locate",
+    "login": "Login",
+    "loginregister": "Login or register",
+    "logout": "Logout",
+    "mail": "Mail",
+    "map": "Open map",
+    "more": "Load more",
+    "moreinformation": "More information",
+    "no": "No",
+    "notfavorised": "Not favorised",
+    "notselected": "Not selected",
+    "ok": "Ok",
+    "open": "Open",
+    "play": "Play",
+    "print": "Print",
+    "purchase": "Purchase now",
+    "purchase-with-credits": "Purchase with credits",
+    "radio": "Listen",
+    "readandconfirm": "I confirm that I have read the conditions and accept them",
+    "readmore": "Continue reading",
+    "register": "Register",
+    "reject": "Reject",
+    "remove": "Remove",
+    "report": "Report",
+    "reset": "Reset",
+    "save": "Save",
+    "search": "Search",
+    "select-all": "Select all",
+    "select-date": "Select date",
+    "selected": "Selected",
+    "setup": "Setup",
+    "share": "Share",
+    "showall": "Show all",
+    "skip": "Skip",
+    "star": "Star",
+    "starhalf": "Halfselected star",
+    "staroutline": "Unselected star",
+    "sync": "Synchronize",
+    "tickets": "Tickets",
+    "yes": "Yes"
+  },
+  "calendar-list": {
+    "filter": {
+      "calendar": {
+        "button": "Jump to date"
+      },
+      "event": {
+        "button": "Filter by event"
+      }
+    },
+    "today": "Today"
+  },
+  "calendar": {
+    "hide": "Hide calendar",
+    "lottery": "Lottery",
+    "no-more-dates-available": "Unfortunately, no more dates are available.",
+    "show": "Show calendar",
+    "toggle-view": "Toggle view"
+  },
+  "camera": {
+    "promptLabelCancel": "Cancel",
+    "promptLabelHeader": "Photo",
+    "promptLabelPhoto": "From Photos",
+    "promptLabelPicture": "Take Picture"
+  },
+  "cart-configuration": {
+    "alternative": {
+      "plural": "There are cheaper offers available:",
+      "singular": "There is a cheaper offer available:"
+    },
+    "cart": "Your cart",
+    "configure": "Configure",
+    "confirm": "Confirm",
+    "discard": "Discard",
+    "discount": {
+      "change": "Change discount",
+      "choose": "Choose discount"
+    },
+    "errors": {
+      "server": {
+        "BASE_PROMO_MISSING": "{{promotionLabel}} can only be booked as a companion ticket.",
+        "BASE_PROMO_MISSING-nopromotion": "This discount can only be booked as a companion ticket.",
+        "CART_VALUE_TOO_LOW": "The minimum order value has not been reached.",
+        "CONTINGENTEXCEEDED": "Unfortunately, there are no seats available at the moment. The ticket limit for this event has been reached.",
+        "CUSTOMER_CONTINGENT_EXCEEDED": "The maximum quantity of seats for the customer and this priceType has been exceeded.",
+        "INSUFFICIENT_REQUIRED_SEATS": "The seat you are selecting is a companion seat and only available with the selection of the adjacent accessible location.",
+        "NO_MATCHING_CONTINGENT": "There is no suitable allocation available for {{promotionLabel}}.",
+        "NO_MATCHING_CONTINGENT-nopromotion": "There is no suitable allocation available for the selected tickets.",
+        "NO_TICKETS": "{{promotionLabel}} is not valid for the selected tickets.",
+        "NO_TICKETS-nopromotion": "This discount is not valid for the selected tickets.",
+        "NOT_COMBINABLE_WITH_SHOPPINGCARTPROMO": "{{promotionLabel}} is not combinable with other promotions.",
+        "NOT_COMBINABLE_WITH_TICKETPROMOS": "{{promotionLabel}} is not combinable with other promotions.",
+        "NOTENOUGHSEATS": "There are not enough tickets available in the selected category.",
+        "PRICE_MAPPING_STRATEGY_IS_EMPTY": "{{promotionLabel}} is not valid for the selected tickets.",
+        "PRICE_MAPPING_STRATEGY_IS_EMPTY-nopromotion": "This discount is not valid for the selected tickets.",
+        "PROMOTION_NOT_ACTIVE": "{{promotionLabel}} is not valid anymore.",
+        "PROMOTION_NOT_ACTIVE-nopromotion": "This discount is not valid anymore.",
+        "REQUIRED_EMAILVERIFICATION_MISSING": "Your e-mail address still needs to be verified. Please click on Request verification link. You will then immediately receive an e-mail with a confirmation link.",
+        "REQUIRED_PROMOTION_MISSING": "One or more tickets are missing a required promotion.",
+        "SEATNOTAVAILABLE": "Oops! Unfortunately someone just snatched away your tickets. Please select again.",
+        "SUBSCRIPTION_REQUIRED": "This event is exclusivley for members of {{subscriptions}}.",
+        "title": "Attention",
+        "TOO_FEW_BASE_PROMO_TICKETS": "{{promotionLabel}} can only be booked as a companion ticket.",
+        "TOO_FEW_BASE_PROMO_TICKETS-nopromotion": "This discount can only be booked as a companion ticket.",
+        "TOO_FEW_REGULAR_TICKETS": "{{promotionLabel}} can only be booked in combination with a regular ticket.",
+        "TOO_FEW_REGULAR_TICKETS-nopromotion": "This discount can only be booked in combination with a regular ticket.",
+        "TOO_FEW_TICKETS": "There are too little tickets in your cart for {{promotionLabel}}.",
+        "TOO_FEW_TICKETS-nopromotion": "There are too little tickets in your cart for this discount.",
+        "TOO_MANY_CUSTOMER_EXECUTIONS": "You or one of your companions already used {{promotionLabel}}.",
+        "TOO_MANY_CUSTOMER_EXECUTIONS_CONTEXTUAL": "You or one of your companions already used {{promotionLabel}}.",
+        "TOO_MANY_CUSTOMER_EXECUTIONS_CONTEXTUAL-nopromotion": "You or one of your companions already used this discount.",
+        "TOO_MANY_CUSTOMER_EXECUTIONS-nopromotion": "You or one of your companions already used this discount.",
+        "TOO_MANY_EXECUTIONS_FOR_SEAT_LOAD": "{{promotionLabel}} is not valid for this performance or the quota has recently been exhausted.",
+        "TOO_MANY_EXECUTIONS_FOR_SEAT_LOAD-nopromotion": "This discount is not valid for this performance or the quota has recently been exhausted.",
+        "TOO_MANY_PERFORMANCE_CUSTOMER_EXECUTIONS": "You already used {{promotionLabel}} for this performance.",
+        "TOO_MANY_PERFORMANCE_CUSTOMER_EXECUTIONS-nopromotion": "You already used this discount for this performance.",
+        "TOO_MANY_PERFORMANCE_EXECUTIONS": "{{promotionLabel}} is not valid for this performance or the quota has recently been exhausted.",
+        "TOO_MANY_PERFORMANCE_EXECUTIONS-nopromotion": "This discount is not valid for this performance or the quota has recently been exhausted.",
+        "TOO_MANY_PROMO_TICKETS": "It's not possible to book that many tickets with {{promotionLabel}}.",
+        "TOO_MANY_PROMO_TICKETS-nopromotion": "It's not possible to book that many tickets with this discount.",
+        "TOO_MANY_TICKETS": "{{promotionLabel}} only works with less tickets.",
+        "TOO_MANY_TICKETS_APPLICABILITY_RULE": "Too many reduced tickets",
+        "TOO_MANY_TICKETS_EVENT_APPLICABILITY_RULE": "You have exceeded the limit for {{promotionLabel}} tickets for this event.",
+        "TOO_MANY_TICKETS_EVENT_APPLICABILITY_RULE-nopromotion": "You have exceeded the limit for discounted tickets for this event.",
+        "TOO_MANY_TICKETS_HOST_APPLICABILITY_RULE": "You have exceeded the limit for {{promotionLabel}} tickets for this venue.",
+        "TOO_MANY_TICKETS_HOST_APPLICABILITY_RULE-nopromotion": "You have exceeded the limit for discounted tickets for this venue.",
+        "TOO_MANY_TICKETS_PARTNER_APPLICABILITY_RULE": "You have exceeded the limit for {{promotionLabel}} tickets for this host.",
+        "TOO_MANY_TICKETS_PARTNER_APPLICABILITY_RULE-nopromotion": "You have exceeded the limit for discounted tickets for this host.",
+        "TOO_MANY_TICKETS_PERFORMANCE_APPLICABILITY_RULE": "You have exceeded the limit for {{promotionLabel}} tickets for this performance.",
+        "TOO_MANY_TICKETS_PERFORMANCE_APPLICABILITY_RULE-nopromotion": "You have exceeded the limit for discounted tickets for this performance.",
+        "TOO_MANY_TICKETS-nopromotion": "This discount only works with less tickets.",
+        "UNKNOWN": "An unexpected error occurred while applying {{promotionLabel}}.",
+        "unknown": "Whoops! There has been an error loading the seating plan. Please try again later. Thank you!",
+        "UNKNOWN-nopromotion": "An unexpected error occurred while applying this discount.",
+        "USER_HAS_EXCLUDED_SUBSCRIPTION": "One or more persons are not eligible.",
+        "USER_IS_MISSING_SUBSCRIPTION": "One or more persons are missing the needed subscription."
+      }
+    },
+    "fullpriceticket": "Full price",
+    "segments": {
+      "overview": "Vouchers & price",
+      "tickets": "Ticket(s)"
+    },
+    "ticket": {
+      "edit": "Edit",
+      "remove": "Remove ticket",
+      "remove-confirmation": "Do you really want to remove the ticket from your cart?"
+    },
+    "toast": {
+      "alternative": "Promotion added.",
+      "deactivated": "{{promotionLabel}} is not applicable."
+    },
+    "total": "Total amount",
+    "user": {
+      "add": "Add a person",
+      "add-contact-info": "Add contact info",
+      "addmyself": "Buy for myself",
+      "change": "Change Person",
+      "change-contact-info": "Change contact info",
+      "contact-info": "Contact info",
+      "foranother": "Buy for somebody else",
+      "missing": "Your friend is missing the {{subLabel}} subscription.",
+      "popup": {
+        "choose": "Choose",
+        "delete": "Remove person",
+        "new": "Add new person",
+        "notRemovable": "This person cannot be removed as they may currently be assigned as a contact.",
+        "notSelected": "Please select a person to remove them.",
+        "subtitle": "Choose a person or add a new one",
+        "title": "Choose a person"
+      }
+    },
+    "validation": {
+      "assigneduser": {
+        "missing": "Please tell us your companion for this ticket."
+      },
+      "contact": {
+        "missing": "This ticket is not yet personalised"
+      },
+      "permission": {
+        "missing": "Your companion has not yet approved your request."
+      },
+      "required-promotion": {
+        "missing": {
+          "plural": "This ticket is missing the following promotions: {{promotionLabels}}",
+          "singular": "This ticket is missing the following promotion: {{promotionLabels}}"
+        }
+      },
+      "subscription": {
+        "missing": "This person is not yet registered for {{names}}.",
+        "toast": "Please check the personalised tickets"
+      }
+    }
+  },
+  "checkoutfooter": {
+    "tickets": {
+      "hideall": "Hide tickets",
+      "showall": "Show all tickets"
+    }
+  },
+  "community": {
+    "alert": {
+      "added": {
+        "header": "Invitation sent!",
+        "subHeader": "You can find your invitations in the Community tab"
+      }
+    },
+    "explainer": "Add friends and get tickets together online.",
+    "your": "Your community"
+  },
+  "contact": {
+    "buttons": {
+      "refuse": "Refuse",
+      "send": "Send"
+    },
+    "error": {
+      "alreadyinuse": "This person is already assigned to a different seat.",
+      "reservationnotfound": "Oh dear. Unfortunately, we made a mistake there. Please fill in the contact details again. If it still doesn't work, please try again later.",
+      "VALIDATIONERROR": "The input data was not valid. Please check again!"
+    },
+    "user": {
+      "info": "¹ These fields are taken directly from your profile and cannot be changed."
+    }
+  },
+  "contribution-option": {
+    "button": "Donate now",
+    "contributionAmount": "Your amount",
+    "custom": {
+      "button": "Other",
+      "placeholder": "Enter amount",
+      "select": "(please select desired amount)"
+    },
+    "error": {
+      "VALIDATIONERROR": "This amount is not valid."
+    },
+    "form": {
+      "jsonerror": "We have technical difficulties at the moment. Please try again later."
+    },
+    "slider": "Slider to adjust the contribution amount"
+  },
+  "currency-input": {
+    "max-amount": "The maximum amount is {{amount}}.",
+    "min-amount": "The minimum amount is {{amount}}."
+  },
+  "error-alert": {
+    "header": "Error",
+    "try-again": "Please try again!"
+  },
+  "event-filter": {
+    "category": {
+      "CHILD_HOST": "Venue",
+      "EVENT_NAME": "Event",
+      "HOST": "Hosts",
+      "PROMOTION": "Promotions",
+      "TAG": "Tag"
+    },
+    "title": "Filter"
+  },
+  "event-list": {
+    "category": "Category",
+    "category-events": "Events in this category",
+    "host-events": "Events from this host"
+  },
+  "favourite-artists": {
+    "error": {
+      "add": {
+        "subtitle": "Please try again later.",
+        "title": "An error occurred while adding the artist."
+      },
+      "remove": {
+        "subtitle": "Please try again later.",
+        "title": "An error occurred while removing the artist."
+      }
+    },
+    "explainer": "Add your favourite artists.",
+    "no-results": "There are not matching results.",
+    "search": "Search artists",
+    "title": "Favourite Artists"
+  },
+  "favourites": {
+    "empty-friend": "{{firstname}} does not have any events on their wish list.",
+    "friend": "Wish list of",
+    "friends": "Wish list from",
+    "noselected": {
+      "button": "To the events",
+      "chip": "No wishes saved yet",
+      "text": "Tap the heart to save events. Share your wish list with your friends."
+    },
+    "title": "Your wish list"
+  },
+  "file-input": {
+    "choose-files": "Choose files",
+    "no-file": "No file chosen"
+  },
+  "finished-order": {
+    "continue-browsing": "Continue browsing",
+    "contribution": {
+      "and": "and",
+      "donation": "Thank you for your donation!",
+      "membership": "Welcome to",
+      "message": "Your support allows us to make our work relevant and accessible to all while actively contributing to building a theatre that thrives on diversity.<br><br>We look forward to seeing you at the theatre soon!"
+    },
+    "header": "Thank you for your purchase. We wish you a great time!",
+    "mail-sent-to": "The confirmation has been sent to the following e-mail address:",
+    "more-info": "Please check your confirmation email or the orders page for more purchase information.",
+    "share-event": "Share the event with your friends:",
+    "subscription": {
+      "back": "Here we go!",
+      "header": "Welcome to {{label}}!",
+      "validity": "Your membership is valid until {{days}}."
+    }
+  },
+  "form": {
+    "description": {
+      "required": "Description is required."
+    },
+    "email": {
+      "email": "Email is invalid.",
+      "invalidDomain": "Looks like there is a typo.",
+      "pattern": "Email is invalid.",
+      "required": "Email is required."
+    },
+    "firstname": {
+      "minlength": "First Name must be longer than 2 characters.",
+      "required": "First Name is required."
+    },
+    "lastname": {
+      "minlength": "Last Name must be longer than 2 characters.",
+      "required": "Last Name is required."
+    },
+    "name": {
+      "required": "Name is required."
+    },
+    "password": {
+      "digitCharacterRule": "Password must contain at least one number.",
+      "lowercaseCharacterRule": "Password must contain at least one small letter.",
+      "minlength": "Password must be longer than 8 characters.",
+      "required": "Password is required.",
+      "uppercaseCharacterRule": "Password must contain at least one capital letter."
+    },
+    "salutation": {
+      "required": "Salutation is required."
+    },
+    "subject": {
+      "required": "Subject is required."
+    }
+  },
+  "friends": {
+    "pendingRequest": {
+      "delete": "Delete",
+      "header": "Pending request",
+      "keep": "Keep",
+      "subHeader": "Do you want to delete the pending request to {{firstname}}?"
+    },
+    "pendingRequests": "Pending requests",
+    "remove-friend": {
+      "alert": {
+        "message": "Are you sure you want to remove {{firstname}} from your community?"
+      },
+      "error": "Something went wrong. Please try again later.",
+      "title": "Remove friend"
+    },
+    "request": {
+      "approve": "Accept",
+      "header": "Friend request",
+      "reject": "Reject",
+      "subHeader": "Do you want to accept the friend request from {{firstname}} {{lastname}}?"
+    },
+    "requests": "Friend requests",
+    "shared-favourites": "Shared wish list"
+  },
+  "generic": {
+    "error": {
+      "ACCESS_DENIED": "Access denied.",
+      "ALREADACTIVE": "The Subscription is already active.",
+      "ALREADYINVITED": "The current device is connected to an already rewarded user and is therefore no longer eligible for a welcome bonus.",
+      "ALREADYUSED": "The promotion code has already been used.",
+      "ALREADYVALID": "This voucher has already been redeemed.",
+      "BOOKING_CREATEPAYMENTINFOERROR": "The payment information could not be initialized.",
+      "CARTNOTREACTIVATED": "An error occurred while loading the shopping cart.",
+      "CREDITCARD_USED_FOR_IN_PROGRESS_PRE_ORDER": "A lottery is currently taking place. You cannot remove this credit card until it has been completed.",
+      "EMPTYCART": "There is currently no reservation.",
+      "ENTITYCONSTRAINTVIOLATION": "Error processing data.",
+      "ENTITYNOTFOUND": "Entity not found.",
+      "INTERNALSERVERERROR": "An unknown error occurred.",
+      "INVALID_PRICE_RULE_GROUP": "The chosen discount ist not valid anymore.",
+      "INVALIDCODE": "The voucher code is not valid.",
+      "INVALIDITEM": "Invalid selection",
+      "INVALIDREFERRAL": "The welcoming bonus could not be rewarded.",
+      "INVALIDSALESCHANNEL": "The voucher is not allowed to be redeemed through this app. Please use the correct app.",
+      "INVALIDSECURE": "Invalid login",
+      "MEMREJECT": "The requirements are not fulfilled",
+      "message": "An Error occurred.",
+      "NOEXISTINGLINK": "Sorry, this code could not be found. Please check for typos.",
+      "NOTBOOKABLE": "The event is currently unavailable.",
+      "NOTENOUGHSEATS": "There are not enough available seats meeting the selected criteria.",
+      "NOTFOUND": "The promotion has not been found. Please review the code and a possible expiration date.",
+      "NOTMOREALLOWED": "You actually possess the maximum amount of vouchers of this type.",
+      "PRICELISTOUTDATED": "The seating plan is not up to date and needs to be reloaded.",
+      "PROMONOTAPPLICABLE": "Unfortunately the condition for this promotion is not met.",
+      "PROMOTIONNOTAPPLICABLE": "Ooops! The selected promotion is not available anymore.",
+      "PROMOTIONNOTFOUND": "The promotion could not be found.",
+      "REMOTESESSIONEXPIRED": "The session in the partner system has expired.",
+      "SEATLOADINGFAILED": "The seating plan could not be loaded from the partner system",
+      "SEATNOTAVAILABLE": "The seat you have chosen is unfortunately not available.",
+      "SEATPLANFULL": "There are no seats left for your selected option. Please choose a different offer or a different date.",
+      "SUB_VERIFICATIONEXCEPTION": "An error occurred during the verification.",
+      "title": "Oops!",
+      "TOKENOLD": "The link has expired.",
+      "TOOMANYREQUEST": "Unfortunately something didn't work out as expected. We will take a look at the problem and contact you!",
+      "TOOOLDUSER": "The welcoming bonus can only be activated in the first week.",
+      "UNAUTHORIZED": "Access denied.",
+      "UNKNOWN": "The code stated is not valid.",
+      "UNKNOWNERROR": "An unknown error has occurred.",
+      "UNKNOWNSEATERROR": "An unknown error occured at the seating plan.",
+      "VALIDATIONERROR": "The input data was not valid."
+    },
+    "labels": {
+      "and": "and",
+      "or": "or",
+      "you": "you"
+    }
+  },
+  "home": {
+    "tabs": {
+      "additionalTab": "Calendar",
+      "home": "Home"
+    }
+  },
+  "host-container": {
+    "tabs": {
+      "calendar": "Calendar",
+      "events": "Events",
+      "info": "Information"
+    }
+  },
+  "host-detail": {
+    "contact": "Contact information",
+    "description": "Description",
+    "email": "E-mail",
+    "phone": "Phone",
+    "sold-out": "No events"
+  },
+  "id-document": {
+    "take": {
+      "ok": "Ok",
+      "PICTURE": {
+        "subtitle": {
+          "IDBACK": "Please take a picture of the back of your ID",
+          "IDFRONT": "Please take a picture of your ID"
+        },
+        "title": "Take picture"
+      },
+      "QR": {
+        "subtitle": {
+          "QR_CODE": "Please point your camera at the QR code."
+        },
+        "title": "Scan QR code"
+      }
+    }
+  },
+  "info-text": {
+    "agb": "Terms & Conditions",
+    "ds": "Privacy information",
+    "faq": "FAQ",
+    "not-available": "Not available",
+    "openAgb": "Open Terms & Conditions",
+    "openFaq": "Open FAQ",
+    "openPrintAgb": "Open Terms & Conditions Printversion",
+    "u27Faq": "U27 FAQ"
+  },
+  "interrupted-order": {
+    "failure": {
+      "ctaContact": "Contact",
+      "ctaEvent": "To Event",
+      "ctaPackage": "To Package",
+      "header": "Oh no!",
+      "message": "Unfortunately your booking failed.",
+      "tryagain": "Do you want to try again? Or get in contact with us."
+    },
+    "success": {
+      "cta": "Tickets",
+      "message": "Your booking was successful."
+    },
+    "voucher": {
+      "header": "Info",
+      "message": "There was a little problem with your last order. Please check your e-mail inbox to see if you received your vouchers."
+    }
+  },
+  "intro": {
+    "button": {
+      "forward": "Continue",
+      "login": "Log in",
+      "privacy": "Privacy",
+      "skip": "Skip",
+      "start": "Start"
+    },
+    "region": {
+      "choose": {
+        "welcome": "Please select your location:"
+      }
+    },
+    "slide1": {
+      "text1": "Theatre, musical, opera or concerts – no matter what you fancy, our personalised recommendations got you covered!",
+      "text2": "EMPTY",
+      "text3": "EMPTY",
+      "text4": "EMPTY",
+      "text5": "EMPTY",
+      "title": "Welcome to Ticket Gretchen"
+    },
+    "slide2": {
+      "text1": "1st Act",
+      "text2": "Choose your seat directly on our mobile seating map.",
+      "text3": "EMPTY",
+      "text4": "EMPTY",
+      "text5": "EMPTY",
+      "title": "The fastest culture ticket in town"
+    },
+    "slide3": {
+      "text1": "2nd Act",
+      "text2": "Your mobile ticket, directly on your phone.",
+      "text3": "EMPTY",
+      "text4": "EMPTY",
+      "text5": "EMPTY",
+      "title": "No queues, no hassle"
+    },
+    "slide4": {
+      "text1": "3rd Act",
+      "text2": "Book your cultural highlights at sensational prices. Whether civil servant, student, apprentice or employed person - U27 applies to everyone under the age of 27!",
+      "text3": "EMPTY",
+      "text4": "EMPTY",
+      "text5": "EMPTY",
+      "title": "Under the age of 27?"
+    },
+    "slide5": {
+      "text1": "4th Act",
+      "text2": "Save on tickets by inviting friends to Ticket Gretchen. Both you and your friend receive a personal credit upon their first purchase.",
+      "text3": "EMPTY",
+      "text4": "EMPTY",
+      "text5": "EMPTY",
+      "title": "Sharing is caring"
+    },
+    "toast": {
+      "welcome": "Welcome back, {{name}}!"
+    }
+  },
+  "jwt": {
+    "error": {
+      "message": "There are unfortunately problems with the service. Please try again later."
+    }
+  },
+  "loading": {
+    "labels": {
+      "seatplan": "Loading seating plan",
+      "wait": "Please wait..."
+    }
+  },
+  "location": {
+    "errors": {
+      "permissiondenied": "To determine your current position, we need the necessary permission.",
+      "timeout": "Your current position could not be determined. Please check if GPS is activated.",
+      "unavailable": "There are no position services available."
+    }
+  },
+  "lottery-cart": {
+    "checkout-notice": "You must checkout and buy your tickets to secure your seats",
+    "congratulations": "Congratulations! You won the lottery.",
+    "countdown": {
+      "minutes": "{{minutes}} minutes, {{seconds}} seconds to checkout and secure your seats",
+      "seconds": "{{seconds}} seconds to checkout and secure your seats"
+    },
+    "fetch-failed": "Failed to fetch lottery. Please check your active lotteries in the \"My Lotteries\" section.",
+    "no-ticket": "THIS IS NOT YOUR TICKET",
+    "seat": "Seat",
+    "seats": "Your Lottery Seats",
+    "section": "Section",
+    "title": "Lottery Tickets"
+  },
+  "lottery-confirmation": {
+    "alert": {
+      "leave-lottery": {
+        "cancel": "Cancel",
+        "confirm": "Leave",
+        "header": "Leave Lottery",
+        "message": "Are you sure you want to leave the lottery?"
+      }
+    },
+    "auto-payment": {
+      "change": "Change payment method",
+      "optional": "Optional",
+      "text": "We automatically charge your chosen payment method if you are successful in the lottery. If you wish to revoke your autopayment preference, you may do so at any time before the lottery.",
+      "title": "Automatic Payment",
+      "toggle": "Toggle Automatic Payment"
+    },
+    "countdown": {
+      "closing": "UNTIL TICKET LOTTERY CLOSES",
+      "days": "DAYS",
+      "hours": "HOURS",
+      "minutes": "MINUTES",
+      "seconds": "SECONDS"
+    },
+    "payment-details": {
+      "text": "Payment is due within {{minutes}} minutes of the lottery if you are successful.",
+      "title": "Payment Details"
+    },
+    "summary": {
+      "cta": "LEAVE LOTTERY",
+      "text": "Changed your mind?",
+      "title": "Summary"
+    },
+    "title": "Lottery Tickets",
+    "you-are-in": "You are in the ticket lottery!"
+  },
+  "lottery-payment": {
+    "continue-browsing": "CONTINUE BROWSING",
+    "credit-card": "Credit card",
+    "enter-lottery": "ENTER LOTTERY",
+    "fees": "Ticket Fees",
+    "legal": {
+      "checkbox": "I confirm that I have read the terms and conditions and the official lottery rules and I accept them.",
+      "text": {
+        "1": "The",
+        "2": "terms and conditions",
+        "3": "and",
+        "4": "official lottery rules",
+        "5": "of {{legalName}} apply."
+      }
+    },
+    "title": "Checkout",
+    "toast": {
+      "push": {
+        "cancel": "Cancel",
+        "dismiss-forever": "Do not ask again",
+        "enable": "Enable now",
+        "header": "Push notifications",
+        "message": "Do not miss out on your chance to win lottery tickets. Enable push notifications now to be notified when the lottery closes."
+      }
+    },
+    "tos": {
+      "title": "TERMS OF SERVICE"
+    },
+    "total": "Total"
+  },
+  "lottery-region-status": {
+    "answer": "Answer",
+    "blocked": "Unfortunately the lottery is not available in your region due to legal restrictions.",
+    "cancel": "Cancel",
+    "late": {
+      "plural": "Time's up, you have {{count}} attempts left.",
+      "singular": "Time's up, you have {{count}} attempt left."
+    },
+    "locked": "You have used all your attempts and been locked out of the lottery.",
+    "ok": "OK",
+    "remaining": {
+      "plural": "You have {{minutes}} minutes left to answer the question.",
+      "singular": "You have {{minutes}} minute left to answer the question."
+    },
+    "restricted": "The lottery is a restricted feature. To comply with the legal regulations in your region, you must solve the following math skill-testing question within 10 minutes, without assistance of any kind, to enter.",
+    "rules": "Please check the <u>official lottery rules</u> for more information.",
+    "submit": "Submit",
+    "success": "Correct answer, you may now enter the lottery.",
+    "wrong": {
+      "plural": "Wrong answer, you have {{count}} attempts left.",
+      "singular": "Wrong answer, you have {{count}} attempt left."
+    }
+  },
+  "lottery-select-tickets": {
+    "accessibility": {
+      "edit": "Edit accessibility request",
+      "modal": {
+        "add-request": "Add request",
+        "form": {
+          "other-seating-requests": "Other access requirements for your party:",
+          "placeholder": "Please only note accessibility requirements for your party in this field."
+        },
+        "people-remain-in-seat": "How many in your party require wheelchair spaces and will remain in their chairs?",
+        "people-transfer": "How many in your party require wheelchair spaces and will transfer to the theatre seat?",
+        "remove-request": "Remove request",
+        "title": "Accessibility Request",
+        "update-request": "Update request"
+      },
+      "no-tickets": "Please select the number of tickets first.",
+      "request": "Add accessibility request",
+      "request-removed": "Accessibility request removed",
+      "request-saved": "Accessibility request saved"
+    },
+    "alerts": {
+      "max-tickets": "You have reached the maximum number of tickets for this performance.",
+      "no-tickets": "Please select at least one ticket."
+    },
+    "auto-payment": {
+      "benefits": "View Benefits",
+      "benefits-alert": {
+        "message": {
+          "1": "Secure your tickets right away should you win.",
+          "2": "Hassle free, no need to come back to the app and checkout.",
+          "3": "Access to exclusive discounted tickets for the same performance if you are not successful in the lottery."
+        },
+        "title": "Automatic Payment"
+      },
+      "checkbox-label": "I agree to take payment automatically if I'm successful in this lottery.",
+      "credit-card-picker": {
+        "new-card": "Add new card"
+      },
+      "error-alert": {
+        "buttons": {
+          "add-card": "Add new card"
+        },
+        "message": "You need to add a credit card first if you want to use automatic payment.",
+        "title": "Action required"
+      },
+      "note": "We automatically charge your chosen payment method if you are successful in the lottery. If you wish to revoke your autopayment preference, you may do so at any time before the lottery.",
+      "optional": "Optional",
+      "title": "Automatic Payment"
+    },
+    "description": "Select number of lottery tickets",
+    "maxTickets": "MAX OF {{ maxTickets }} TICKETS PER LOTTERY",
+    "title": "Lottery Tickets"
+  },
+  "lottery-ticket-list": {
+    "active": "Active",
+    "expired": "Expired",
+    "go-to-lotteries": "View lotteries",
+    "limited-lotteries": "You can only have {{activeLotteries}} active lotteries",
+    "login-description": "Here you can find all your active and expired lottery lotteries. To view them, please log in.",
+    "lottery-ended": "This lottery has ended.",
+    "no-active-lotteries": "You currently have no active lotteries.",
+    "no-expired-lotteries": "You currently have no expired lotteries.",
+    "payment-too-late": "Unfortunately you missed the payment window for this lottery.",
+    "successful": "Successful",
+    "terms-and-conditions": {
+      "and": "and the",
+      "lottery-rules": "official lottery rules",
+      "tos": "terms & conditions",
+      "view": "View our"
+    },
+    "title": "Lottery",
+    "toast": {
+      "preorder-ready": {
+        "message": "You've won the lottery! Complete your purchase now.",
+        "pay-now": "Pay now"
+      }
+    },
+    "upcoming": "Upcoming",
+    "view-available-lotteries": "View available lotteries here"
+  },
+  "map": {
+    "appselection": {
+      "cancel": "Cancel",
+      "header": "Select app for navigation"
+    },
+    "legend": {
+      "close": "Close legend",
+      "open": "Legend"
+    },
+    "rememberchoice": {
+      "body": "Use the same app for navigating next time?",
+      "header": "Remember your choice?",
+      "no": "No",
+      "yes": "Yes"
+    }
+  },
+  "menu": {
+    "calendar": "Calendar",
+    "categories": "Categories",
+    "community": "Community",
+    "events": "Events",
+    "favourites": "Wish list",
+    "home": "Home",
+    "hostdetails": "Information",
+    "hosts": "Venues",
+    "info": "Information",
+    "lottery": "Lottery",
+    "my-events": "My events",
+    "my-tickets": "My tickets",
+    "profile": "My menu"
+  },
+  "messages": {
+    "all": "News",
+    "archive-message": "Archive message",
+    "link": "Inbox",
+    "messages": "Messages",
+    "no-messages": {
+      "messages": "No notifications at this time.",
+      "recommendations": "No recommendations at this time.",
+      "title": "You're all caught up!"
+    },
+    "open-messages": "Open messages",
+    "recommendations": "Recommendations"
+  },
+  "monitoring": {
+    "partner": {
+      "status": {
+        "ERROR": "There is currently a technical problem at the event organizer. Please try again later!",
+        "WARNING": "There is currently a technical problem at the event organizer. Please try again later!"
+      }
+    }
+  },
+  "my-events": {
+    "login-description": "To view tickets for your upcoming and past events, please log in."
+  },
+  "network-error": {
+    "message": "An unexpected network error has occurred, please check your internet connection or try again later.",
+    "title": "Network error"
+  },
+  "order-item-parking": {
+    "valid-only": "Valid only"
+  },
+  "order-item": {
+    "program": "Program",
+    "ticket": "Ticket",
+    "ticket-button": "QR Code",
+    "ticket-without-barcode-button": "View",
+    "tickets": "Tickets"
+  },
+  "order-no-item": {
+    "archive": "You don't have any tickets in your archive.",
+    "button": "Events",
+    "current": "You don't have any tickets for upcoming events.",
+    "title": "Find your tickets here."
+  },
+  "order-overview": {
+    "archive": "Archive",
+    "current": "Upcoming",
+    "login-description": "Here you can view tickets for your upcoming and past events. To view them, please log in.",
+    "my-tickets": "My tickets"
+  },
+  "package": {
+    "best-seat": {
+      "subtitle": "Press the plus button to add tickets to your cart.",
+      "title": "Choose the desired categories"
+    },
+    "info": {
+      "alert": {
+        "package-radio": {
+          "cancel": "Cancel",
+          "choose": "Choose",
+          "subtitle": "The are multiple price categories available:",
+          "title": "Price category"
+        }
+      },
+      "button": {
+        "footer": {
+          "choose": "Configure package",
+          "fix": "Book package",
+          "sold-out": "Sold out"
+        }
+      },
+      "label": {
+        "available": {
+          "events": "Available events",
+          "from": "Package from"
+        },
+        "dates": "Included dates",
+        "price": "Package price"
+      }
+    },
+    "login": {
+      "1": {
+        "1": "register here to configure your youth subscription.",
+        "2": "Please note, that you have to be below the age of 27 to purchase a youth subscription.",
+        "3": "In order to register as 'under 27', you can scan your ID on the following page.",
+        "header": "Hello,"
+      }
+    },
+    "performance": {
+      "alert": {
+        "multiplepackages": {
+          "no": "Cancel",
+          "title": "Choose package",
+          "yes": "Continue"
+        }
+      },
+      "button": {
+        "footer": "Configure package"
+      }
+    },
+    "progress": {
+      "events": "Events",
+      "payment": "Payment",
+      "persons": "People"
+    },
+    "reservation": {
+      "error": {
+        "title": "Error"
+      }
+    },
+    "select-date": {
+      "no-dates": "There are no more dates at the moment."
+    },
+    "select-events": {
+      "alert": {
+        "alreadyinres": {
+          "title": "This event is already part of the reservation."
+        }
+      },
+      "no-events": "There are no more events at the moment.",
+      "or": "or",
+      "title": "Choose {{index}}. event"
+    },
+    "select-people": {
+      "assignment-status": {
+        "approved": "{{name}} has given you permission. You're good to go.",
+        "pending": "Still waiting on approval.",
+        "reject-reason": {
+          "DOUBLEBOOKING": "You have already completed a booking for this event under your name. Please note: You can only buy each package series once per subscriber.",
+          "SUBSCRIPTIONSPECIALVALIDITY": "Please note, that the subscription has to be valid until {{minValidity}}."
+        }
+      },
+      "button": {
+        "addmyself": "Add myself",
+        "footer": "Continue to Events",
+        "or-sign-up-again": "Or take a new picture",
+        "refresh": "Refresh",
+        "remove": "Remove",
+        "sign-up": "Register for {{sublabel}}",
+        "sign-up-again": "Register again"
+      },
+      "label": {
+        "persons": "People"
+      },
+      "modal": {
+        "button": {
+          "create": "Create account",
+          "request": "Send invitation"
+        },
+        "exist": {
+          "subtitle": "Send them an invitation to add them to your friends.",
+          "title": "Your friend is already registered with {{appName}}"
+        },
+        "exists-external": {
+          "subtitle": "After your friend has logged in the app for the first time, you can add each other.",
+          "title": "Your friend is already registered"
+        },
+        "invite": "You can share this code with a friend to add them to your connections.",
+        "invite-code": "If you got an invitation code, enter it here.",
+        "new-external": {
+          "subtitle": "After your companion has registered, you can add them here.",
+          "title": "Your companion is not registered yet"
+        },
+        "new": {
+          "subtitle": "Please state their full name here.",
+          "title": "Register your friend"
+        },
+        "permission": {
+          "message": "Do you want to send another e-mail asking for permission?",
+          "title": "Permission"
+        },
+        "subtitle": "Or enter the e-mail address of your friend here.",
+        "text": "Please note that, if you buy a youth subscription for someone else, he or she has to be under the age of 27",
+        "title": "Add a friend"
+      },
+      "more-people": {
+        "text": "You can buy a subscription for a friend. Please be aware, that they have to register as {{subscription}} as well. Click the button below in order to invite a friend.",
+        "title": "Enjoying culture together is more fun!"
+      },
+      "title": "Choose people",
+      "titlenumber": "Number of people",
+      "toast": {
+        "atleastone": "Please add at least 1 person to your order",
+        "missingrequirements": "Please check if all persons fulfill the requirements and if they have given consent to be added",
+        "refresh": "Refreshing",
+        "toomany": "You can only buy {{number}} tickets at once"
+      }
+    },
+    "select-performances": {
+      "alert": {
+        "alreadyinres": {
+          "subtitle": "This date is already part of your reservation"
+        },
+        "notbookable": {
+          "subtitle": "This event is not bookable at the moment"
+        }
+      },
+      "button": {
+        "choose": "Wählen"
+      },
+      "segments": {
+        "0": "List",
+        "1": "Calendar"
+      },
+      "subtitle": {
+        "matching-dates": "Matching dates",
+        "more-dates": "More dates"
+      },
+      "title": "Choose date"
+    },
+    "select-seats": {
+      "button": {
+        "footer": "Continue to payment"
+      },
+      "title": "Choose seats"
+    },
+    "select-slots": {
+      "action-sheet": {
+        "cancel": "Cancel",
+        "category": "Choose categories",
+        "date": "Pick a different date",
+        "event": "Pick a different event",
+        "seats": "Choose seats"
+      },
+      "booking-state": {
+        "INCOMPLETE": {
+          "message": "Please make sure you have selected all mandatory events and seats.",
+          "title": "Reservation incomplete"
+        },
+        "INVALID_DUE_TO_RESTRICTION": {
+          "title": "Invalid Selection"
+        }
+      },
+      "button": {
+        "change": "Change",
+        "choose": "Click to choose {{index}}. event",
+        "footer": "Continue to payment"
+      },
+      "error": {
+        "CONNECTIONPROBLEM": "The partner is not reachable, pease try again later.",
+        "DEFAULT": "Please select your seats.",
+        "NO_SEATS_SELECTED": "Please select your seats.",
+        "NO_SEATS_SELECTED_categories": "Please select your categories.",
+        "NOTENOUGHSEATS": "There are not enough free seats, please choose a different date.",
+        "PERFORMANCENOTBOOKABLE": "This performance is fully booked, please choose a different date.",
+        "RESERVED_TG": "The partner is not reachable, pease try again later.",
+        "SEATS_NOT_AVAILABLE": "Unfortunately these seats are not available anymore. Please select again"
+      },
+      "event-item": {
+        "button": {
+          "edit": "Edit",
+          "remove": "Remove",
+          "seats": "Select seats"
+        },
+        "moredates": "More dates available",
+        "optional": "Optional"
+      },
+      "labels": {
+        "chosen-seats": "Chosen seats:",
+        "generating-seats": "Calculating the best seats",
+        "optional": "Optional events can, but don’t have to be booked",
+        "preselected": "Checking availability",
+        "reserving-seats": "Reserving seats",
+        "selected-pricegroup": "Chosen category:"
+      },
+      "seats-changed": "Attention, seats have changed.",
+      "seats-changed-dialogue": {
+        "message": "Your chosen seats are not longer available. We have selected new seats for you",
+        "title": "Note"
+      },
+      "subtitle": "Choose the event dates for your subscription",
+      "title": {
+        "choose": "Configure your package",
+        "fix": "Your package includes"
+      }
+    }
+  },
+  "payment": {
+    "button": {
+      "addcard": "Add credit card",
+      "cancel": "Use exisiting card",
+      "setupApplePay": "Set up Apple Pay"
+    },
+    "cancel": {
+      "modal": {
+        "button": {
+          "cancel": "No",
+          "confirm": "Yes"
+        },
+        "message": "Are you sure you want to cancel the payment?",
+        "title": "Cancel payment"
+      },
+      "notpossible": "The booking process cannot be cancelled anymore."
+    },
+    "cart": {
+      "cart": "Cart",
+      "change": "Change Promotion",
+      "choose": "Choose promotion",
+      "disclaimer": "*Discount does not apply to ticket fee",
+      "fees": {
+        "inclusive": {
+          "1": "Incl.",
+          "2": "fee"
+        }
+      },
+      "instead": "instead of",
+      "nopromo": "Standard price",
+      "subtotal": "Subtotal",
+      "total": {
+        "MULTI_ITEM": "Total",
+        "PACKAGE": "Package total",
+        "VOUCHER": "Total"
+      },
+      "update": "Update cart",
+      "voucheroverflow": {
+        "1": "Yay! You have",
+        "2": "credit left for your next purchase."
+      }
+    },
+    "confirm": {
+      "message": {
+        "MULTI_ITEM": "Do you want to purchase the selected items?",
+        "VOUCHER": "Do you want to purchase the selected voucher?"
+      },
+      "no": "No",
+      "title": "Confirm payment?",
+      "yes": "Yes"
+    },
+    "entryRestrictions": "Entry restrictions",
+    "error": {
+      "amount_too_large": "The specified amount is greater than the maximum amount allowed.",
+      "amount_too_small": "The specified amount is less than the minimum amount allowed.",
+      "approve_with_id": "The payment can't be authorized.",
+      "authentication_required": "The card was declined as the transaction requires authentication.",
+      "balance_insufficient": "The transfer or payout could not be completed because the associated account does not have a sufficient balance available.",
+      "call_issuer": "The card was declined for an unknown reason.",
+      "card_decline_rate_limit_exceeded": "This card has been declined too many times. You can try to charge this card again after 24 hours.",
+      "card_declined": "The card has been declined.",
+      "card_not_supported": "The card does not support this type of purchase.",
+      "card_velocity_exceeded": "The customer has exceeded the balance or credit limit available on their card.",
+      "currency_not_supported": "The card does not support the specified currency.",
+      "do_not_honor": "The card was declined for an unknown reason.",
+      "do_not_try_again": "The card was declined for an unknown reason.",
+      "duplicate_transaction": "A transaction with identical amount and credit card information was submitted very recently.",
+      "expired_card": "The card has expired.",
+      "fraudulent": "The payment was declined because Stripe suspects that it's fraudulent.",
+      "generic_decline": "The card was declined for an unknown reason.",
+      "incorrect_cvc": "The CVC number is incorrect.",
+      "incorrect_number": "The card number is incorrect.",
+      "incorrect_pin": "The PIN entered is incorrect.",
+      "incorrect_zip": "The postal code is incorrect.",
+      "insufficient_funds": "The card has insufficient funds to complete the purchase.",
+      "invalid_account": "The card, or account the card is connected to, is invalid.",
+      "invalid_amount": "The payment amount is invalid, or exceeds the amount that's allowed.",
+      "invalid_cvc": "The CVC number is incorrect.",
+      "invalid_expiry_month": "The expiration month is invalid.",
+      "invalid_expiry_year": "The expiration year is invalid.",
+      "invalid_number": "The card number is incorrect.",
+      "invalid_pin": "The PIN entered is incorrect.",
+      "issuer_not_available": "The card issuer couldn't be reached, so the payment couldn't be authorized.",
+      "lost_card": "The payment was declined because the card is reported lost.",
+      "merchant_blacklist": "The payment was declined because it matches a value on the Stripe user's block list.",
+      "missing": "Please check your payment data.",
+      "new_account_information_available": "The card, or account the card is connected to, is invalid.",
+      "no_action_taken": "The card was declined for an unknown reason.",
+      "not_permitted": "The payment isn't permitted.",
+      "NOTENOUGHSEATS": "There are not enough available seats meeting the selected criteria.",
+      "offline_pin_required": "The card was declined because it requires a PIN.",
+      "online_or_offline_pin_required": "The card was declined as it requires a PIN.",
+      "pickup_card": "The customer can't use this card to make this payment (it's possible it was reported lost or stolen).",
+      "pin_try_exceeded": "The allowable number of PIN tries was exceeded.",
+      "processing_error": "An error occurred while processing the card.",
+      "reenter_transaction": "The payment couldn't be processed by the issuer for an unknown reason.",
+      "restricted_card": "The customer can't use this card to make this payment (it's possible it was reported lost or stolen).",
+      "revocation_of_all_authorizations": "The card was declined for an unknown reason.",
+      "revocation_of_authorization": "The card was declined for an unknown reason.",
+      "security_violation": "The card was declined for an unknown reason.",
+      "service_not_allowed": "The card was declined for an unknown reason.",
+      "setup_intent_authentication_failure": "The provided payment method has failed authentication. Provide a new payment method.",
+      "stolen_card": "The payment was declined because the card is reported stolen.",
+      "stop_payment_order": "The card was declined for an unknown reason.",
+      "testmode_decline": "A Stripe test card number was used.",
+      "title": "Error",
+      "transaction_not_allowed": "The card was declined for an unknown reason.",
+      "try_again_later": "The card was declined for an unknown reason.",
+      "withdrawal_count_limit_exceeded": "The customer has exceeded the balance or credit limit available on their card."
+    },
+    "generic": {
+      "entryRestrictionLink": "Covid-19 safety informations",
+      "entryRestrictionText": "Please note the current entry conditions of the organizer.",
+      "title": "Payment"
+    },
+    "legal": {
+      "accept-tos": "Accept Terms of Service",
+      "agb": {
+        "firstparty": {
+          "1": "The",
+          "2": "terms and conditions",
+          "3": "of {{legalName}} apply."
+        },
+        "partner": {
+          "text": {
+            "1": "In addition to the",
+            "2": "terms and conditions",
+            "3": "of {{legalName}}, the",
+            "4": "terms and conditions",
+            "5": "of the host apply."
+          }
+        }
+      },
+      "agbheader": "Terms of service and privacy policy",
+      "agbp": {
+        "1": "The purchase will be carried out on behalf and account to {{legalName}}.",
+        "2": "With the purchase I agree that my data is disclosed to {{legalName}}."
+      },
+      "betimely": "Please arrive on time. We cannot guarantee admission after the beginning of the event.",
+      "checkfaqp1": "Maybe our",
+      "checkfaqp2": "FAQ",
+      "checkfaqp3": "can help.",
+      "details": "Details",
+      "foreign-charge": "Please note, the this app is made in partnership with an Austrian company and your order will be charged from Ticket Gretchen Wien Aut you will not be charged any additional fees.",
+      "partner": {
+        "address": "Address",
+        "email": "E-mail",
+        "newsletter1": "I would like to receive offers and information from the venue ",
+        "newsletter2": " via e-mail.",
+        "phone": "Phone"
+      },
+      "partneraccept1": "I agree that my data is disclosed to the partner venue ",
+      "partneraccept2": ".",
+      "partnertransfer": {
+        "title": "Disclosure agreement"
+      },
+      "questionsleft": "Further questions?",
+      "refund": "Please be aware that this order cannot be cancelled or changed.",
+      "terms-and-conditions": "I confirm that I have read the terms and conditions and accept them."
+    },
+    "missing-payment-method": {
+      "message": "Please select a payment method."
+    },
+    "official-partner": "Official Payment Partner",
+    "options": {
+      "bluecode": {
+        "label": "Bluecode",
+        "text": "You will be forwarded to Bluecode after your order was confirmed."
+      },
+      "creditcard": {
+        "cardnumber": "Card number",
+        "continue-purchase": "Continue purchase",
+        "cvc": "CVC",
+        "delete": "Really delete card?",
+        "expiration": "Valid until {{expiration}}",
+        "expired": "expired",
+        "label": "Credit card",
+        "month": "Month",
+        "remember": "Save credit card to my account",
+        "save": "Save credit card",
+        "state": "State",
+        "states": {
+          "ACTIVE": "Active",
+          "INACTIVE": "Inactive"
+        },
+        "toast": {
+          "custom": {
+            "missing": "Please enter your credit card data or choose a different payment method.",
+            "partlyfilledin": "Please check your credit card data."
+          },
+          "expired": {
+            "message": "This credit card has expired. Please add another one."
+          },
+          "message": "Please check your credit card data.",
+          "payone": {
+            "error": {
+              "1076": "Please check your credit card number.",
+              "1077": "Please check the expiry date of your credit card.",
+              "1078": "Please check your credit card number.",
+              "1079": "Please check the CVC",
+              "33": "Please check the expiry date of your credit card.",
+              "877": "Please check your credit card number."
+            }
+          },
+          "title": "Error"
+        },
+        "year": "Year"
+      },
+      "paypal": {
+        "label": "PayPal",
+        "text": "You will be forwarded to PayPal after your order was confirmed."
+      },
+      "sofort": {
+        "choosecountry": "Please choose your country",
+        "confirm": {
+          "message": "Please choose your country",
+          "title": "Sofort banking"
+        },
+        "country": "Country",
+        "countrycodes": {
+          "AT": "Austria",
+          "BE": "Belgium",
+          "CH": "Switzerland",
+          "DE": "Germany",
+          "ES": "Spain",
+          "IT": "Italy",
+          "NL": "Netherlands"
+        },
+        "label": "Sofortüberweisung",
+        "text": "You will be forwarded to Sofort banking after your order was confirmed."
+      },
+      "title": "Payment method"
+    },
+    "progress": {
+      "button": {
+        "back": "Go back to ticket selection",
+        "retry": "Close and try again"
+      },
+      "COMPLETED": {
+        "COMPLETED": {
+          "MULTI_ITEM": "Booking successful",
+          "PACKAGE": "Booking successful",
+          "VOUCHER": "Booking successful"
+        },
+        "FAILED": {
+          "MULTI_ITEM": "Failed booking",
+          "PACKAGE": "Failed booking",
+          "VOUCHER": "Failed booking"
+        },
+        "INPROGRESS": {
+          "MULTI_ITEM": "Booking successful",
+          "PACKAGE": "Booking successful",
+          "VOUCHER": "Booking successful"
+        }
+      },
+      "FINALIZEPAYMENT": {
+        "COMPLETED": {
+          "MULTI_ITEM": "Payment processed successfully",
+          "PACKAGE": "Payment processed successfully",
+          "VOUCHER": "Payment processed successfully"
+        },
+        "FAILED": {
+          "MULTI_ITEM": "Error processing payment",
+          "PACKAGE": "Error processing payment",
+          "VOUCHER": "Error processing payment"
+        },
+        "INPROGRESS": {
+          "MULTI_ITEM": "Processing payment",
+          "PACKAGE": "Processing payment",
+          "VOUCHER": "Processing payment"
+        }
+      },
+      "ORDERPARTNER": {
+        "COMPLETED": {
+          "MULTI_ITEM": "Order successful",
+          "PACKAGE": "Tickets issued successfully",
+          "VOUCHER": "Voucher issued successfully"
+        },
+        "FAILED": {
+          "MULTI_ITEM": "Order could not be processed",
+          "PACKAGE": "Tickets could not be issued",
+          "VOUCHER": "Voucher could not be issued"
+        },
+        "INPROGRESS": {
+          "MULTI_ITEM": "Processing order",
+          "PACKAGE": "Issuing tickets",
+          "VOUCHER": "Issuing voucher"
+        }
+      },
+      "ORDERTG": {
+        "COMPLETED": {
+          "MULTI_ITEM": "Booking transferred successfully",
+          "PACKAGE": "Booking transferred successfully",
+          "VOUCHER": "Booking transferred successfully"
+        },
+        "FAILED": {
+          "MULTI_ITEM": "The booking could not be transferred successfully",
+          "PACKAGE": "The booking could not be transferred successfully",
+          "VOUCHER": "The booking could not be transferred successfully"
+        },
+        "INPROGRESS": {
+          "MULTI_ITEM": "Transferring booking",
+          "PACKAGE": "Transferring booking",
+          "VOUCHER": "Transferring booking"
+        }
+      },
+      "PREAUTHORIZEPAYMENT": {
+        "COMPLETED": {
+          "MULTI_ITEM": "Payment data validated",
+          "PACKAGE": "Payment data validated",
+          "VOUCHER": "Payment data validated"
+        },
+        "FAILED": {
+          "MULTI_ITEM": "Could not proceed to check-out",
+          "PACKAGE": "Could not proceed to check-out",
+          "VOUCHER": "Could not proceed to check-out"
+        },
+        "INPROGRESS": {
+          "MULTI_ITEM": "Validating payment data",
+          "PACKAGE": "Validating payment data",
+          "VOUCHER": "Validating payment data"
+        },
+        "WAITINGEXTERNAL_REDIRECTED": {
+          "MULTI_ITEM": "Waiting for payment provider",
+          "PACKAGE": "Waiting for payment provider",
+          "VOUCHER": "Waiting for payment provider"
+        }
+      },
+      "RESERVATIONPARTNER": {
+        "COMPLETED": {
+          "MULTI_ITEM": "Booking transferred successfully",
+          "PACKAGE": "Booking transferred successfully",
+          "VOUCHER": "Booking transferred successfully"
+        },
+        "FAILED": {
+          "MULTI_ITEM": "The booking could not be transferred successfully",
+          "PACKAGE": "The booking could not be transferred successfully",
+          "VOUCHER": "The booking could not be transferred successfully"
+        },
+        "INPROGRESS": {
+          "MULTI_ITEM": "Transferring booking",
+          "PACKAGE": "Transferring booking",
+          "VOUCHER": "Transferring booking"
+        }
+      },
+      "RESERVATIONTG": {
+        "COMPLETED": {
+          "MULTI_ITEM": "Booking transferred successfully",
+          "PACKAGE": "Booking transferred successfully",
+          "VOUCHER": "Booking transferred successfully"
+        },
+        "FAILED": {
+          "MULTI_ITEM": "The booking could not be transferred successfully",
+          "PACKAGE": "The booking could not be transferred successfully",
+          "VOUCHER": "The booking could not be transferred successfully"
+        },
+        "INPROGRESS": {
+          "MULTI_ITEM": "Transferring booking",
+          "PACKAGE": "Transferring booking",
+          "VOUCHER": "Transferring booking"
+        }
+      },
+      "SENDTICKETS": {
+        "COMPLETED": {
+          "MULTI_ITEM": "Email sent",
+          "PACKAGE": "Email sent",
+          "VOUCHER": "Email sent"
+        },
+        "FAILED": {
+          "MULTI_ITEM": "Error sending email",
+          "PACKAGE": "Error sending email",
+          "VOUCHER": "Error sending email"
+        },
+        "INPROGRESS": {
+          "MULTI_ITEM": "Sending email",
+          "PACKAGE": "Sending email",
+          "VOUCHER": "Sending email"
+        }
+      },
+      "server": {
+        "EMAIL_ALREADY_IN_USE": "This email address is already registered with our partner. Please contact our support team for assistance.",
+        "INVALIDRESERVATION": "The session has expired. Please reselect your seats.",
+        "MAILERROR": "MAILERROR",
+        "NETWORKERROR": "A network error occurred during the booking process.",
+        "NOTENOUGHSEATS": "There are not enough available seats meeting the selected criteria.",
+        "PAYMENTABORTEDPREAUTHORIZATION": "Authorisation cancelled.",
+        "PAYMENTDATANOTVALID": "Payment data could not be verified.",
+        "PAYMENTEXPIRED": "Your chosen payment method has expired.",
+        "PAYMENTNOSUFFICIENTFUNDS": "The open balance has not been approved by the payment provider.",
+        "PAYMENTNOTCAPTURED": "Payment could not be processed successfully.",
+        "PAYMENTNOTPREAUTHORIZED": "Payment could not be confirmed. Please check your payment data.",
+        "PERFORMANCENOTBOOKABLE": "The event is currently unavailable.",
+        "PROMONOTAPPLICABLE": "Ooops! The selected promotion is not available anymore.",
+        "PROMOTIONNOTAPPLICABLE": "Ooops! The selected promotion is not available anymore.",
+        "SCHEDULINGERROR": "Unfortunately, starting the booking process failed.",
+        "SEATSUNAVAILBLEWHILESWAPPING": "The promotion could not be activated.",
+        "SESSIONEXPIRED": "The booking has not been confirmed.",
+        "UNKNOWNERROR": "An unknown error has occurred."
+      }
+    }
+  },
+  "performance": {
+    "age": "Rated:",
+    "alert": {
+      "errormsg": "Could not create reminder. Try again.",
+      "presaleInFuture": {
+        "at": "at {{time}}",
+        "special": "Your early presale starts on {{date}}",
+        "text": "Presale from {{date}}"
+      },
+      "successmsg": "Reminder successfully created.",
+      "text": "We will notify you as soon as tickets for this event become available.",
+      "title": "Remind Me"
+    },
+    "alternatives": {
+      "alert": {
+        "continue": "Continue with booking",
+        "gotoalternative": "Show alternatives",
+        "text": "This event is also available as part of a package and in combination tickets."
+      }
+    },
+    "attendance": {
+      "plural": {
+        "attending": "are attending",
+        "FRIENDS": "friends",
+        "GENERAL": "persons",
+        "interested": "are interested"
+      },
+      "singular": {
+        "attending": "is attending",
+        "FRIENDS": "friend",
+        "GENERAL": "person",
+        "interested": "is interested"
+      }
+    },
+    "audio-sample": "Audio sample",
+    "available-dates": "Available dates",
+    "available-dates-count": {
+      "plural": "{{count}} available dates",
+      "singular": "{{count}} available date"
+    },
+    "backticket": "Ticket",
+    "book": "CHOOSE TICKETS",
+    "bookable": {
+      "generalpresale": "General presale starts on {{date}}",
+      "specialpresale": "Exclusive presale<br>{{date}}",
+      "specialpresale-started": "Exclusive presale",
+      "subtitle": "Purchase tickets at current prices"
+    },
+    "booktickets": "Book tickets",
+    "calendar": "Calendar",
+    "comments": "Ratings & comments",
+    "concertProgram": "Concert program",
+    "dateselection": "Date selection",
+    "description": "Description",
+    "duration": "Running time",
+    "fees": "Incl. {{price}} fees",
+    "footer": {
+      "price": "Price from"
+    },
+    "from": "from",
+    "linked-events": {
+      "title": "You might be interested in"
+    },
+    "list": {
+      "noevents": "There are currently no events available."
+    },
+    "loaderrordescription": "Oops! An error occurred loading the event.",
+    "loaderrorheader": "Error loading content",
+    "location": "Location",
+    "lottery": {
+      "active": "Your're in the Lottery",
+      "available": "Lottery tickets available",
+      "completed": "Tickets secured",
+      "promoTag": "Lottery",
+      "waiting": "Payment needed"
+    },
+    "lowontickets": {
+      "1": "High demand:",
+      "2": "Few tickets remaining"
+    },
+    "more": "more",
+    "moredates": {
+      "1": "All",
+      "2": "dates"
+    },
+    "norating": "No rating available.",
+    "noseatplan": "Unfortunately there is no seating plan available for this event",
+    "not-bookable": {
+      "already-chosen": "Already selected",
+      "event-past": "Event currently not available",
+      "event-past-short": "Not available",
+      "event-sold-out": "Sold out",
+      "event-sold-out-alert": "Sold out - remind me",
+      "external": "Open website",
+      "long": "Not bookable - please select date",
+      "no-performance": "Please select date",
+      "performance-almost-sold-out": "Few remaining",
+      "performance-sold-out": "Sold out",
+      "presale-in-future": "Booking from {{date}}",
+      "short": "Not bookable"
+    },
+    "opencalendar": {
+      "1": "Open",
+      "2": "calendar"
+    },
+    "otherperformances": "Next dates",
+    "package-info": {
+      "alert-package-only": {
+        "cancel": "Back",
+        "continue": "ok",
+        "text": "This event is only available as part of a package."
+      },
+      "alert": {
+        "continue": "Continue with booking",
+        "dismissforever": "Don't show anymore",
+        "gotoalternative": "Show package(s)",
+        "text": "This event is also available as part of a package."
+      },
+      "component": {
+        "show": {
+          "multiple": "Available in these packages",
+          "single": "Available in this package"
+        }
+      },
+      "modal": {
+        "show": {
+          "choose": "Configure package",
+          "fix": "Book package"
+        },
+        "title": "Available packages"
+      }
+    },
+    "performance-alerts": {
+      "alert-for": "Alert for",
+      "alert": {
+        "allDates": "All future dates",
+        "message": "For which dates would you like to be notified?",
+        "promotionHeader": "{{promotionLabel}} alert",
+        "seatHeader": "Alert for tickets",
+        "toggleSelection": "Toggle selection"
+      },
+      "all": {
+        "alert-dates-active": "all future dates active"
+      },
+      "editReminder": "Edit alert",
+      "permissions": {
+        "alert": {
+          "header": "Attention",
+          "message": "Without the permissions we cannot notify you about available seats.",
+          "reject": "Reject"
+        },
+        "message": "To notify you, we need some permissions.",
+        "title": "Permissions needed"
+      },
+      "plural": {
+        "alert-dates-active": "{{alertCount}} dates active"
+      },
+      "promotionReminder": "{{promotionLabel}} alert",
+      "seatReminder": "Alert",
+      "singular": {
+        "alert-dates-active": "{{alertCount}} date active"
+      }
+    },
+    "persons": "Cast",
+    "popular": "Popular",
+    "popup": {
+      "choosedate": {
+        "no": "Back",
+        "title": "There is more than one performance on this date:",
+        "yes": "Continue"
+      }
+    },
+    "presale": {
+      "at": "at {{time}}",
+      "text": "Presale for this performance starts on {{date}}",
+      "title": "Presale"
+    },
+    "presaleStart": "Presale starts now!",
+    "price": "Pricing",
+    "pricelist": {
+      "extendedtitle": "and Promotions",
+      "promotions": {
+        "availabledates": "Available for these dates",
+        "toast": {
+          "choosedate": "Choose",
+          "title": "Available dates"
+        }
+      },
+      "title": "Price list"
+    },
+    "promotion": {
+      "info": "More information"
+    },
+    "promotions": {
+      "available": "Discounted tickets available"
+    },
+    "purchasable-event-info": {
+      "alert": {
+        "continue": "Continue with booking",
+        "gotoalternative": "Show alternatives",
+        "text": "This event is also available in combination tickets."
+      },
+      "title": "Purchase options"
+    },
+    "rating": {
+      "alert": {
+        "norating": "Please choose between 1 and 5 stars."
+      },
+      "form": {
+        "comment": "Comment:",
+        "note": "Other users only see your firstname.",
+        "placeholder": "Leave a comment",
+        "send": "Send",
+        "title": "Give your comment a title:"
+      },
+      "noratings": "Be the first to rate it!",
+      "report": {
+        "data": {
+          "comment": "Rating's comment",
+          "date": "Date of the rating",
+          "eventId": "Event ID",
+          "rating": "Star rating",
+          "title": "Rating's title",
+          "userId": "User ID"
+        }
+      },
+      "shorttitle": "Ratings",
+      "title": "Comments & Ratings",
+      "toast": {
+        "error": "Something went wrong. Please try again later.",
+        "removed": "Your comment was successfully removed.",
+        "success": "Your rating has been added. Thank you!"
+      },
+      "write": "Rate now"
+    },
+    "read-synopsis": "Read synopsis",
+    "readdescription": "Description",
+    "seat-states-description": {
+      "ENOUGH": "This performance has enough tickets available",
+      "FULL": "This performance is sold out",
+      "IRRELEVANT": "This performance is not available anymore",
+      "LOW": "This performance is popular and has only a few seats available"
+    },
+    "seat-states": {
+      "ENOUGH": "Tickets available",
+      "FULL": "Sold out",
+      "IRRELEVANT": "Tickets available",
+      "LOW": "Few tickets"
+    },
+    "seatplan": "Seating Plan",
+    "segments": {
+      "0": "Next dates",
+      "1": "Calendar"
+    },
+    "shareevent": "Share the event",
+    "sharewithcommunity": "Share with Community",
+    "showcast": "Show cast",
+    "showpressreview": "Press reviews",
+    "sold-out": "Sold out",
+    "suggestions": "You might like this",
+    "synopsis": "Synopsis",
+    "tabs": {
+      "dates": "SELECT PERFORMANCE",
+      "info": "SYNOPSIS",
+      "media": "MEDIA"
+    },
+    "thumbnail": "Video Thumbnail",
+    "ticketsavailable": "Tickets from",
+    "toast": {
+      "favourites": {
+        "add": "Added to wish list",
+        "error": "Error! Please try again later",
+        "remove": "Removed from wish list"
+      },
+      "nextbookable": {
+        "full": "The performance on {{oldDate}} is fully booked. But there are still seats available on {{newDate}}!",
+        "presalesend": "The performance on {{oldDate}} is not bookable anymore. But there are still seats available on {{newDate}}!"
+      }
+    },
+    "video": "Video"
+  },
+  "permissions": {
+    "alert": {
+      "denied": {
+        "cancel": "Cancel",
+        "header": "Permission denied",
+        "message": "To use this feature, you need to grant the permissions for {{permissions}}.",
+        "settings": "Go to settings"
+      }
+    },
+    "calendar": "Calendar",
+    "camera": "Camera",
+    "photos": "Photos",
+    "push": "Push notifications"
+  },
+  "Personalausweis": "Government-issued ID card",
+  "preorder": {
+    "status": {
+      "CANCELLED": {
+        "description": "You've withdrawn your participation from the lottery.",
+        "title": "Cancelled"
+      },
+      "COMPLETED": {
+        "description": "You can find your tickets in the My Tickets section.",
+        "title": "Tickets secured"
+      },
+      "FAILED": {
+        "title": "Error"
+      },
+      "IN_PROGRESS": {
+        "description": "The lottery is currently taking place.",
+        "title": "In lottery"
+      },
+      "NEW": {
+        "description": "Until the lottery has started, you can still withdraw your participation and toggle the automatic payment on and off.",
+        "title": "In lottery"
+      },
+      "NO_REACTION": {
+        "description": "You only have limited time to complete your purchase. You can use automatic payment to secure your tickets next time.",
+        "title": "Missed payment window"
+      },
+      "NOT_EXECUTABLE": {
+        "description": "You didn't have luck this time.",
+        "title": "Lost"
+      },
+      "WAITING_FOR_USER": {
+        "description": "You've won the lottery! Complete your purchase now.",
+        "title": "Payment needed"
+      }
+    },
+    "time-left-payment": {
+      "days": "{{days}} Days,",
+      "hours": "{{hours}} Hours,",
+      "minutes": "{{minutes}} Minutes,",
+      "warning": "{{seconds}} Seconds to checkout and secure your seats"
+    }
+  },
+  "promotion": {
+    "cart-promotion": {
+      "message": "This promotion will automatically enabled once the requirements are fullfilled.",
+      "title": "Information",
+      "toast": "{{promotionLabel}} has overridden your current selection"
+    },
+    "highlight": {
+      "info": "{{label}} will be automatically applied."
+    },
+    "required-promotion": {
+      "header": "Required Promotion",
+      "message": {
+        "promotion-plural": "Tickets for this event can only be booked with one of the following promotions: {{promotionLabels}}",
+        "promotion-singular": "Tickets for this event can only be booked with the following promotion: {{promotionLabels}}"
+      }
+    }
+  },
+  "push": {
+    "alert": {
+      "title": "Never miss out!"
+    },
+    "message": {
+      "question": "Would you like to check out the event?",
+      "title": "Push-Notification"
+    },
+    "text": {
+      "0": "Receive Notifications:",
+      "1": "In time for the ",
+      "1-1": "start of advance booking",
+      "2": "At special ",
+      "2-2": "offers",
+      "3": "As a reminder for ",
+      "3-3": "premieres",
+      "4": "Do you want to use this service free of charge?"
+    }
+  },
+  "qr": {
+    "not-available": "The QR code scanner is not available at the moment.",
+    "title": "Scan QR code"
+  },
+  "quotas": {
+    "default": {
+      "button": "Find tickets",
+      "description": "Book tickets at the regular price without a specific membership.",
+      "title": "Regular tickets"
+    },
+    "description": "Choose whether you want to book a full-price ticket or a reduced-price ticket as a member of our low-price ticket program.",
+    "error": {
+      "header": "An error occurred while loading the booking options.",
+      "message": "Please try again later."
+    },
+    "getaccess": "Get access",
+    "title": "Booking options"
+  },
+  "received-tickets": {
+    "description": "See the tickets your friends are sharing and join them with a tap.",
+    "empty": {
+      "description": "When someone shares a ticket with you, it will appear here.",
+      "title": "No tickets shared with you"
+    },
+    "failed-to-fetch-received-orders": "Unfortunately, the tickets you've received from others could not be loaded. If the problem persists, please contact our support.",
+    "shared-with-you": "shared a ticket with you",
+    "title": "Tickets from friends"
+  },
+  "referral": {
+    "alreadyregistered": {
+      "message": "You are already registered and therefor are not entitled to a reward",
+      "title": "Welcome back!"
+    },
+    "copy": {
+      "code": "Copy",
+      "message": "Code copied"
+    },
+    "creditlabel": {
+      "receiver": "Welcome bonus from",
+      "sender": "Referral bonus from"
+    },
+    "creditsreceived": {
+      "message": "Yay! The welcome bonus will be deducted automatically at your first ticket purchase.",
+      "title": "Welcome"
+    },
+    "error": {
+      "unknown": "An unexpected error occured"
+    },
+    "info": {
+      "both": "Invite your friends to use the {{appName}} app and both receive {{rewardSender}} credit for your next ticket purchases.<br/><br/>You can redeem your bonus as soon as your friends have completed their first purchase.<br/><br/>Only applies to the referral of new customers (one invitation per registered user, independent from downloads and installed devices). Redeemable for order values of at least {{minimumPayment}}. A maximum of {{maxUsesPerLink}} invites per user.",
+      "sender": "Invite your friends to use the {{appName}} app and receive {{rewardSender}} credit for your next ticket purchase for every new customer you have referred.<br/><br/>You can redeem your bonus as soon as your friends have completed their first purchase.<br/><br/>Only applies to the referral of new customers (one invitation per registered user, independent from downloads and installed devices). Redeemable for order values of at least {{minimumPayment}}. A maximum of {{maxUsesPerLink}} invites per user.",
+      "title:": "Details"
+    },
+    "invite": {
+      "at_w_josefstadt": "Josefstadt App",
+      "cc": "ClassicCard",
+      "description": {
+        "default": "Invite your friends to {{appName}}. For every successfully invited new customer you will both receive a credit of <b>{{rewardSender}}</b>.",
+        "different": "Invite your friends to {{appName}}. For every successfully invited new customer you will receive a credit of <b>{{rewardSender}}</b>. And your friends get <b>{{rewardReceiver}}.</b>",
+        "senderonly": "Invite your friends to {{appName}}. For every successfully invited new customer you will receive a credit of <b>{{rewardSender}}</b>."
+      },
+      "email": "SEND E-MAIL",
+      "generic": "Invite friends",
+      "header": "Receive a voucher for every referred friend!",
+      "moreinfo": "How invitations work",
+      "other": "Share on Social Media",
+      "sms": "SMS",
+      "tgapp": "Ticket Gretchen",
+      "trackingdisabled": "To invite friends you have to enable 'Personalized recommendations'.",
+      "whatsapp": "WHATSAPP"
+    },
+    "landingpage": {
+      "description": "We are thrilled that you have accepted the invitation of {{createdBy}}! Tell us your e-mail address - your discount amounting to {{rewardReceiver}} will be deducted automatically at your first ticket purchase.",
+      "getCredit": "Register and secure voucher",
+      "header": "Hooray & welcome!",
+      "skip": "Skip"
+    },
+    "permission-only": {
+      "message": {
+        "not-registered": "We are thrilled that you have accepted the invitation of {{createdBy}}! Register now to add {{createdBy}} to your contacts.",
+        "registered": "{{createdBy}} has been added to your contacts."
+      },
+      "title": "Welcome"
+    },
+    "share": "Invite now",
+    "skipwarn": {
+      "message": {
+        "no-credit-receiver": "In order to secure your welcome bonus you need to register. Do you want to register now?",
+        "no-credit-sender": "In order for your friend to receive the bonus after your first purchase, please register now."
+      },
+      "title": "Watch out"
+    },
+    "title": "Invite friends"
+  },
+  "regions": {
+    "change": "Change region",
+    "save": "Save",
+    "select": "Choose region"
+  },
+  "Reisepass": "Passport",
+  "search": {
+    "footer": {
+      "button": "What are you looking for?",
+      "label": "Haven't found what you're looking for?"
+    },
+    "noresults": "No results",
+    "recently": "Recent searches:"
+  },
+  "seatplan": {
+    "algorithms": {
+      "error": {
+        "not-loaded": {
+          "loaded-try-again": "Important update installed! Please reselect your seats.",
+          "not-loaded-restart": "Important update could not be installed! Please check your internet connection and restart the app if necessary."
+        },
+        "notenoughspace": {
+          "default": "There are not enough free seats in this segment.",
+          "EAST": "There are not enough free seats in this segment. Remember that there has to be a free seat to keep enough distance",
+          "EAST_WEST": "There are not enough free seats in this segment. Remember that there must be a free seat on both sides to keep enough distance.",
+          "WEST": "There are not enough free seats in this segment. Remember that there has to be a free seat to keep enough distance"
+        }
+      }
+    },
+    "back-to-overview": "Back to overview",
+    "context-menu": {
+      "title": "Ticket options"
+    },
+    "error": {
+      "ACCESS_DENIED": "Unfortunately, you do not have the necessary permissions.",
+      "CONTINGENTEXCEEDED": "Unfortunately, there are no seats available at the moment. The ticket limit for this event has been reached.",
+      "CUSTOMER_CONTINGENT_EXCEEDED": "The maximum quantity of seats for the customer and this priceType has been exceeded.",
+      "loading": "We are loading the most current data from our partner. This can take a few moments.",
+      "NOTENOUGHSEATS": "There are not enough tickets available in the selected category.",
+      "SEATNOTAVAILABLE": "Oops! Unfortunately someone just snatched away your tickets. Please select again.",
+      "SECTOR_NOT_LOADED": "This section of the seating plan could not be loaded. Please try again.",
+      "title": "Error loading",
+      "unknown": "Whoops! There has been an error loading the seating plan. Please try again later. Thank you!"
+    },
+    "level-select": {
+      "change-label": "Change section",
+      "close-label": "Close",
+      "overview-label": "Overview"
+    },
+    "persons": {
+      "alert": {
+        "header": "Please let us know how many people will go to the theater with you!",
+        "message": "You can of course change that at any time.",
+        "radio-label": {
+          "plural": "{{number}} Persons",
+          "singular": "{{number}} Person"
+        }
+      },
+      "label": "Ticket(s)",
+      "title": "Number of tickets"
+    },
+    "price-range-slider": {
+      "label": "Price range slider"
+    },
+    "promotionoverlay": {
+      "prices": "Price List",
+      "promotions": "Promotion",
+      "quotas": "Quotas",
+      "seat-types": {
+        "ada-seat": "ADA seat",
+        "available-seat": "Available seat",
+        "companion-seat": "Companion seat",
+        "partialview-seat": "Partial view",
+        "removable-armrest": "Removable armrest",
+        "title": "Seat Types",
+        "unavailable-seat": "Unavailable seat"
+      },
+      "show-seats": "Show seats"
+    },
+    "seat-popover": {
+      "acknowledgement": {
+        "ARMREST": "I acknowledge that this seat has a removable arm rest.",
+        "PARTIAL": "I acknowledge that this seat has partial view.",
+        "WHEELCHAIR": "I acknowledge that this seat is wheelchair accessible only.",
+        "WHEELCHAIRCOMP": "I acknowledge that this seat is a companion seat to the adjacent wheelchair seat.",
+        "WHEELCHAIRORCOMP": {
+          "seat": "I prefer to transfer to my seat",
+          "wheelchair": "I prefer to remain in my wheelchair"
+        }
+      },
+      "description": {
+        "ARMREST": "This seat has a removable arm rest.",
+        "PARTIAL": "This seat has a limited view of the stage.",
+        "WHEELCHAIR": "There is not a seat in this location. This space is reserved for patrons who wish to remain seated in their wheelchairs.",
+        "WHEELCHAIRCOMP": "This seat is for the guests of patrons with disabilities or patrons with disabilities who use mobility devices other than wheelchairs. This location is NOT wheelchair accessible.",
+        "WHEELCHAIRORCOMP": "Please let us know if you intend to remain seated in your wheelchair or if you would like to transfer into the existing theatre seat."
+      },
+      "select-button": "Select seat"
+    },
+    "stage": "Stage",
+    "ticketsummary": {
+      "emptycart": "Cart is empty",
+      "label": {
+        "plural": "Tickets",
+        "singular": "Ticket"
+      },
+      "total": "Total:"
+    },
+    "toast": {
+      "notickets": {
+        "message": "Select seats on the seating plan to add them to your cart.",
+        "title": "Cart is empty"
+      },
+      "package": {
+        "toolittle": "Please choose {{number}} ticket(s)."
+      },
+      "toomanytickets": {
+        "message": "You already have the maximum of {{number}} ticket(s) in your cart."
+      }
+    }
+  },
+  "share": {
+    "error": {
+      "subTitle": "Oh no! Unfortunately, the sharing didn't work.",
+      "title": "Error sharing."
+    },
+    "performance": {
+      "message": "Just found on {{appName}} App - {{hostName}}: {{eventName}} | {{link}}"
+    },
+    "referral": {
+      "contentDescription": "{{name}} has invited you to {{appName}} App.",
+      "message": {
+        "1": "{{name}} has invited you to {{appName}} App.",
+        "2": " When you register in the app, you will automatically receive a credit of {{rewardReceiver}} on your first ticket purchase.",
+        "3": " Download the app via this link: {{link}}",
+        "4": " | Alternatively you can enter this code ({{inviteCode}}) as a voucher."
+      },
+      "subject": "Personal invitation to the {{appName}}",
+      "title": "Invite friends"
+    },
+    "ticket": {
+      "error": {
+        "stop": {
+          "subTitle": "Something went wrong while canceling the ticket invite.",
+          "title": "Couldn't cancel invite"
+        },
+        "subTitle": "Oh no! Unfortunately, the sharing didn't work.",
+        "title": "Error sharing ticket."
+      },
+      "greetings": "Best regards, {{senderName}}",
+      "message": "Hi, please find attached a ticket for {{eventName}} | {{performanceTime}}. Check {{link}} for more information. Best regards, {{senderName}}. Sent from my {{appName}} App. | {{websiteUrl}}",
+      "signature": "Sent from my {{appName}} App. | {{websiteUrl}}",
+      "subject": "A Ticket for {{eventName}}",
+      "wallet": "You can also conveniently add the ticket to your Google Wallet using this link: {{link}}"
+    }
+  },
+  "shared-orders": {
+    "description": "The tickets you've shared with friends.",
+    "empty": {
+      "description": "When you share tickets with others, they'll appear here.",
+      "title": "You're not sharing any tickets"
+    },
+    "failed-to-fetch-shared-orders": "Unfortunately, the shared tickets could not be loaded. If the problem persists, please contact our support.",
+    "shared-with": "Shared with:",
+    "shared-with-plural": "Shared {{ count }} tickets with:",
+    "title": "Shared Tickets"
+  },
+  "specialcode": {
+    "add": "Add voucher or promotion code",
+    "available": "Your credits",
+    "button": {
+      "validate": "Redeem"
+    },
+    "credits": {
+      "added": "Voucher added",
+      "expiration": "Valid until {{expiration}}",
+      "minimum": "This voucher is only valid from a ticket order value of {{amount}}",
+      "minimumShort": "Minimum ticket order: {{minimum}}",
+      "removed": "Voucher removed"
+    },
+    "error": {
+      "subTitle": "Please note the following conditions:",
+      "title": "Promotion code is not applicable"
+    },
+    "info": "The credit is automatically deducted on the payment page.",
+    "nocredits": "You have no active credits.",
+    "permission": {
+      "toast": "Friend added"
+    },
+    "placeholder": "Enter code",
+    "popup": {
+      "anotherpromotion": "This promotion code is not combinable with your current promotion. Do you want to activate it anyway and override you current selection?",
+      "entercode": "Please enter your code in the field.",
+      "ispromocode": "Please enter this promotion code on the payment page. Thank you!",
+      "notapplicable": "Packages can not be combined with promotional codes.",
+      "notapplicable-referral": "You can not enter a promotion or voucher code here.",
+      "success": "Promotion code added",
+      "title": "Promotion code"
+    },
+    "promotion": {
+      "adjustmanually": "Adjust",
+      "fullyapplied": "The promotion code was successfully applied.",
+      "multiplepromotions": "There are multiple promotions available.",
+      "notapplied": "The promotion code could not be applied. You can adjust the tickets individually.",
+      "partiallyapplied": "Promo code could not be applied to all tickets. Adjust tickets individually."
+    },
+    "show-valid-performances": "Show valid performances",
+    "title": "Credits"
+  },
+  "subscription-group": {
+    "aria-label": {
+      "not-selected": "{{subscriptionName}} not selected",
+      "selected": "{{subscriptionName}} selected"
+    },
+    "toast": {
+      "add-membership": {
+        "error": "The membership could not be added. Please try again later."
+      },
+      "remove-membership": {
+        "error": "The membership could not be removed. Please try again later."
+      }
+    }
+  },
+  "subscription": {
+    "failReason": {
+      "ALREADACTIVE": "You are already registered.",
+      "DATAUSEDTWICE": "The data is already linked to another {{appName}} account.",
+      "DOCNOTIDENTIFIED": "The ID you provided could not be recognized. Please make sure that the ID is clearly visible.",
+      "DOCNOTVALID": "The ID you provided is invalid. Please check your ID for the expiration date etc.",
+      "DOCUSEDTWICE": "This ID is already linked to another {{appName}} account.",
+      "MEMREJECT": "The registration has been rejected.",
+      "NONAMEMATCH": "The data on your ID does not match this {{appName}} account.",
+      "NOTSUPPORTEDDOCTYPE": "Your ID is not supported yet. Please scan one of the accepted IDs.",
+      "TOOMANYREQUEST": "Thanks for trying again. Unfortunately something didn't work out as expected. We'll look at the problem!",
+      "TOOOLD": "Unfortunately, you have already exceeded the maximum age for this discount.",
+      "TOOYOUNG": "Unfortunately, you have not yet reached the minimum age for this discount.",
+      "UNKNOWN": "An unknown error has occurred."
+    },
+    "requested": {
+      "1": "Thank you!",
+      "2": "Your request is being processed. We will keep you posted."
+    },
+    "reservation": {
+      "alreadyadded": "This persons is already part of your reservation"
+    },
+    "signup": {
+      "agb": "Terms & Conditions and Data Privacy Statement",
+      "already-registered": {
+        "other": "{{name}} is already registered.",
+        "title": "Hooray!",
+        "yourself": "You are already registered."
+      },
+      "cclegacy": {
+        "alert": {
+          "header": "Unfortunately, we are not aware of any active membership under your name.",
+          "help": "Do you need help?",
+          "member": "Become a member",
+          "subHeader": "Feel free to contact us and we'll look into it.",
+          "subject": "Activate existing customer membership"
+        },
+        "button": "Activate card"
+      },
+      "form": {
+        "jsonerror": "We have technical difficulties at the moment. Please try again later.",
+        "send": "Send",
+        "title": "Please fill out the form."
+      },
+      "generic-info-text": "Please follow the instructions on the next page",
+      "moreInfo": "More information",
+      "not-available": "{{subname}} is not available at the moment.",
+      "options": {
+        "PRESALE_SUBSCRIPTION": {
+          "text": "To get early access to this event, you need to sign up for one of these memberships.",
+          "title": "Early access"
+        },
+        "REQUIRED_SUBSCRIPTION": {
+          "text": "To get access to this event, you need to sign up for one of these memberships.",
+          "title": "Exclusive access"
+        },
+        "undefined": {
+          "text": "To get access to this event, you need to sign up for one of these memberships.",
+          "title": "Exclusive access"
+        }
+      },
+      "purchase": {
+        "active": "Already active",
+        "buynow": "Buy now",
+        "renew": "Renew now"
+      },
+      "register": {
+        "other": " Register a friend",
+        "self": "Sign up"
+      },
+      "renew": {
+        "cta": "Renew now",
+        "header": "Active membership",
+        "subHeader": "Your membership is active until {{validUntil}}."
+      },
+      "renewable-to": {
+        "generic": "A renewal is possible.",
+        "not-valid": "A renewal is still possible until {{renewableTo}}."
+      },
+      "required-subscriptions": {
+        "explainer": "To qualify for {{subscriptionLabel}} you first have to go through the following steps:",
+        "register": "Register for {{requiredSubscriptionLabel}}",
+        "step": "Step"
+      },
+      "signup-other": {
+        "cta": "Register somebody else",
+        "hint": "This is the registration for <strong>{{name}}</strong>.",
+        "permission-missing": {
+          "header": "A request has been sent!",
+          "message": "Once the person has given their consent, you can repeat this process to register them."
+        },
+        "text": "Do you want to register somebody else?"
+      },
+      "signup-self": {
+        "cta": "Register myself",
+        "text": "Do you want to register yourself instead?"
+      },
+      "signup": {
+        "other": "Sign up {{name}}",
+        "self": "Sign up now"
+      },
+      "state": {
+        "ACTIVE": {
+          "addmore": {
+            "cta": {
+              "yes": "Register somebody else"
+            },
+            "subtitle": "Do you want to register somebody else?",
+            "text": "You can also do this later during the booking process. Simply select the discount for all the tickets you want and then follow the instructions."
+          },
+          "subtitle": {
+            "other": "{{ name }} has successfully registered for {{subscriptionLabel}}.",
+            "self": "You have succesfully registered for {{subscriptionLabel}}."
+          },
+          "text": "Thank you for your registration. You can now enjoy all the benefits of your membership.",
+          "title": "Hooray!"
+        },
+        "CANCELED": {
+          "addmore": {
+            "cta": {
+              "yes": "Register somebody else"
+            },
+            "subtitle": "Do you want to register somebody else?",
+            "text": "You can also do this later during the booking process. Simply select the discount for all the tickets you want and then follow the instructions."
+          },
+          "cta": {
+            "tryagain": "Try again"
+          },
+          "subtitle": "Your registration could not be processed."
+        },
+        "FAILED": {
+          "addmore": {
+            "cta": {
+              "yes": "Register somebody else"
+            },
+            "subtitle": "Do you want to register somebody else?",
+            "text": "You can also do this later during the booking process. Simply select the discount for all the tickets you want and then follow the instructions."
+          },
+          "cta": {
+            "tryagain": "Try again"
+          },
+          "subtitle": "Your registration could not be processed."
+        },
+        "INACTIVE": {
+          "addmore": {
+            "cta": {
+              "yes": "Register somebody else"
+            },
+            "subtitle": "Do you want to register somebody else?",
+            "text": "You can also do this later during the booking process. Simply select the discount for all the tickets you want and then follow the instructions."
+          },
+          "cta": {
+            "tryagain": "Try again"
+          },
+          "subtitle": "Your membership is inactive."
+        },
+        "PENDING_MANUAL": {
+          "addmore": {
+            "cta": {
+              "yes": "Register somebody else"
+            },
+            "subtitle": "Do you want to register somebody else?",
+            "text": "You can also do this later during the booking process. Simply select the discount for all the tickets you want and then follow the instructions."
+          },
+          "cta": {
+            "tryagain": "Try again"
+          },
+          "subtitle": "Unfortunately, the automated validation did not work.",
+          "text": "We will check your request manually as soon as possible."
+        },
+        "PENDING": {
+          "subtitle": "The registration is being processed!",
+          "text": "Please be patient, this can take a little."
+        },
+        "REJECTED": {
+          "addmore": {
+            "cta": {
+              "yes": "Register somebody else"
+            },
+            "subtitle": "Do you want to register somebody else?",
+            "text": "You can also do this later during the booking process. Simply select the discount for all the tickets you want and then follow the instructions."
+          },
+          "cta": {
+            "tryagain": "Try again"
+          },
+          "subtitle": "Your registration was rejected."
+        }
+      },
+      "time": "in 2 min.",
+      "title": "Register {{firstname}} for {{subname}}",
+      "toast": {
+        "no-doc-selected": "Please choose an ID"
+      },
+      "yourself": "Register yourself for {{subname}}"
+    },
+    "subscription": "Membership",
+    "subscriptions": "Memberships",
+    "visualisation": {
+      "card": "Membership card",
+      "membership": "Membership",
+      "name": "Name",
+      "number": "Member number",
+      "valid": "Valid until"
+    }
+  },
+  "suggestion": {
+    "suggestions": "Suggestions"
+  },
+  "support-form": {
+    "general_request": {
+      "attachments": "Attachments",
+      "button": {
+        "send": "Submit"
+      },
+      "description": "How can we help you?",
+      "email": "Email",
+      "error": "Unfortunately, there was a technical issue with loading the support form. Please try again later.",
+      "name": "Name",
+      "placeholder": {
+        "description": "Booking problems:\nWhat performance is it about?\n\nReporting an error:\nWhen and where does the error occur? If you have a screenshot, feel free to attach it.",
+        "email": "Your Email",
+        "name": "Your Name",
+        "subject": "Your concern"
+      },
+      "subject": "Subject",
+      "success": "Thank you for your message. We will get back to you as soon as possible!",
+      "title": "Request to Support Team"
+    },
+    "name_change_request": {
+      "attachments": "Attachments",
+      "button": {
+        "send": "Submit"
+      },
+      "description": "Description",
+      "email": "Email",
+      "error": "Unfortunately, there was a technical issue with loading the support form. Please try again later.",
+      "name": "Name",
+      "placeholder": {
+        "description": "Please briefly describe why you want to change your name.",
+        "email": "Your Email",
+        "name": "Your Name",
+        "subject": "Your concern"
+      },
+      "prefill": {
+        "subject": "Change Name"
+      },
+      "subject": "Subject",
+      "success": "Thank you for your message. We will get back to you as soon as possible!",
+      "title": "Change Name"
+    },
+    "report_rating": {
+      "attachments": "Attachments",
+      "button": {
+        "send": "Submit"
+      },
+      "description": "Description",
+      "email": "Email",
+      "error": "Unfortunately, there was a technical issue with loading the support form. Please try again later.",
+      "name": "Name",
+      "placeholder": {
+        "description": "Please briefly describe what you find wrong with the rating.",
+        "email": "Your Email",
+        "name": "Your Name",
+        "subject": "Your concern"
+      },
+      "prefill": {
+        "subject": "Report Rating - Event ID: {{eventId}}"
+      },
+      "subject": "Subject",
+      "success": "Thank you for reporting this comment. We will check it as soon as possible.",
+      "title": "Report Rating"
+    }
+  },
+  "ticket-details": {
+    "additional-info": "Additional info",
+    "box-office-info": "The ticket must be picked up at the box office.",
+    "cancelled": "Ticket is cancelled.",
+    "congrats": "Congratulations! You’re going to the opera.",
+    "copy": {
+      "message": "Link copied to clipboard"
+    },
+    "customer-id": "Customer ID",
+    "deliveryOption": {
+      "boxOffice": "You will receive your ticket at the box office.",
+      "noPhone": "Please note that this is not a ticket.",
+      "onlyPhone": "Please note that admission to the event is only permitted by showing the electronic ticket in the app or wallet.",
+      "phone": "Ticket on the smartphone: In the app or in the wallet",
+      "print": "Print-at-Home: PDF in the order confirmation e-mail"
+    },
+    "entrance-info": "Entrance info",
+    "event-info": "Event info",
+    "id-check-info": "Please bring an official photo ID.",
+    "mobile-info": "Mobile ticket: Bring your smartphone and show your ticket at the venue within the app or via Wallet.",
+    "order-id": "Order ID",
+    "pagination": "Ticket <strong>{{current}}</strong> of {{total}}",
+    "print-info": "Print at Home: Print the ticket attached to the confirmation e-mail and show it at the venue entrance.",
+    "resend-tickets": "Resend Tickets",
+    "resend": {
+      "success": "Yay! The order confirmation was sent successfully"
+    },
+    "share-ticket": {
+      "aria-label": {
+        "checkbox": "Checkbox to select the ticket",
+        "copy-link-icon": "Copy link icon",
+        "share-icon": "Share icon"
+      },
+      "cancel-invite": "Cancel Invite",
+      "copy-link": "Copy link to share ticket",
+      "information-text": "Share this ticket with a friend.",
+      "information-text-not-shareable": {
+        "TICKET_BOUGHT_EXTERNALLY": "This ticket was bought externally and cannot be shared.",
+        "TICKET_IS_ASSIGNED": "This ticket is already assigned to another customer and cannot be shared."
+      },
+      "information-text-receiver": "Ticket shared with {{firstname}} {{lastname}}",
+      "share-ticket": "Share Ticket",
+      "status": {
+        "accepted": "ACCEPTED",
+        "deactivated": "DEACTIVATED",
+        "pending": "PENDING"
+      },
+      "title": "Share Ticket"
+    },
+    "title": "Ticket details",
+    "toWallet": "Open with Wallet"
+  },
+  "ticket-item": {
+    "cancelled": "Cancelled",
+    "category": "Category",
+    "freeSeating": "Free Seating",
+    "row": "Row",
+    "seat": "Seat",
+    "section": "Section"
+  },
+  "ticket-share-request": {
+    "failed-to-accept-ticket-share-request": "The request to receive a ticket could not be accepted. Please try again later.",
+    "failed-to-fetch-ticket-share-request": "The request to receive a ticket could not be fetched. Please try again later.",
+    "share-request": "Receive ticket",
+    "text": "<b>{{firstname}} {{lastname}}</b> wants to share a ticket with you.",
+    "title": "Request to receive a ticket"
+  },
+  "ticket-single": {
+    "address": "Address",
+    "addToCalendar": "Create calendar entry",
+    "assignedCustomer": "Issued for",
+    "barcode-hidden": "The barcode will be visible {{duration}} before the performance.",
+    "contact": "Contact",
+    "customer": {
+      "name": "Customer name",
+      "number": "Customer number"
+    },
+    "date": "Date",
+    "event": "Event",
+    "freeSeating": "Free Seating",
+    "host": "Host",
+    "hostname": "Venue",
+    "no-promo": "Normal",
+    "of": "of",
+    "orderConfirmation": "Confirmation",
+    "ordernumber": "Order number",
+    "promotion": "Promotion",
+    "ticket": "Ticket",
+    "ticketnumber": "Ticket number",
+    "toMap": "Show on map"
+  },
+  "ticketcontainer": {
+    "BOX": "Box",
+    "clickfordiscount": "Click for discounts",
+    "row": "Row",
+    "ROW": "Row",
+    "row-fallback": "Reihe",
+    "seat": "Seat"
+  },
+  "toast": {
+    "exit": "Press again to quit",
+    "offline": "No connection",
+    "weaksignal": "Weak connection"
+  },
+  "true-ticket": {
+    "button": "Open My Ticket Wallet"
+  },
+  "upcoming-tickets": {
+    "description": "Here you can find the tickets for your upcoming events.",
+    "empty": {
+      "description": "Start exploring to find events you'll love.",
+      "title": "No upcoming events yet"
+    },
+    "ticket-count-plural": "Tickets",
+    "ticket-count-singular": "Ticket",
+    "title": "Upcoming events"
+  },
+  "update-alert": {
+    "header": "Update!",
+    "message": "We got an Update for you with great new features.",
+    "update": "Update"
+  },
+  "update": {
+    "available": "Update available!",
+    "channels": "Select channel",
+    "check": "Check for updates",
+    "loading": {
+      "checking": "Searching for updates",
+      "progress": {
+        "download": "Downloading the update",
+        "extract": "Installing the update"
+      },
+      "started": "The update will begin shortly."
+    },
+    "toast": {
+      "available": {
+        "install": "Get it now",
+        "later": "Later",
+        "message": "Update available!"
+      },
+      "not-available": {
+        "message": "No update available."
+      }
+    }
+  },
+  "user": {
+    "buttons": {
+      "change": "Change",
+      "edit": "Edit",
+      "manage": "Manage",
+      "moreinfo": "Learn more",
+      "select": "Select"
+    },
+    "contributions": {
+      "amountDonated": "You donated {{amount}}",
+      "renew": "Renew now",
+      "title": "Donations"
+    },
+    "discounts": {
+      "nodisocunts": "You have no active discounts.",
+      "state": {
+        "ACTIVE": "active",
+        "CANCELED": "Your registration has been cancelled.",
+        "FAILED": "Your registration could not be processed.",
+        "INACTIVE": "inactive",
+        "PENDING": "Your registration is being processed. Please be patient, this may take a few minutes.",
+        "PENDING_MANUAL": "Unfortunately, the automated validation did not work. We will check your request manually as soon as possible.",
+        "REJECTED": "Your registration was rejected."
+      },
+      "title": "Discounts"
+    },
+    "display": {
+      "calendar": {
+        "defaultView": {
+          "month": "Month view",
+          "title": "Default view",
+          "week": "Week view"
+        },
+        "showEventInfo": "Show additional event info page",
+        "title": "Calendar"
+      },
+      "title": "Display settings"
+    },
+    "funding": {
+      "title": "Funded by"
+    },
+    "language": {
+      "title": "Language"
+    },
+    "local-notifications": {
+      "event-reminder": {
+        "title": "Your upcoming cultural pleasure"
+      }
+    },
+    "moreinfo": {
+      "agb": "General terms and conditions",
+      "ds": "Privacy information",
+      "faq": "Frequently asked questions",
+      "need-help": "Do you need help?",
+      "title": "More information"
+    },
+    "notifications": {
+      "alert": {
+        "settings": "Please activate push notifications in the settings app.",
+        "title": "By deactivating you renounce the following services:"
+      },
+      "button": {
+        "no": "Cancel",
+        "yes": "Deactivate"
+      },
+      "email": "Information about booked performances",
+      "general": "Click on each item for detailed information.",
+      "languages": {
+        "de-DE": "Deutsch",
+        "en-GB": "English",
+        "en-US": "English (US)",
+        "fr-FR": "French"
+      },
+      "marketingMessages": {
+        "description": "We send timely information about discounts, seat availability, and relevant details when certain events are on sale.",
+        "email": "Email",
+        "push": "Push",
+        "title": "Event recommendations, alerts and special promotions",
+        "trackingNote": "To receive event recommendations, alerts and special promotions, <span class='link'>usage data and personalized recommendations</span> must be enabled."
+      },
+      "newsletter": {
+        "description": "We send you information about premieres, expiring events, as well as special offers.",
+        "email": "Email",
+        "title": "Newsletter"
+      },
+      "operationalMessages": {
+        "description": "We send important information, such as order confirmations, that result directly from using the app.",
+        "email": "Email",
+        "push": "Push",
+        "title": "Required messages"
+      },
+      "privacypolicy": "Privacy policy",
+      "push": {
+        "description": "If you deactivate push notifications, you will no longer receive any notifications about new events, expiring events, or special offers.",
+        "push": "Push",
+        "title": "Push notifications"
+      },
+      "serviceMessages": {
+        "description": "We send notifications for last-minute performance changes and relevant information about events you've booked.",
+        "email": "Email",
+        "push": "Push",
+        "title": "Performance information and important notifications"
+      },
+      "text": {
+        "email": "We will send you a notification for short-term changes to performances, as well as relevant information about booked events.",
+        "newsletter": "We will send you information on premieres and expiring events, as well as special offers and notifications for vacant seats at your favorite events.",
+        "push": "You will receive notifications in time for the pre-sale start, for special offers and as a reminder for premieres and expiring events. This setting is unique to each of your devices.",
+        "tracking": "Based on your usage behavior we recommend you relevant events and special promotions. All information can be found in our privacy policy."
+      },
+      "title": "Notification settings",
+      "tracking": "Personalised recommendations"
+    },
+    "payment": {
+      "addcc": {
+        "payone": {
+          "message": "Please try again. Thank you!",
+          "title": "The payment provider was momentarily unreachable"
+        },
+        "text": "We accept all major credit card providers.",
+        "title": "Add your credit card"
+      },
+      "cc": "Credit cards",
+      "nocards": "There is no available credit card information.",
+      "savecc": "Save",
+      "title": "Credit cards",
+      "toast": {
+        "error": "Something went wrong. Please try again later",
+        "success": "Credit card successfully added"
+      }
+    },
+    "privacy": {
+      "mandatory": {
+        "description": "Data is collected that is required for the creation of user accounts and for making bookings.",
+        "label": "Required data",
+        "title": "Required data"
+      },
+      "title": "Privacy",
+      "tracking": {
+        "description": "Relevant events and special promotions are recommended based on user behavior.",
+        "label": "Usage data and personalized recommendations",
+        "title": "Usage data and personalized recommendations"
+      }
+    },
+    "profile": {
+      "alert": {
+        "no-changes": "No changes were made."
+      },
+      "change-name": "Change name",
+      "edit-profile": "Edit profile",
+      "error": {
+        "EMAIL_IN_USE": "This email address is already in use.",
+        "ENTITYCONSTRAINTVIOLATION": "Please check your input.",
+        "MISSING_ADDRESS1": "Please provide a valid address.",
+        "MISSING_CITY": "Please provide a valid city for the chosen country.",
+        "MISSING_PHONE": "Please provide a valid phone number.",
+        "MISSING_STATE_CODE": "Please provide a valid state for the chosen country.",
+        "MISSING_ZIP_CODE": "Please provide a valid zip code."
+      },
+      "send-verification-mail": {
+        "button": "Request verification link",
+        "toast": {
+          "error": "Something went wrong. Please try again!",
+          "success": "A new verification email has been sent."
+        }
+      },
+      "title": "My profile",
+      "toast": {
+        "picture": {
+          "error": "Something went wrong. Please try again!",
+          "success": "Profile picture updated"
+        },
+        "success": "Profile updated successfully"
+      }
+    },
+    "region": {
+      "title": "Region"
+    },
+    "settings": {
+      "title": "Settings"
+    },
+    "tickets": {
+      "alltickets": "All tickets",
+      "more": {
+        "plural": {
+          "1": "... and",
+          "2": "more tickets"
+        },
+        "singular": "... and 1 other ticket"
+      },
+      "notickets": "You have no upcoming events.",
+      "showtickets": "Show tickets",
+      "title": "My tickets",
+      "upcoming": "Upcoming events"
+    },
+    "user-account": {
+      "delete-account": {
+        "button": "Delete account",
+        "header": "Delete your account",
+        "message": "Please note that the deletion of your account is irrevocable."
+      },
+      "delete": {
+        "error": {
+          "header": "Unfortunately there was a problem deleting your account.",
+          "help": "Contact us",
+          "no": "Close",
+          "subHeader": "Please contact us and we'll look into it.",
+          "subject": "Delete user account"
+        },
+        "popup": {
+          "message": "Please enter your email ({{email}}) to confirm:",
+          "no": "Cancel",
+          "subHeader": "Do you really want to delete your account?",
+          "title": "Delete account",
+          "yes": "Yes"
+        }
+      },
+      "logout": "Logout",
+      "title": "Account"
+    },
+    "voucher": {
+      "referral": "Invite friends <br> and earn credits",
+      "title": "Voucher & credits",
+      "voucherpurchase": "Purchase a voucher",
+      "voucherredeem": "Your credits <br> or redeem voucher"
+    }
+  },
+  "video-page": {
+    "alert": {
+      "back": "Back",
+      "header": "Sorry!",
+      "message": "This video is not available at the moment."
+    }
+  },
+  "voucherpurchase": {
+    "choose_voucher_amount": "or a preset certificate amount:",
+    "choose_voucher_type": "Select your option:",
+    "customamount": "Choose a custom amount:",
+    "description": "Still looking for the perfect gift or a surprise for a special someone in your life? Pick your desired gift amount and a PDF certificate will be sent to you upon purchasing.",
+    "header": "Gift Certificate",
+    "purchase": "Continue",
+    "title": "Choose amount"
+  },
+  "wallet": {
+    "errorAlreadyAdded": {
+      "subTitle": "The pass is already added to your wallet.",
+      "title": "Pass already added"
+    },
+    "errorDownload": {
+      "subTitle": "Whoops! An error occurred downloading the pass.",
+      "title": "Download error"
+    },
+    "errorOpen": {
+      "subTitle": "Unfortunately, we could not open the selected pass.",
+      "title": "Error opening pass"
+    }
+  }
+}

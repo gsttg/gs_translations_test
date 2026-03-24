@@ -1,0 +1,14 @@
+{
+  "event-filter": {
+    "category": {
+      "HOST": "Venues"
+    }
+  },
+  "menu": {
+    "calendar": "CALENDAR",
+    "community": "FAVOURITES",
+    "home": "HOME",
+    "my-events": "MY EVENTS",
+    "profile": "PROFILE"
+  }
+}

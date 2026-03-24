@@ -1,0 +1,177 @@
+{
+  "auth": {
+    "ds": "Datenschutzinformationen"
+  },
+  "calendar-list": {
+    "filter": {
+      "calendar": {
+        "button": "Kalenderansicht"
+      },
+      "event": {
+        "button": "Filter"
+      }
+    }
+  },
+  "community": {
+    "explainer": "Füge Freund_innen hinzu und holt euch zusammen Karten."
+  },
+  "event-filter": {
+    "category": {
+      "HOST": "Veranstaltungsort"
+    }
+  },
+  "event-list": {
+    "category-events": "Vorstellungen in dieser Kategorie",
+    "host-events": "Vorstellungen von diesem Veranstalter"
+  },
+  "favourite-artists": {
+    "explainer": "Füge deine Lieblingskünstler_innen hinzu.",
+    "search": "Künstler_innen suchen",
+    "title": "Lieblingskünstler_innen"
+  },
+  "favourites": {
+    "noselected": {
+      "button": "Zu den Vorstellungen",
+      "text": "Tippe auf's Herz um Vorstellungen zu speichern. Teile deine Wunschliste mit deinen Freunden."
+    }
+  },
+  "friends": {
+    "remove-friend": {
+      "title": "Freund_in entfernen"
+    }
+  },
+  "info-text": {
+    "ds": "Datenschutzinformationen"
+  },
+  "intro": {
+    "button": {
+      "skip": "Überspringen"
+    },
+    "slide1": {
+      "text1": "*aus: »Michael Kohlhaas«",
+      "text2": "Alle Produktionen und Veranstaltungen der Schaubühne auf einen Blick. Lege dir Wunschlisten und Favoriten an und gehöre zu den Ersten, die informiert werden.",
+      "title": "Was gibt’s hier Neues?*"
+    },
+    "slide2": {
+      "text1": "*aus: »Das Leben des Vernon Subutex 1«",
+      "text2": "So schnell und einfach gelangst du zu deinem Ticket. Ohne Ausdrucken, alles direkt in dieser App.",
+      "title": "Ich will, dass es schnell geht.*"
+    },
+    "slide3": {
+      "text1": "*aus: »Das Leben des Vernon Subutex 1«",
+      "text2": "Gemeinsam ins Theater. Verbinde dich mit deinen Freund_innen oder finde eine Theaterbegleitung.",
+      "title": "Ich werde warten, bis alle da sind.*"
+    },
+    "slide4": {
+      "text1": "Empfiehl die App deinen Freund_innen und erhalte einen Willkommensbonus.",
+      "title": "Viele neue Features warten zukünftig auf dich."
+    }
+  },
+  "menu": {
+    "calendar": "Spielplan",
+    "home": "Home",
+    "profile": "Mein Profil"
+  },
+  "messages": {
+    "all": "Postfach",
+    "messages": "Infos",
+    "no-messages": {
+      "recommendations": "Derzeit gibt es keine Benachrichtigungen."
+    },
+    "recommendations": "Benachrichtigungen"
+  },
+  "package": {
+    "select-people": {
+      "modal": {
+        "new": {
+          "title": "Freund_in anmelden"
+        },
+        "title": "Freund_in hinzufügen"
+      }
+    }
+  },
+  "payment": {
+    "legal": {
+      "agbp": {
+        "1": "Der Verkauf erfolgt im Namen und auf Rechnung der {{legalName}}."
+      }
+    }
+  },
+  "performance": {
+    "attendance": {
+      "plural": {
+        "GENERAL": "Nutzer_innen"
+      },
+      "singular": {
+        "GENERAL": "Nutzer_in"
+      }
+    },
+    "bookable": {
+      "specialpresale": "Exklusiver VVK<br>{{date}}",
+      "specialpresale-started": "Freundeskreis VVK"
+    },
+    "not-bookable": {
+      "event-sold-out-alert": "Ticketbenachrichtigung"
+    },
+    "persons": "Künstler_innen",
+    "shareevent": "Die Vorstellung teilen"
+  },
+  "referral": {
+    "info": {
+      "both": "Lade deine Freund_innen ein, die Schaubühnen-App zu nutzen und erhaltet beide ein Guthaben von {{rewardSender}} für einen Ticketkauf über die App.<br/><br/>Deine Freund_innen erhalten die Gutschrift automatisch beim ersten Ticketkauf. Du kannst die Ermäßigung bei deinem nächsten Theaterbesuch einlösen – sobald deine Freund_innen die ersten Tickets gekauft haben.<br/><br/>Nur gültig für Neuregistrierungen (einmal pro Nutzer_in, unabhängig von der Anzahl installierter Geräte). Einlösbar ab einem Bestellwert von mindestens {{minimumPayment}}. Maximal {{maxUsesPerLink}} Einladungen pro Nutzer_in.",
+      "sender": "Lade deine Freund_innen ein, die Schaubühnen-App App zu nutzen und erhalte ein Guthaben von {{rewardSender}} für einen Ticketkauf über die App.<br/><br/>Du kannst die Ermäßigung bei deinem nächsten Theaterbesuch einlösen – sobald deine Freund_innen die ersten Tickets gekauft haben.<br/><br/>Nur gültig für Neuregistrierungen (einmal pro Nutzer_in, unabhängig von der Anzahl installierter Geräte). Einlösbar ab einem Bestellwert von mindestens {{minimumPayment}}. Maximal {{maxUsesPerLink}} Einladungen pro Nutzer_in.",
+      "title:": "Details"
+    },
+    "invite": {
+      "description": {
+        "different": "Lade deine Freund_innen zur Schaubühnen-App App ein. Für erfolgreich geworbene Neukund_innen erhältst du eine Gutschrift in Höhe von <b>{{rewardSender}}</b>. Und deine Freund_innen erhalten <b>{{rewardReceiver}}</b>.",
+        "senderonly": "Lade deine Freund_innen zur Schaubühnen-App App ein. Für erfolgreich geworbene Neukund_innen erhältst du eine Gutschrift in Höhe von <b>{{rewardSender}}</b>."
+      },
+      "generic": "Freund_innen einladen",
+      "header": "Schaubühnen-App empfehlen & günstiger Theater genießen!",
+      "trackingdisabled": "Um Freund_innen einzuladen, muss 'Personalisierte Empfehlungen' aktiviert sein."
+    },
+    "skipwarn": {
+      "message": {
+        "no-credit-sender": "Damit deine(e) Freund_in nach deinem ersten Kauf den Bonus erhält, registriere dich bitte jetzt."
+      }
+    },
+    "title": "Freund_innen einladen"
+  },
+  "share": {
+    "referral": {
+      "message": {
+        "1": "{{name}} hat dich zur {{appName}} App eingeladen."
+      }
+    }
+  },
+  "subscription": {
+    "signup": {
+      "state": {
+        "PENDING_MANUAL": {
+          "subtitle": "Bei der Ausweiserkennung ist etwas schief gelaufen. Eine Mitarbeiter_in sieht sich das an."
+        }
+      }
+    }
+  },
+  "user": {
+    "moreinfo": {
+      "ds": "Datenschutzinformationen",
+      "faq": "FAQ"
+    },
+    "notifications": {
+      "newsletter": {
+        "title": "Schaubühnen-Newsletter"
+      }
+    },
+    "privacy": {
+      "title": "Datenschutzeinstellungen"
+    },
+    "voucher": {
+      "referral": "Freund_innen einladen <br> und Guthaben verdienen"
+    }
+  },
+  "voucherpurchase": {
+    "description": "Du möchtest jemandem eine Freude bereiten? Oder bist noch auf der Suche nach einer Geschenkidee? Hier kannst du ganz einfach einen Gutschein erstellen."
+  }
+}

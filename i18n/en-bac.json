@@ -1,0 +1,129 @@
+{
+  "auth": {
+    "firstname": "First name",
+    "lastname": "Last name",
+    "message": "Login to your {{appName}} account below or enter your email to register a new account."
+  },
+  "cart-configuration": {
+    "errors": {
+      "server": {
+        "TOO_MANY_TICKETS_PARTNER_APPLICABILITY_RULE": "You have exceeded the limit for {{promotionLabel}} tickets for this venue.",
+        "TOO_MANY_TICKETS_PARTNER_APPLICABILITY_RULE-nopromotion": "You have exceeded the limit for discounted tickets for this venue."
+      }
+    }
+  },
+  "event-filter": {
+    "category": {
+      "HOST": "Organization",
+      "TAG": "Genre"
+    }
+  },
+  "event-list": {
+    "host-events": "Events from this venue"
+  },
+  "finished-order": {
+    "header": "You're In! Get Ready for Something Amazing. 🎉",
+    "mail-sent-to": "Your confirmation has been sent to:",
+    "more-info": "Check your email or visit the Orders page in the app for more details about your purchase.\n\nThank you for your purchase—Boston’s cultural scene is even better with you in it!"
+  },
+  "intro": {
+    "slide1": {
+      "text1": "Your all-access pass to the best of Boston's cultural institutions and vibrant arts scene.",
+      "title": "Welcome<br>to ArtsCard"
+    },
+    "slide2": {
+      "text1": "connecting<br><span>Bostonians</span> to <div>Exclusive</div> cultural experiences.",
+      "title": "Explore Boston's Cultural Treasures"
+    },
+    "slide3": {
+      "text1": "at an exclusive<div>Price</div><span>most tickets<br>under $50</span>",
+      "title": "Exclusive Discounts"
+    },
+    "slide4": {
+      "text1": "making it easy to<div>Discover</div><div>Engage</div><div>Belong</div>in Boston's cultural scene. ",
+      "title": "Discover Discounts and Special Offers"
+    }
+  },
+  "menu": {
+    "categories": "Home"
+  },
+  "package": {
+    "select-people": {
+      "modal": {
+        "invite-code": "If you received an invitation code, enter it here.",
+        "subtitle": "Enter your friend's email address below."
+      }
+    }
+  },
+  "payment": {
+    "legal": {
+      "agb": {
+        "partner": {
+          "text": {
+            "5": "of the venue apply."
+          }
+        }
+      },
+      "foreign-charge": "Please note, this app is made in partnership with an Austrian company and your order will be charged from Ticket Gretchen Wien Aut. You will not be charged any additional fees."
+    }
+  },
+  "performance": {
+    "persons": "People",
+    "rating": {
+      "form": {
+        "note": "Other users only see your first name."
+      }
+    },
+    "showcast": "Show people"
+  },
+  "share": {
+    "performance": {
+      "message": "Check this out! 🎶 Just found on {{appName}}: {{eventName}} at {{hostName}}. Let’s go! 🎉🔥 | {{link}}"
+    },
+    "referral": {
+      "contentDescription": "{{name}} has invited you to the {{appName}} App.",
+      "message": {
+        "1": "{{name}} has invited you to the {{appName}} App.",
+        "2": " When you register in the app, you will be able to see the events that your friends are attending and have put on their wishlist, so you can all make plans together.",
+        "4": " | Alternatively you can enter this code ({{inviteCode}}) in the app."
+      }
+    }
+  },
+  "subscription": {
+    "failReason": {
+      "TOOOLD": "It looks like you don’t meet the age requirement for this program. You must be between the ages of 18 - 35 to participate. If you believe you are seeing this message in error, please contact hello@artscardboston.com for assistance.\n\nBut no worries—there are still plenty of amazing ways to experience Boston’s arts and culture! Please explore the other events and opportunities available through ArtsCard Boston."
+    },
+    "signup": {
+      "state": {
+        "REJECTED": {
+          "subtitle": "Unfortunately, you no longer qualify for this program."
+        }
+      }
+    }
+  },
+  "ticket-details": {
+    "cancelled": "Ticket is refunded.",
+    "deliveryOption": {
+      "onlyPhone": "Please note that the admission tickets to your event are listed below. You can also download them into your digital wallet by selecting the wallet icon below. Each ticket must be downloaded separately."
+    },
+    "toPassbook": "Add to wallet"
+  },
+  "ticket-item": {
+    "cancelled": "Refunded"
+  },
+  "ticket-single": {
+    "host": "Venue"
+  },
+  "user": {
+    "discounts": {
+      "state": {
+        "REJECTED": "Unfortunately, You Don’t Qualify for This Offer"
+      }
+    },
+    "user-account": {
+      "delete-account": {
+        "message": "Please note that the deletion of your account is irreversible."
+      }
+    }
+  }
+}

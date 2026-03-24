@@ -1,0 +1,115 @@
+{
+  "cart-configuration": {
+    "errors": {
+      "server": {
+        "TOO_FEW_BASE_PROMO_TICKETS": "{{promotionLabel}} can only be booked as a companion ticket for a ClassicCard member."
+      }
+    }
+  },
+  "event-filter": {
+    "category": {
+      "HOST": "Organiser",
+      "PROMOTION": "Promotions",
+      "TAG": "Categories"
+    }
+  },
+  "finished-order": {
+    "subscription": {
+      "back": "Get started now",
+      "header": "Welcome and have fun with your ClassicCard!"
+    }
+  },
+  "intro": {
+    "button": {
+      "forward": "Continue",
+      "login": "Log in",
+      "skip": "Skip"
+    },
+    "slide1": {
+      "text1": "One for all: the entire world of classical events in the palm of your hand!",
+      "title": "Welcome to the ClassicCard app"
+    },
+    "slide2": {
+      "text1": "with the ClassicCard!",
+      "text2": "opera/ballet",
+      "text3": "concerts",
+      "title": "Save up to"
+    },
+    "slide3": {
+      "text1": "Eleven event organisers in one app. Over 1000 events per year to choose from.",
+      "title": "Your access to the world of classical events!"
+    },
+    "slide4": {
+      "text1": "Join the ClassicCard Community and experience classical events together!",
+      "title": "Connect to others!"
+    }
+  },
+  "menu": {
+    "categories": "Feed",
+    "community": "Community",
+    "favourites": "Wish list",
+    "home": "Feed",
+    "my-events": "My events",
+    "profile": "Profile"
+  },
+  "order-no-item": {
+    "current": "Easily buy tickets for you and your friends."
+  },
+  "performance": {
+    "attendance": {
+      "plural": {
+        "GENERAL": "members"
+      },
+      "singular": {
+        "GENERAL": "member"
+      }
+    },
+    "otherperformances": "Dates",
+    "persons": "Artists",
+    "popular": "Almost sold out",
+    "pricelist": {
+      "title": "Price"
+    },
+    "segments": {
+      "0": "Dates",
+      "1": "Calendar"
+    }
+  },
+  "Personalausweis": "ID card",
+  "referral": {
+    "alreadyregistered": {
+      "title": "Welcome back!"
+    },
+    "creditsreceived": {
+      "title": "Welcome"
+    },
+    "landingpage": {
+      "description": "We are thrilled that you have accepted the invitation of {{createdBy}}!"
+    }
+  },
+  "subscription": {
+    "signup": {
+      "renewable-to": {
+        "not-valid": "You can still renew your ClassicCard until {{renewableTo}}."
+      }
+    }
+  },
+  "support-form": {
+    "name-change-request": {
+      "placeholder": {
+        "description": "Please send us your name and the reason why you want to change it."
+      }
+    }
+  },
+  "user": {
+    "discounts": {
+      "title": "Membership"
+    },
+    "moreinfo": {
+      "title": "Information"
+    }
+  },
+  "voucherpurchase": {
+    "description": "Still looking for the perfect gift or a surprise for a special someone in your life? Pick your desired gift amount (e.g.: €28 for a ClassicCard membership) and a PDF certificate will be sent to you upon purchasing."
+  }
+}

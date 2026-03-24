@@ -1,0 +1,148 @@
+{
+  "auth": {
+    "confirmpassword": "Confirm Password",
+    "firstname": "First Name",
+    "forgotpassword": {
+      "success": "Your Update Password Email is on its way!"
+    },
+    "lastname": "Last Name",
+    "logout": {
+      "popup": {
+        "confirm": {
+          "message": "Are you sure you want to log out?",
+          "title": "Log Out"
+        },
+        "prompt": {
+          "guidelines": "Password must contain at least 1 uppercase letter, at least 1 number, and have a minimum of 8 characters."
+        }
+      }
+    },
+    "message": "Let’s get you logged in, or create a new Criterion Account!",
+    "title": "Tell us about yourself."
+  },
+  "contact": {
+    "buttons": {
+      "send": "Save"
+    }
+  },
+  "event-filter": {
+    "category": {
+      "HOST": "Theatres"
+    }
+  },
+  "finished-order": {
+    "contribution": {
+      "message": "Your support allows us to make our work relevant and accessible to all while actively contributing to building an American theatre that thrives on diversity.<br><br>We look forward to seeing you at the theatre soon!"
+    },
+    "header": "Your tickets are confirmed! They will be available in your ticket wallet. <br> <span style='font-size:smaller;font-weight:normal;'>If you have any questions or concerns, please contact Audience Services at <a href=\"tel:212.719.1300\" target=\"_system\">212.719.1300</a>.</span>",
+    "mail-sent-to": "Your confirmation has been sent to the following e-mail address:",
+    "more-info": "Please check your confirmation email or My Orders page for more purchase information."
+  },
+  "generic": {
+    "error": {
+      "ACCESS_DENIED": "Sorry, your transaction cannot be completed. For further assistance please contact Audience Services at audienceservices@criterionticketing.com or 833-CRI-TIXS (833-274-8497).",
+      "UNAUTHORIZED": "Sorry, your transaction cannot be completed. For further assistance please contact Audience Services at audienceservices@criterionticketing.com or 833-CRI-TIXS (833-274-8497)."
+    }
+  },
+  "intro": {
+    "slide1": {
+      "text1": "Hiptix is Roundabout’s low-price ticket program for theatregoers 18-40. It´s free to join, and gets you access to $30* tickets to all Roundabout shows, plus invites to great parties.",
+      "title": "What is Hiptix?"
+    },
+    "slide2": {
+      "text1": "Instant access to a selection of Broadway and Off-Broadway productions.",
+      "title": "Broadway & Off-Broadway."
+    },
+    "slide3": {
+      "text1": "There's no such thing as a bad seat, but there are better ones. Pick your seat and enjoy the show.",
+      "title": "Choose your seats."
+    },
+    "slide4": {
+      "text1": "Exclusive access to enter the Lottery for select productions.",
+      "title": "Lottery Tickets"
+    },
+    "slide5": {
+      "text1": "No more digging through your pockets; keep all of your tickets in one place.",
+      "title": "Manage your tickets."
+    }
+  },
+  "menu": {
+    "categories": "Home",
+    "my-events": "My events",
+    "profile": "My profile"
+  },
+  "order-item": {
+    "ticket-button": "View"
+  },
+  "order-no-item": {
+    "title": "Don't see your tickets? Tickets purchased on the phone or at the box office will not populate in the app- please contact audience services by emailing <a href=\"mailto:hiptix@roundabouttheatre.org\" target=\"_system\">hiptix@roundabouttheatre.org</a> or call <a href=\"tel:212.719.1300\" target=\"_system\">212.719.1300</a> with any questions."
+  },
+  "order-overview": {
+    "my-tickets": "My orders"
+  },
+  "payment": {
+    "generic": {
+      "title": "Checkout"
+    },
+    "legal": {
+      "accept-tos": "Accept Terms and Conditions",
+      "agbheader": "Terms and Conditions",
+      "foreign-charge": "Please note, the Criterion app is made in partnership with an Austrian company and your order will be charged from Ticket Gretchen Wien Aut / ROUNDABOUT THEATRE COMPANY you will not be charged any additional fees."
+    },
+    "options": {
+      "creditcard": {
+        "label": "Credit / Debit Card"
+      },
+      "title": "Payment"
+    }
+  },
+  "performance": {
+    "lottery": {
+      "active": "You're in the Lottery"
+    },
+    "persons": "Cast & Creative Team",
+    "pricelist": {
+      "title": "Pricing"
+    }
+  },
+  "quotas": {
+    "default": {
+      "button": "Find tickets",
+      "description": "Book tickets at the regular price without a specific membership.",
+      "title": "Regular tickets"
+    },
+    "description": "Choose whether you want to book a full-price ticket or a reduced-price ticket as a member of our low-price ticket program for theatregoers 18-40.",
+    "title": "Buy tickets"
+  },
+  "subscription": {
+    "signup": {
+      "state": {
+        "ACTIVE": {
+          "subtitle": {
+            "self": "We're really proud of our low-price ticket program for theatre lovers aged 18–40, and we're happy you want to be a part of it."
+          },
+          "text": "By joining Hiptix, you get access to purchase two $30 tickets to select Roundabout productions.<br><br>Hiptix tickets go fast, so please make sure to book your tickets in advance. And don't forget to bring a valid ID to the box office window when you pick up your tickets.<br><br>Great news. Now that you have an account, you can buy tickets directly through this app. Just navigate to the home page, select a production, and select your preferred date and time.<br><br>Questions?<br>Email <a href='mailto:hiptix@roundabouttheatre.org' target='_system'>hiptix@roundabouttheatre.org</a> or call <a href='tel:212.719.1300' target='_system'>212.719.1300</a>.",
+          "title": "Thanks for joining Hiptix!"
+        }
+      },
+      "yourself": "Register for {{subname}}"
+    }
+  },
+  "user": {
+    "notifications": {
+      "push": {
+        "description": "By deactivating you renounce the following services: You will receive notifications in time for pre-sale start, Lottery entry status, special offers, performance notifications and reminders for expiring events. These settings are unique to each of your devices."
+      },
+      "text": {
+        "push": "You will receive notifications in time for presales & exclusive offers, lottery reminders & results and updates regarding your performance. This setting is unique to each of your devices."
+      },
+      "tracking": "Personalized recommendations"
+    },
+    "tickets": {
+      "title": "My orders"
+    },
+    "user-account": {
+      "logout": "Log Out"
+    }
+  }
+}

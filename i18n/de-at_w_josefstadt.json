@@ -1,0 +1,45 @@
+{
+  "event-filter": {
+    "category": {
+      "HOST": "Spielstätten"
+    }
+  },
+  "intro": {
+    "slide1": {
+      "text1": "Alle Veranstaltungen und Produktionen des Theaters in der Josefstadt und der Kammerspiele auf einen Blick!",
+      "title": "Willkommen bei der Josefstadt App!"
+    },
+    "slide2": {
+      "text1": "1. Akt",
+      "text2": "Wählen Sie Ihren Lieblingssitzplatz direkt im mobilen Saalplan.",
+      "title": "In 30 Sekunden zum Ticket"
+    },
+    "slide3": {
+      "text1": "2. Akt",
+      "text2": "Kein Ausdrucken, kein Anstellen an der Abendkasse.",
+      "title": "Ihr Ticket, direkt am Smartphone"
+    },
+    "slide4": {
+      "text1": "3. Akt",
+      "text2": "Buchen Sie Ihre Kulturhighlights zu sensationellen Preisen. Egal ob Zivildiener, Student, Lehrling oder Berufstätige – U27 gilt für alle unter 27-Jährigen!",
+      "title": "Unter 27?"
+    },
+    "slide5": {
+      "text1": "4. Akt",
+      "text2": "Empfehlen Sie die Josefstadt App Ihren Freunden und sichern Sie sich Ihre persönliche Gutschrift!",
+      "title": "Gemeinsam ist man weniger allein"
+    }
+  },
+  "payment": {
+    "confirm": {
+      "message": {
+        "MULTI_ITEM": "Wollen Sie die ausgewählten Artikel jetzt verbindlich kaufen? Bitte kontrollieren Sie noch einmal Ihre Bestellung (Datum, Anzahl, Ermäßigung), da diese nach Abschließen des Kaufprozesses nicht mehr geändert oder storniert werden kann!"
+      }
+    },
+    "legal": {
+      "agbp": {
+        "2": "Mit dem Kauf stimme ich der Übermittlung der Daten an die {{legalName}} zu."
+      }
+    }
+  }
+}

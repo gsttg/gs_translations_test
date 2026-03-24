@@ -1,0 +1,33 @@
+{
+  "event-filter": {
+    "category": {
+      "HOST": "Venues"
+    }
+  },
+  "intro": {
+    "slide1": {
+      "text1": "All events and productions of Josefstadt Theater at a glance!",
+      "title": "Welcome to the Josefstadt App!"
+    },
+    "slide2": {
+      "text1": "1st Act",
+      "text2": "Choose your seat directly on our mobile seating map.",
+      "title": "The fastest culture ticket in town"
+    },
+    "slide3": {
+      "text1": "2nd Act",
+      "text2": "No queues, no hassle",
+      "title": "Your mobile ticket, directly on your phone."
+    },
+    "slide4": {
+      "text1": "3rd Act",
+      "text2": "Book your cultural highlights at sensational prices. Whether civil servant, student, apprentice or employed person - U27 applies to everyone under the age of 27!",
+      "title": "Under the age of 27?"
+    },
+    "slide5": {
+      "text1": "4th Act",
+      "text2": "Save on tickets by inviting friends to Josefstadt App. Both you and your friend receive 10€ credit upon their first purchase.",
+      "title": "Sharing is caring"
+    }
+  }
+}

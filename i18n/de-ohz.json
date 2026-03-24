@@ -1,0 +1,408 @@
+{
+  "auth": {
+    "logout": {
+      "popup": {
+        "prompt": {
+          "guidelines": "Passwortrichtlinie: mind. 8 Zeichen, davon mind. 1 Kleinbuchstabe, mind. 1 Grossbuchstabe und 1 Zahl",
+          "message": "Bitte setzen Sie ein Passwort, damit Sie sich beim nächsten Mal wieder einfach bei Opernhaus Zürich anmelden können."
+        }
+      }
+    },
+    "message": "Sie haben bereits ein Opernhaus Zürich-Konto oder wollen sich neu registrieren?",
+    "not-fulfilling-password-criteria": "Ihr Passwort erfüllt nicht die Passwortrichtlinie. Bitte überprüfen Sie Ihre Eingabe!"
+  },
+  "best-seat": {
+    "sold-out": "Aktuell nicht verfügbar"
+  },
+  "booking-options": {
+    "lottery-tickets-note": "Lotterie-Tickets sind stark ermässigte Karten, die am Tag der Aufführung über eine Online-Lotterie erhältlich sind. Nur über die App zugänglich.",
+    "performance-info": "Besetzung ",
+    "show-performance-info": "Besetzung anzeigen",
+    "sold-out": "Aktuell nicht verfügbar"
+  },
+  "button": {
+    "close": "Schliessen",
+    "readmore": "Kurzgefasst lesen"
+  },
+  "calendar-list": {
+    "filter": {
+      "calendar": {
+        "button": "Kalenderansicht"
+      },
+      "event": {
+        "button": "Filter"
+      }
+    }
+  },
+  "cart-configuration": {
+    "discount": {
+      "change": "Ermässigung ändern",
+      "choose": "Ermässigung auswählen"
+    },
+    "errors": {
+      "server": {
+        "NO_TICKETS-nopromotion": "Die gewählte Ermässigung gilt leider nicht für die ausgewählten Tickets.",
+        "PRICE_MAPPING_STRATEGY_IS_EMPTY-nopromotion": "Die gewählte Ermässigung gilt leider nicht für die ausgewählten Tickets.",
+        "PROMOTION_NOT_ACTIVE-nopromotion": "Die gewählte Ermässigung ist leider nicht mehr verfügbar.",
+        "REQUIRED_EMAILVERIFICATION_MISSING": "Bitte aktivieren Sie zuerst Ihr Nutzer:innenkonto!",
+        "TOO_FEW_BASE_PROMO_TICKETS": "{{promotionLabel}} kann nur in Verbindung mit einem passenden ermässigten Ticket gebucht werden.",
+        "TOO_FEW_BASE_PROMO_TICKETS-nopromotion": "Die gewählte Ermässigung kann nur in Verbindung mit einem passenden ermässigten Ticket gebucht werden.",
+        "TOO_MANY_CUSTOMER_EXECUTIONS": "Sie oder eine Ihrer Begleitungen hat {{promotionLabel}} bereits aufgebraucht.",
+        "TOO_MANY_CUSTOMER_EXECUTIONS_CONTEXTUAL": "Sie oder eine Ihrer Begleitungen hat {{promotionLabel}} bereits aufgebraucht.",
+        "TOO_MANY_CUSTOMER_EXECUTIONS_CONTEXTUAL-nopromotion": "Sie oder eine Ihrer Begleitungen hat die gewählte Ermässigung bereits aufgebraucht.",
+        "TOO_MANY_CUSTOMER_EXECUTIONS-nopromotion": "Sie oder eine Ihrer Begleitungen hat die gewählte Ermässigung bereits aufgebraucht.",
+        "TOO_MANY_EXECUTIONS_FOR_SEAT_LOAD-nopromotion": "Die gewählte Ermässigung gilt nicht für diese Vorstellung oder das Kontingent wurde kürzlich ausgeschöpft.",
+        "TOO_MANY_PERFORMANCE_CUSTOMER_EXECUTIONS-nopromotion": "Sie haben die gewählte Ermässigung für diese Vorstellung bereits aufgebraucht.",
+        "TOO_MANY_PERFORMANCE_EXECUTIONS-nopromotion": "Die gewählte Ermässigung gilt nicht für diese Vorstellung oder das Kontingent wurde kürzlich ausgeschöpft.",
+        "TOO_MANY_PROMO_TICKETS-nopromotion": "Es ist nicht möglich, so viele Tickets mit der gewählten Ermässigung zu buchen.",
+        "TOO_MANY_TICKETS_APPLICABILITY_RULE": "Zu viele ermässigte Tickets",
+        "UNKNOWN-nopromotion": "Bei der Anwendung der gewählten Ermässigung ist ein unerwarteter Fehler aufgetreten."
+      }
+    },
+    "user": {
+      "add": "Nehmen Sie Ihre Begleitung mit",
+      "missing": "Ihrer Begleitung fehlt die {{subLabel}} Mitgliedschaft."
+    },
+    "validation": {
+      "assigneduser": {
+        "missing": "Bitte verraten Sie uns, wer Ihre Begleitung ist."
+      }
+    }
+  },
+  "checkoutfooter": {
+    "tickets": {
+      "hideall": "Details verstecken",
+      "showall": "Details anzeigen"
+    }
+  },
+  "community": {
+    "explainer": "Fügen Sie Freund:innen hinzu und holen Sie sich online zusammen Karten."
+  },
+  "event-filter": {
+    "category": {
+      "TAG": "Genre"
+    }
+  },
+  "favourite-artists": {
+    "explainer": "Füge deine Lieblingskünstler:innen hinzu.",
+    "search": "Künstler:innen suchen",
+    "title": "Lieblingskünstler:innen"
+  },
+  "favourites": {
+    "noselected": {
+      "text": "Tippen Sie auf's Herz, um Events zu speichern. Teilen Sie Ihre Wunschliste mit Freund:innen."
+    },
+    "title": "Ihre Wunschliste"
+  },
+  "finished-order": {
+    "share-event": "Teilen Sie das Event mit Ihren Freund:innen:"
+  },
+  "form": {
+    "password": {
+      "uppercaseCharacterRule": "Das Passwort muss mind. einen Grossbuchstaben enthalten."
+    }
+  },
+  "friends": {
+    "remove-friend": {
+      "alert": {
+        "message": "Sind Sie sicher, dass Sie {{firstname}} aus Ihrer Community entfernen möchten?"
+      },
+      "title": "Freund:in entfernen"
+    },
+    "request": {
+      "subHeader": "Möchten Sie der Freundschaftsanfrage von {{firstname}} {{lastname}} zustimmen?"
+    }
+  },
+  "generic": {
+    "error": {
+      "ALREADYINVITED": "Das aktuelle Gerät ist bereits mit einer/einem eingeladenen Nutzer:in verbunden.",
+      "INVALID_PRICE_RULE_GROUP": "Die gewählte Ermässigung ist nicht mehr gültig.",
+      "PROMOTIONNOTFOUND": "Die Ermässigung konnte nicht gefunden werden."
+    }
+  },
+  "intro": {
+    "region": {
+      "choose": {
+        "welcome": "Wo wollen Sie Kultur geniessen?"
+      }
+    },
+    "slide1": {
+      "title": "Herzlich willkommen bei Opernhaus Zürich"
+    },
+    "slide5": {
+      "text2": "Empfiehl die Opernhaus Zürich App Deinen Freund:innen und sichere Dir Deine persönliche Gutschrift!"
+    }
+  },
+  "lottery-select-tickets": {
+    "auto-payment": {
+      "benefits-alert": {
+        "message": {
+          "3": "Zugang zu exklusiv ermässigten Tickets für die gleiche Vorstellung, falls Sie bei der Lotterie nicht erfolgreich sind."
+        }
+      }
+    }
+  },
+  "lottery-ticket-list": {
+    "toast": {
+      "preorder-ready": {
+        "message": "Sie haben die Lotterie gewonnen! Schliessen Sie jetzt Ihren Kauf ab."
+      }
+    }
+  },
+  "map": {
+    "legend": {
+      "close": "Legende schliessen"
+    }
+  },
+  "menu": {
+    "calendar": "Spielplan",
+    "categories": "Home",
+    "my-tickets": "Meine App-Tickets"
+  },
+  "order-no-item": {
+    "title": "Hier finden Sie Ihre App-Tickets."
+  },
+  "order-overview": {
+    "my-tickets": "Meine App-Tickets"
+  },
+  "package": {
+    "info": {
+      "button": {
+        "footer": {
+          "sold-out": "Aktuell nicht verfügbar"
+        }
+      }
+    },
+    "select-people": {
+      "modal": {
+        "exist": {
+          "subtitle": "Senden Sie eine Einladung, um sie Ihren Freund:innen hinzuzufügen.",
+          "title": "Ihre Begleitung ist bereits {{appName}} Nutzer:in"
+        },
+        "new": {
+          "title": "Freund:in anmelden"
+        },
+        "permission": {
+          "message": "Möchten Sie Ihrer Begleitung ein weiteres E-Mail schicken?"
+        },
+        "title": "Freund:in hinzufügen"
+      },
+      "more-people": {
+        "text": "Sie können auch für Ihre Begleitung buchen! Bitte beachten Sie nur, dass sie sich ebenfalls für {{subscription}} registrieren muss, damit Sie für Euch beide bestellen können. Klicken Sie den Button unten, um eine Einladung zu verschicken.",
+        "title": "Zusammen Kultur erleben macht mehr Spass!"
+      }
+    }
+  },
+  "payment": {
+    "cart": {
+      "change": "Ermässigung ändern",
+      "choose": "Ermässigung auswählen"
+    },
+    "error": {
+      "amount_too_large": "Der angegebene Betrag ist grösser als der zulässige Höchstbetrag.",
+      "insufficient_funds": "Das Guthaben auf der Karte reicht nicht aus, um den Kauf abzuschliessen."
+    },
+    "legal": {
+      "agbp": {
+        "1": "Der Verkauf erfolgt im Namen und auf Rechnung der {{legalName}}."
+      }
+    },
+    "progress": {
+      "button": {
+        "retry": "Schliessen und erneut versuchen"
+      },
+      "server": {
+        "SEATSUNAVAILBLEWHILESWAPPING": "Die Ermässigung konnte nicht angewendet werden."
+      }
+    }
+  },
+  "performance": {
+    "alert": {
+      "presaleInFuture": {
+        "text": "Tickets verfügbar ab {{date}}"
+      }
+    },
+    "attendance": {
+      "plural": {
+        "FRIENDS": "Freund:innen",
+        "GENERAL": "Nutzer:innen"
+      },
+      "singular": {
+        "FRIENDS": "Freund:in",
+        "GENERAL": "Nutzer:in"
+      }
+    },
+    "bookable": {
+      "generalpresale": "Allgemeine Tickets verfügbar ab {{date}}",
+      "specialpresale": "Exklusive Tickets ab<br>{{date}}",
+      "specialpresale-started": "Exklusive Tickets"
+    },
+    "not-bookable": {
+      "event-sold-out": "Aktuell nicht verfügbar",
+      "performance-sold-out": "Aktuell nicht verfügbar",
+      "presale-in-future": "Tickets verfügbar ab {{date}}"
+    },
+    "persons": "Besetzung",
+    "presale": {
+      "text": "Tickets für diese Vorstellung sind verfügbar ab {{date}}"
+    },
+    "presaleStart": "Tickets sind jetzt verfügbar!",
+    "rating": {
+      "form": {
+        "note": "Andere Nutzer:innen sehen nur Ihren Vornamen."
+      }
+    },
+    "seat-states": {
+      "FULL": "Aktuell nicht verfügbar"
+    },
+    "sold-out": "Aktuell nicht verfügbar"
+  },
+  "preorder": {
+    "status": {
+      "COMPLETED": {
+        "description": "Sie finden Ihre Tickets im Abschnitt Meine App-Tickets."
+      },
+      "NO_REACTION": {
+        "description": "Sie haben nur begrenzte Zeit, um Ihren Kauf abzuschliessen. Sie können beim nächsten Mal die automatische Zahlung verwenden, um Ihre Tickets zu sichern."
+      },
+      "WAITING_FOR_USER": {
+        "description": "Sie haben die Lotterie gewonnen! Schliessen Sie jetzt Ihren Kauf ab."
+      }
+    }
+  },
+  "quotas": {
+    "description": "Wählen Sie, ob Sie ein Vollpreisticket oder ein ermässigtes Ticket als Mitglied unseres Low-Price-Ticket-Programms buchen möchten."
+  },
+  "referral": {
+    "info": {
+      "both": "Lade deine Freund:innen ein {{appName}} zu nutzen und erhaltet beide ein Guthaben von {{rewardSender}} für einen Ticketkauf über die App.<br/><br/>Deine Freund:innen erhalten die Gutschrift automatisch beim ersten Ticketkauf. Du kannst die Ermässigung bei deinem nächsten Kulturbesuch einlösen – sobald deine Freund:innen die ersten Tickets gekauft haben.<br/><br/>Nur gültig für Neuregistrierungen (einmal pro Nutzer:in, unabhängig von der Anzahl installierter Geräte). Einlösbar ab einem Bestellwert von mindestens {{minimumPayment}}. Maximal {{maxUsesPerLink}} Einladungen pro Nutzer:in.",
+      "sender": "Lade deine Freund:innen ein {{appName}} zu nutzen und erhalte ein Guthaben von {{rewardSender}} für einen Ticketkauf über die App.<br/><br/>Du kannst die Ermässigung bei deinem nächsten Kulturbesuch einlösen – sobald deine Freund:innen die ersten Tickets gekauft haben.<br/><br/>Nur gültig für Neuregistrierungen (einmal pro Nutzer:in, unabhängig von der Anzahl installierter Geräte). Einlösbar ab einem Bestellwert von mindestens {{minimumPayment}}. Maximal {{maxUsesPerLink}} Einladungen pro Nutzer:in."
+    },
+    "invite": {
+      "description": {
+        "default": "Lade deine Freund:innen zur {{appName}} ein. Für jede/n erfolgreich geworbene/n Neukund:in erhältst du ein Guthaben in Höhe von <b>{{rewardSender}}</b>.",
+        "different": "Laden Sie Ihre Freund:innen zur {{appName}} ein. Für jeden erfolgreich geworbene/n Neukund:in erhalten Sie eine Gutschrift in Höhe von <b>{{rewardSender}}</b>. Und Ihre Freund:innen erhalten <b>{{rewardReceiver}}</b>.",
+        "senderonly": "Lade deine Freund:innen zur {{appName}} ein. Für jede/n erfolgreich geworbene/n Neukund:in erhältst du eine Gutschrift in Höhe von <b>{{rewardSender}}</b>."
+      },
+      "generic": "Freund:innen einladen",
+      "header": "{{appName}} empfehlen & günstiger Kultur geniessen!",
+      "tgapp": "Opernhaus Zürich App",
+      "trackingdisabled": "Um Freund:innen einzuladen, muss 'Personalisierte Empfehlungen' aktiviert sein."
+    },
+    "skipwarn": {
+      "message": {
+        "no-credit-sender": "Damit Ihr/e Freund:in nach Ihrem ersten Kauf den Bonus erhält, registrieren Sie sich bitte jetzt."
+      }
+    },
+    "title": "Freund:innen einladen"
+  },
+  "search": {
+    "footer": {
+      "label": "Nicht fündig geworden?"
+    }
+  },
+  "seatplan": {
+    "level-select": {
+      "close-label": "Schliessen"
+    },
+    "promotionoverlay": {
+      "promotions": "Ermässigungen"
+    }
+  },
+  "share": {
+    "referral": {
+      "title": "Freund:innen einladen"
+    },
+    "ticket": {
+      "message": "Hallo, anbei findest du ein Ticket für {{eventName}} | {{performanceTime}}. Mehr Infos gibt es unter {{link}}. Liebe Grüsse {{senderName}}. Von meiner {{appName}} App verschickt | {{websiteUrl}}"
+    }
+  },
+  "specialcode": {
+    "available": "Ihre Gutschriften",
+    "title": "Aktionscode"
+  },
+  "subscription": {
+    "failReason": {
+      "NONAMEMATCH": "Die Daten Ihres Ausweises stimmen nicht mit diesem Opernhaus Zürich-Konto überein.",
+      "TOOOLD": "Leider hast du das maximale Alter für diese Ermässigung bereits überschritten.",
+      "TOOYOUNG": "Leider hast du das Mindestalter für diese Ermässigung noch nicht erreicht."
+    },
+    "signup": {
+      "required-subscriptions": {
+        "explainer": "Um dich für {{subscriptionLabel}} zu registrieren, musst du folgende Schritte abschliessen:"
+      },
+      "state": {
+        "ACTIVE": {
+          "addmore": {
+            "text": "Sie können dies auch jederzeit im Buchungsprozess nachholen. Wählen Sie dafür einfach die Ermässigung für alle gewünschten Tickets aus und folgen Sie danach den Anweisungen."
+          },
+          "text": "Vielen Dank für deine Anmeldung. Du kannst nun alle Vorteile deiner Mitgliedschaft geniessen."
+        },
+        "CANCELED": {
+          "addmore": {
+            "text": "Sie können dies auch jederzeit im Buchungsprozess nachholen. Wählen Sie dafür einfach die Ermässigung für alle gewünschten Tickets aus und folgen Sie danach den Anweisungen."
+          }
+        },
+        "FAILED": {
+          "addmore": {
+            "text": "Sie können dies auch jederzeit im Buchungsprozess nachholen. Wählen Sie dafür einfach die Ermässigung für alle gewünschten Tickets aus und folgen Sie danach den Anweisungen."
+          }
+        },
+        "INACTIVE": {
+          "addmore": {
+            "text": "Du kannst dies auch jederzeit im Buchungsprozess nachholen. Wähle dafür einfach die Ermässigung für alle gewünschten Tickets aus und folge danach den Anweisungen."
+          }
+        },
+        "PENDING_MANUAL": {
+          "addmore": {
+            "text": "Du kannst dies auch jederzeit im Buchungsprozess nachholen. Wähle dafür einfach die Ermässigung für alle gewünschten Tickets aus und folge danach den Anweisungen."
+          }
+        },
+        "REJECTED": {
+          "addmore": {
+            "text": "Sie können dies auch jederzeit im Buchungsprozess nachholen. Wählen Sie dafür einfach die Ermässigung für alle gewünschten Tickets aus und folgen Sie danach den Anweisungen."
+          }
+        }
+      }
+    },
+    "visualisation": {
+      "card": "Mitgliederausweis"
+    }
+  },
+  "ticketcontainer": {
+    "clickfordiscount": "Für Ermässigungen klicken"
+  },
+  "user": {
+    "discounts": {
+      "nodisocunts": "Sie haben keine aktiven Ermässigungen.",
+      "title": "Ermässigungen"
+    },
+    "notifications": {
+      "marketingMessages": {
+        "description": "Wir senden rechtzeitig zum Vorverkaufsstart, wenn bestimmte Ermässigungen oder wieder Plätze verfügbar sind, relevante Informationen."
+      }
+    },
+    "profile": {
+      "error": {
+        "MISSING_ADDRESS1": "Bitte geben Sie Ihre Strasse und Hausnummer ein."
+      }
+    },
+    "tickets": {
+      "title": "Meine App-Tickets"
+    },
+    "user-account": {
+      "delete": {
+        "error": {
+          "no": "Schliessen"
+        }
+      }
+    },
+    "voucher": {
+      "referral": "Freund:innen einladen <br> und Guthaben verdienen",
+      "voucherredeem": "Ihre Aktionscodes <br> oder Gutschriften einlösen"
+    }
+  },
+  "voucherpurchase": {
+    "description": "Sie möchten jemandem eine Freude bereiten? Oder suchen noch nach einer Geschenkidee? Wählen Sie Ihren Wunschbetrag und verschenken Sie einen Kulturgutschein von {{appName}}. Der Gutschein wird dir per E-Mail als PDF zugestellt."
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "calendar-list": {
+    "filter": {
+      "calendar": {
+        "button": "Calendar view"
+      },
+      "event": {
+        "button": "Filter"
+      }
+    }
+  },
+  "community": {
+    "explainer": "Add friends and get tickets together."
+  },
+  "event-filter": {
+    "category": {
+      "HOST": "Venue"
+    }
+  },
+  "event-list": {
+    "category-events": "performances in this category",
+    "host-events": "performances from this host"
+  },
+  "intro": {
+    "button": {
+      "skip": "Skip"
+    },
+    "slide1": {
+      "text1": "*from: »Michael Kohlhaas«",
+      "text2": "All productions and events of the Schaubühne at a glance. Create wish lists and favorites and be the first to be informed.",
+      "title": "What’s new here?*"
+    },
+    "slide2": {
+      "text1": "*from: »Das Leben des Vernon Subutex 1«",
+      "text2": "This is how quick and easy it is to get your ticket. No printing, everything directly in this app.",
+      "title": "I want it to be quick.*"
+    },
+    "slide3": {
+      "text1": "*from: »Das Leben des Vernon Subutex 1«",
+      "text2": "Go to the theatre together. Connect with your friends or find a theatre companion.",
+      "title": "I will wait until everyone is here.*"
+    },
+    "slide4": {
+      "text1": "Recommend the app to your friends and receive a welcome bonus.",
+      "title": "Many new features are waiting for you in the future."
+    }
+  },
+  "menu": {
+    "calendar": "Schedule",
+    "profile": "My Profile"
+  },
+  "messages": {
+    "all": "Inbox",
+    "messages": "Information",
+    "no-messages": {
+      "recommendations": "No notifications at this time."
+    },
+    "recommendations": "Notifications"
+  },
+  "performance": {
+    "bookable": {
+      "specialpresale": "Exclusive presale<br>{{date}}",
+      "specialpresale-started": "Freundeskreis presale"
+    },
+    "not-bookable": {
+      "event-sold-out-alert": "Ticket notification"
+    },
+    "shareevent": "Share the performance"
+  },
+  "referral": {
+    "info": {
+      "both": "Invite your friends to use the Schaubühnen-App app and both receive {{rewardSender}} credit for your next ticket purchases.<br/><br/>You can redeem your bonus as soon as your friends have completed their first purchase.<br/><br/>Only applies to the referral of new customers (one invitation per registered user, independent from downloads and installed devices). Redeemable for order values of at least {{minimumPayment}}. A maximum of {{maxUsesPerLink}} invites per user.",
+      "sender": "Invite your friends to use the Schaubühnen-App app and receive {{rewardSender}} credit for your next ticket purchase for every new customer you have referred.<br/><br/>You can redeem your bonus as soon as your friends have completed their first purchase.<br/><br/>Only applies to the referral of new customers (one invitation per registered user, independent from downloads and installed devices). Redeemable for order values of at least {{minimumPayment}}. A maximum of {{maxUsesPerLink}} invites per user.",
+      "title:": "Details"
+    },
+    "invite": {
+      "description": {
+        "different": "Invite your friends to Schaubühnen-App. For every successfully invited new customer you will receive a credit of <b>{{rewardSender}}</b>. And your friends get <b>{{rewardReceiver}}.</b>",
+        "senderonly": "Invite your friends to Schaubühnen-App. For every successfully invited new customer you will receive a credit of <b>{{rewardSender}}</b>."
+      }
+    }
+  },
+  "share": {
+    "referral": {
+      "message": {
+        "1": "{{name}} has invited you to the {{appName}} App."
+      }
+    }
+  },
+  "user": {
+    "notifications": {
+      "newsletter": {
+        "title": "Schaubühnen-Newsletter"
+      }
+    }
+  },
+  "voucherpurchase": {
+    "description": "Still looking for the perfect gift or a surprise for a special someone in your life? Pick a gift amount and create your own certificate."
+  }
+}

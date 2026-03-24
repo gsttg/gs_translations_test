@@ -1,0 +1,210 @@
+{
+  "auth": {
+    "login": {
+      "error": {
+        "ALREADY_LOGGED_IN": "Sie sind bereits eingeloggt."
+      }
+    },
+    "message": "Sie haben bereits ein {{appName}}-Konto oder wollen sich neu registrieren?",
+    "not-fulfilling-password-criteria": "Ihr Passwort erfüllt nicht die Passwortrichtlinie. Bitte überprüfen Sie Ihre Eingabe!",
+    "tokenlogin": {
+      "title": "Schön, dass Sie wieder da sind!"
+    }
+  },
+  "calendar-list": {
+    "filter": {
+      "event": {
+        "button": "Filter"
+      }
+    }
+  },
+  "community": {
+    "explainer": "Fügen Sie Freunde hinzu und holen Sie sich online zusammen Karten."
+  },
+  "event-filter": {
+    "category": {
+      "TAG": "Genre"
+    }
+  },
+  "favourite-artists": {
+    "explainer": "Fügen Sie Ihre Lieblingskünstler hinzu.",
+    "search": "Künstler suchen",
+    "title": "Lieblingskünstler"
+  },
+  "favourites": {
+    "noselected": {
+      "text": "Tippen Sie auf das Herz um Events zu speichern. Teilen Sie Ihre Wunschliste mit Ihren Freunden."
+    },
+    "title": "Ihre Wunschliste"
+  },
+  "friends": {
+    "pendingRequest": {
+      "subHeader": "Möchten Sie die ausstehende Anfrage an {{firstname}} löschen?"
+    },
+    "remove-friend": {
+      "alert": {
+        "message": "Sind Sie sicher, dass Sie {{firstname}} aus Ihrer Community entfernen möchten?"
+      },
+      "title": "Freund entfernen"
+    }
+  },
+  "id-document": {
+    "take": {
+      "PICTURE": {
+        "subtitle": {
+          "IDBACK": "Bitte mache ein Foto von der Rückseite deines Ausweises.",
+          "IDFRONT": "Bitte mache ein Foto von deinem Ausweis."
+        }
+      }
+    }
+  },
+  "intro": {
+    "slide1": {
+      "text1": "Alle Neuigkeiten und Angebote auf einen Blick. So haben Sie Ihre Tickets in der Tasche",
+      "title": "Willkommen in der Festspielhaus-App"
+    },
+    "slide2": {
+      "text1": "Nutzen Sie Ihre bestehenden Login-Daten oder kreieren Sie ein neues Konto",
+      "title": "Anmelden oder registrieren"
+    },
+    "slide5": {
+      "text2": "Empfehlen Sie Festspielhaus App Ihren Freunden und sichern Sie sich Ihre persönliche Gutschrift!"
+    }
+  },
+  "menu": {
+    "home": "Home",
+    "my-tickets": "Meine App-Tickets",
+    "profile": "Mein Profil"
+  },
+  "order-no-item": {
+    "title": "Hier finden Sie Ihre App-Tickets."
+  },
+  "order-overview": {
+    "my-tickets": "Meine App-Tickets"
+  },
+  "package": {
+    "select-people": {
+      "modal": {
+        "new": {
+          "title": "Freund anmelden"
+        },
+        "permission": {
+          "message": "Möchten Sie Ihrer Begleitung ein weiteres E-Mail schicken?"
+        },
+        "title": "Freund hinzufügen"
+      }
+    }
+  },
+  "payment": {
+    "legal": {
+      "agbp": {
+        "1": "Der Verkauf erfolgt im Namen und auf Rechnung der {{legalName}}."
+      },
+      "foreign-charge": "Bitte beachten Sie, dass diese App in Partnerschaft mit einem österreichischen Unternehmen hergestellt wird und Ihre Bestellung von Ticket Gretchen Wien Aut verrechnet wird. Es werden Ihnen keine zusätzlichen Gebühren berechnet."
+    }
+  },
+  "performance": {
+    "attendance": {
+      "plural": {
+        "FRIENDS": "Freunde",
+        "GENERAL": "Nutzer"
+      },
+      "singular": {
+        "FRIENDS": "Freund"
+      }
+    },
+    "linked-events": {
+      "title": "Das könnte Sie auch interessieren"
+    },
+    "persons": "Künstler"
+  },
+  "preorder": {
+    "status": {
+      "COMPLETED": {
+        "description": "Sie finden Ihre Tickets im Abschnitt Meine App-Tickets."
+      }
+    }
+  },
+  "referral": {
+    "alreadyregistered": {
+      "message": "Sie sind bereits registriert und haben deshalb leider keinen Anspruch mehr auf den Willkommensbonus"
+    },
+    "info": {
+      "both": "Laden Sie Ihre Freunde ein die Festspielhaus-App zu nutzen und erhalten Sie beide ein Guthaben von {{rewardSender}} für einen Ticketkauf über die App.<br/><br/>Ihre Freunde erhalten die Gutschrift automatisch beim ersten Ticketkauf. Sie können die Ermäßigung bei Ihrem nächsten Kulturbesuch einlösen – sobald Ihre Freunde die ersten Tickets gekauft haben.<br/><br/>Nur gültig für Neuregistrierungen (einmal pro Nutzer, unabhängig von der Anzahl installierter Geräte). Einlösbar ab einem Bestellwert von mindestens {{minimumPayment}}.",
+      "sender": "Laden Sie Ihre Freunde ein die Festspielhaus-App zu nutzen und erhalten Sie ein Guthaben von {{rewardSender}} für einen Ticketkauf über die App.<br/><br/>Sie können die Ermäßigung bei Ihrem nächsten Kulturbesuch einlösen – sobald Ihre Freunde die ersten Tickets gekauft haben.<br/><br/>Nur gültig für Neuregistrierungen (einmal pro Nutzer, unabhängig von der Anzahl installierter Geräte). Einlösbar ab einem Bestellwert von mindestens {{minimumPayment}}."
+    },
+    "invite": {
+      "description": {
+        "default": "Laden Sie Ihre Freunde zur Festspielhaus-App ein. Für jeden erfolgreich geworbenen Neukunden erhalten Sie beide ein Guthaben in Höhe von <b>{{rewardSender}}</b>.",
+        "different": "Laden Sie Ihre Freunde zur Festspielhaus-App ein. Für jeden erfolgreich geworbenen Neukunden erhalten Sie eine Gutschrift in Höhe von <b>{{rewardSender}}</b>. Und Ihre Freunde erhalten <b>{{rewardReceiver}}</b>.",
+        "senderonly": "Laden Sie Ihre Freunde zur Festspielhaus-App ein. Für jeden erfolgreich geworbenen Neukunden erhalten Sie eine Gutschrift in Höhe von <b>{{rewardSender}}</b>."
+      },
+      "tgapp": "Festspielhaus App"
+    },
+    "landingpage": {
+      "description": "Schön, dass Sie der Einladung von {{createdBy}} gefolgt sind. Verraten Sie uns Ihre E-Mail-Adresse und Ihnen werden bei Ihrem ersten Ticketkauf automatisch {{rewardReceiver}} abgezogen."
+    },
+    "skipwarn": {
+      "message": {
+        "no-credit-receiver": "Sichern Sie sich Ihren persönlichen Willkommensbonus und registrieren Sie sich jetzt!",
+        "no-credit-sender": "Damit Ihr Freund nach deinem ersten Kauf den Bonus erhält, registrieren Sie sich bitte jetzt."
+      }
+    }
+  },
+  "specialcode": {
+    "available": "Ihre Gutschriften"
+  },
+  "subscription": {
+    "failReason": {
+      "ALREADACTIVE": "Sie sind bereits erfolgreich angemeldet."
+    },
+    "signup": {
+      "already-registered": {
+        "yourself": "Du bist bereits registriert."
+      },
+      "required-subscriptions": {
+        "explainer": "Um dich für {{subscriptionLabel}} zu registrieren, musst du folgende Schritte abschließen:",
+        "register": "Registriere dich für {{requiredSubscriptionLabel}}"
+      },
+      "signup-other": {
+        "text": "Möchten Sie eine Freundin oder einen Freund registrieren?"
+      },
+      "signup-self": {
+        "text": "Sie möchten stattdessen sich selbst registrieren?"
+      },
+      "state": {
+        "ACTIVE": {
+          "subtitle": {
+            "self": "Du bist erfolgreich für {{ subscriptionLabel }} freigeschalten."
+          }
+        }
+      },
+      "yourself": "Registriere dich für {{subname}}"
+    }
+  },
+  "support-form": {
+    "name-change-request": {
+      "placeholder": {
+        "description": "Bitte beschreiben Sie kurz, warum Sie Ihren Namen ändern möchten."
+      }
+    }
+  },
+  "user": {
+    "tickets": {
+      "title": "Meine App-Tickets"
+    },
+    "user-account": {
+      "delete": {
+        "popup": {
+          "subHeader": "Möchten Sie Ihren Account wirklich löschen?"
+        }
+      }
+    },
+    "voucher": {
+      "voucherredeem": "Ihre Gutschriften <br> oder Gutscheincodes einlösen"
+    }
+  },
+  "voucherpurchase": {
+    "description": "Sie möchten jemandem eine Freude bereiten? Oder suchen Sie noch nach einer Geschenkidee? Wählen Sie den Wunschbetrag und verschenken Sie einen Kulturgutschein für die {{appName}} App. Der Gutschein wird Ihnen per E-Mail als PDF zugestellt."
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "best-seat": {
+    "sold-out": "Currently unavailable"
+  },
+  "booking-options": {
+    "performance-info": "Performance cast",
+    "show-performance-info": "Show performance cast",
+    "sold-out": "Currently unavailable"
+  },
+  "calendar-list": {
+    "filter": {
+      "calendar": {
+        "button": "Calendar View"
+      },
+      "event": {
+        "button": "Filter"
+      }
+    }
+  },
+  "checkoutfooter": {
+    "tickets": {
+      "hideall": "Hide details",
+      "showall": "Show details"
+    }
+  },
+  "community": {
+    "explainer": "Add your friends and get tickets together."
+  },
+  "event-filter": {
+    "category": {
+      "TAG": "Genre"
+    }
+  },
+  "favourite-artists": {
+    "explainer": "Add your favourite artists.",
+    "search": "Künstler:innen suchen"
+  },
+  "intro": {
+    "slide1": {
+      "title": "Welcome to Opernhaus Zuerich"
+    },
+    "slide5": {
+      "text2": "Save on tickets by inviting friends to Opernhaus Zuerich App. Both you and your friend receive a personal credit upon their first purchase."
+    }
+  },
+  "menu": {
+    "calendar": "Schedule",
+    "categories": "Home",
+    "my-tickets": "My app-tickets"
+  },
+  "order-no-item": {
+    "title": "Find your app-tickets here."
+  },
+  "order-overview": {
+    "my-tickets": "My app-tickets"
+  },
+  "package": {
+    "info": {
+      "button": {
+        "footer": {
+          "sold-out": "Currently unavailable"
+        }
+      }
+    }
+  },
+  "payment": {
+    "legal": {
+      "foreign-charge": "Please note, the this app is made in partnership with an Austrian company and your order will be charged from Ticket Gretchen Wien Aut you will not be charged any additional fees."
+    }
+  },
+  "performance": {
+    "alert": {
+      "presaleInFuture": {
+        "text": "Tickets available from {{date}}"
+      }
+    },
+    "bookable": {
+      "specialpresale": "Exclusive tickets from<br>{{date}}"
+    },
+    "not-bookable": {
+      "event-sold-out": "Currently unavailable",
+      "performance-sold-out": "Currently unavailable"
+    },
+    "presale": {
+      "text": "Tickets for this performance available from {{date}}"
+    },
+    "presaleStart": "Tickets available now!",
+    "seat-states": {
+      "FULL": "Currently unavailable"
+    },
+    "sold-out": "Currently unavailable"
+  },
+  "preorder": {
+    "status": {
+      "COMPLETED": {
+        "description": "You can find your tickets in the My app-tickets section."
+      }
+    }
+  },
+  "referral": {
+    "info": {
+      "both": "Laden Sie Ihre Freund:innen ein {{appName}} zu nutzen und erhalten Sie beide ein Guthaben von {{rewardSender}} für einen Ticketkauf über die App.<br/><br/>Ihre Freund:innen erhalten die Gutschrift automatisch beim ersten Ticketkauf. Sie können die Ermäßigung bei Ihrem nächsten Kulturbesuch einlösen – sobald Ihre Freund:innen die ersten Tickets gekauft haben.<br/><br/>Nur gültig für Neuregistrierungen (einmal pro Nutzer:in, unabhängig von der Anzahl installierter Geräte). Maximal {{maxUsesPerLink}} Einladungen pro Nutzer:in.",
+      "sender": "Laden Sie Ihre Freund:innen ein {{appName}} zu nutzen und erhalten Sie ein Guthaben von {{rewardSender}} für einen Ticketkauf über die App.<br/><br/>Sie können die Ermäßigung bei Ihrem nächsten Kulturbesuch einlösen – sobald Ihre Freund:innen die ersten Tickets gekauft haben.<br/><br/>Nur gültig für Neuregistrierungen (einmal pro Nutzer:in, unabhängig von der Anzahl installierter Geräte). Maximal {{maxUsesPerLink}} Einladungen pro Nutzer:in."
+    },
+    "invite": {
+      "tgapp": "Opernhaus Zuerich App"
+    }
+  },
+  "specialcode": {
+    "title": "Promotion code"
+  },
+  "user": {
+    "tickets": {
+      "title": "My app-tickets"
+    }
+  }
+}

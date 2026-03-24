@@ -1,0 +1,48 @@
+{
+  "community": {
+    "explainer": "Add friends, share your favorite concerts, and get tickets together online."
+  },
+  "contribution-option": {
+    "button": "Sign up now"
+  },
+  "event-filter": {
+    "category": {
+      "HOST": "Venues",
+      "TAG": "Collections"
+    }
+  },
+  "finished-order": {
+    "header": "You're all set!",
+    "mail-sent-to": "We can’t wait to welcome you to the BSO. Your tickets are available in the app and a confirmation has been emailed to:",
+    "more-info": "Please check your confirmation email or tickets page for more purchase information."
+  },
+  "intro": {
+    "slide1": {
+      "text1": "Discover concerts, access exclusive content, and make the most of every performance - all in one place. Whether you're a longtime patron or joining us for the first time, your BSO journey starts here.",
+      "title": "Welcome to the Baltimore Symphony App!"
+    },
+    "slide2": {
+      "text1": "Invite friends to concerts, share your favorite performances, and be part of our vibrant music community. Every concert is better together.",
+      "title": "Connect with Friends"
+    },
+    "slide3": {
+      "text1": "Reserve tickets for upcoming concerts and access them anytime, right from the app. Add tickets to your digital wallet for fast, easy entry on concert night.",
+      "title": "Manage Your Tickets"
+    },
+    "slide4": {
+      "text1": "Plan your visit, access custom content and offers, and enjoy exclusive app-only features designed to enhance your time with the BSO.",
+      "title": "Orchestrate Your Experience"
+    }
+  },
+  "menu": {
+    "categories": "Home",
+    "my-tickets": "Tickets",
+    "profile": "Account"
+  },
+  "search": {
+    "footer": {
+      "button": "How can we help?",
+      "label": "Curious about what else the BSO has to offer? "
+    }
+  }
+}

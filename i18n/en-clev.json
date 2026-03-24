@@ -1,0 +1,93 @@
+{
+  "button": {
+    "favorised": "In Your Favorites",
+    "notfavorised": "Not in Your Favorites"
+  },
+  "contribution-option": {
+    "button": "Purchase"
+  },
+  "event-filter": {
+    "category": {
+      "HOST": "Venue"
+    }
+  },
+  "favourite-artists": {
+    "explainer": "Add your favorite artists.",
+    "no-results": "There are no matching results.",
+    "title": "Favorite artists"
+  },
+  "favourites": {
+    "empty-friend": "{{firstname}} does not have any events in their favorites.",
+    "friend": "Favorites of",
+    "friends": "Favorites from",
+    "noselected": {
+      "chip": "No favorites saved yet",
+      "text": "Tap the heart to save events to your favorites."
+    },
+    "title": "Your Favorites"
+  },
+  "finished-order": {
+    "contribution": {
+      "message": "Your support allows us to make our work relevant and accessible to all while actively contributing to building an orchestra that thrives on diversity.<br><br>We look forward to seeing you at the orchestra soon!"
+    },
+    "header": "Thanks for your purchase. We hope you have a great time!"
+  },
+  "friends": {
+    "shared-favourites": "Shared favorites"
+  },
+  "intro": {
+    "button": {
+      "forward": "Next"
+    },
+    "slide1": {
+      "text1": "Browse The Cleveland Orchestra's full concert calendar. Discover featured programs, special events, and artist details - all in one place.",
+      "title": "Explore upcoming performances"
+    },
+    "slide2": {
+      "text1": "Secure your seats in just a few taps. Select your own seat, review pricing, and check out seamlessly right from your phone.",
+      "title": "Quickly purchase tickets on the go"
+    },
+    "slide3": {
+      "text1": "Add tickets to your phone's wallet for quick access at the door, complete with seat info and easy sharing options.",
+      "title": "Your tickets, always with you"
+    }
+  },
+  "menu": {
+    "categories": "Home",
+    "community": "Gather",
+    "favourites": "Favorites",
+    "profile": "Account"
+  },
+  "performance": {
+    "persons": "Artists",
+    "showcast": "Show artists",
+    "toast": {
+      "favourites": {
+        "add": "Added to your favorites",
+        "remove": "Removed from favorites"
+      }
+    }
+  },
+  "seatplan": {
+    "seat-popover": {
+      "acknowledgement": {
+        "WHEELCHAIR": "I acknowledge that this space is wheelchair accessible only."
+      },
+      "description": {
+        "WHEELCHAIR": "This space is reserved for patrons using wheelchairs and does not have a fixed seat."
+      }
+    }
+  },
+  "subscription": {
+    "signup": {
+      "required-subscriptions": {
+        "explainer": "To get your student tickets, just follow these steps:"
+      }
+    }
+  },
+  "user": {
+    "discounts": {
+      "title": "Memberships"
+    }
+  }
+}

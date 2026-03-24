@@ -1,0 +1,135 @@
+{
+  "cart-configuration": {
+    "user": {
+      "add-contact-info": "Personalisierung",
+      "change-contact-info": "Personalisierung ändern"
+    }
+  },
+  "community": {
+    "explainer": "Füge Freund:innen hinzu und holt euch online zusammen Karten.",
+    "your": "<30-Community"
+  },
+  "favourite-artists": {
+    "explainer": "Füge deine Lieblingskünstler:innen hinzu.",
+    "search": "Künstler:innen suchen",
+    "title": "Lieblingskünstler:innen"
+  },
+  "favourites": {
+    "noselected": {
+      "text": "Tippe auf's Herz um Events zu speichern. Teile deine Wunschliste mit deinen Freund:innen."
+    }
+  },
+  "finished-order": {
+    "share-event": "Teile das Event mit deinen Freund:innen:"
+  },
+  "intro": {
+    "slide1": {
+      "text1": "Nichts mehr verpassen: Hier findest du alle Veranstaltungen der Bayerischen Staatsoper, des Bayerischen Staatsballetts und des Bayerischen Staatsorchesters auf einen Blick – und viele <30 Angebote.",
+      "title": "Willkommen bei <30"
+    },
+    "slide2": {
+      "text1": "Kein Ausdrucken, kein Wühlen in den Taschen: Behalte alle Tickets und News an einem Ort.",
+      "text2": "Buche deine Tickets schnell und einfach direkt hier, in deiner <30-App.",
+      "title": "Behalte deine Tickets im Griff"
+    },
+    "slide3": {
+      "text1": "Verbinde dich mit anderen Opern-, Ballett- oder Musikliebhaber:innen und teile mit ihnen deine Erlebnisse.",
+      "text2": "Werde Teil des <30-Circle und komme in den Vorzug noch günstigerer Tickets und spezieller Veranstaltungen.",
+      "title": "Werde Teil der Community"
+    },
+    "slide5": {
+      "text2": "Empfiehl die Bayerische Staatsoper App Deinen Freund:innen und sichere Dir Deine persönliche Gutschrift!"
+    }
+  },
+  "menu": {
+    "calendar": "Spielplan",
+    "favourites": "Favoriten",
+    "home": "Home",
+    "my-tickets": "Meine App-Tickets",
+    "profile": "Profil"
+  },
+  "order-no-item": {
+    "title": "Hier findest du deine App-Tickets."
+  },
+  "order-overview": {
+    "my-tickets": "Meine App-Tickets"
+  },
+  "package": {
+    "select-people": {
+      "modal": {
+        "exist": {
+          "subtitle": "Sende eine Einladung, um sie deinen Freund:innen hinzuzufügen.",
+          "title": "Deine Begleitung ist bereits {{appName}} Nutzer:in"
+        }
+      }
+    }
+  },
+  "payment": {
+    "legal": {
+      "agb": {
+        "firstparty": {
+          "3": "der Bayerischen Staatsoper."
+        }
+      },
+      "agbp": {
+        "1": "Der Verkauf erfolgt im Namen und auf Rechnung der Bayerischen Staatsoper."
+      }
+    }
+  },
+  "performance": {
+    "attendance": {
+      "plural": {
+        "FRIENDS": "Freund:innen",
+        "GENERAL": "Nutzer:innen"
+      },
+      "singular": {
+        "GENERAL": "Nutzer:in"
+      }
+    },
+    "persons": "Künstler:innen",
+    "rating": {
+      "form": {
+        "note": "Andere Nutzer:innen sehen nur deinen Vornamen."
+      }
+    }
+  },
+  "preorder": {
+    "status": {
+      "COMPLETED": {
+        "description": "Du findest deine Tickets im Abschnitt Meine App-Tickets."
+      }
+    }
+  },
+  "referral": {
+    "info": {
+      "both": "Lade deine Freund:innen ein {{appName}} zu nutzen und erhaltet beide ein Guthaben von {{rewardSender}} für einen Ticketkauf über die App.<br/><br/>Deine Freund:innen erhalten die Gutschrift automatisch beim ersten Ticketkauf. Du kannst die Ermäßigung bei deinem nächsten Kulturbesuch einlösen – sobald deine Freund:innen die ersten Tickets gekauft haben.<br/><br/>Nur gültig für Neuregistrierungen (einmal pro Nutzer:in, unabhängig von der Anzahl installierter Geräte). Einlösbar ab einem Bestellwert von mindestens {{minimumPayment}}. Maximal {{maxUsesPerLink}} Einladungen pro Nutzer:in.",
+      "sender": "Lade deine Freund:innen ein {{appName}} zu nutzen und erhaltet beide ein Guthaben von {{rewardSender}} für einen Ticketkauf über die App.<br/><br/>Deine Freund:innen erhalten die Gutschrift automatisch beim ersten Ticketkauf. Du kannst die Ermäßigung bei deinem nächsten Kulturbesuch einlösen – sobald deine Freund:innen die ersten Tickets gekauft haben.<br/><br/>Nur gültig für Neuregistrierungen (einmal pro Nutzer:in, unabhängig von der Anzahl installierter Geräte). Einlösbar ab einem Bestellwert von mindestens {{minimumPayment}}. Maximal {{maxUsesPerLink}} Einladungen pro Nutzer:in."
+    },
+    "invite": {
+      "description": {
+        "default": "Lade deine Freund:innen zur {{appName}} ein. Für jeden erfolgreich geworbenen Neukunden erhältst du ein Guthaben in Höhe von <b>{{rewardSender}}</b>.",
+        "different": "Lade deine Freund:innen zur {{appName}} ein. Für jeden erfolgreich geworbenen Neukunden erhältst du eine Gutschrift in Höhe von <b>{{rewardSender}}</b>. Und deine Freund:innen erhalten <b>{{rewardReceiver}}</b>.",
+        "senderonly": "Lade deine Freund:innen zur {{appName}} ein. Für jeden erfolgreich geworbenen Neukunden erhältst du eine Gutschrift in Höhe von <b>{{rewardSender}}</b>."
+      },
+      "generic": "Freund:innen einladen",
+      "trackingdisabled": "Um Freund:innen einzuladen, muss 'Personalisierte Empfehlungen' aktiviert sein."
+    },
+    "title": "Freund:innen einladen"
+  },
+  "share": {
+    "referral": {
+      "title": "Freund:innen einladen"
+    }
+  },
+  "user": {
+    "tickets": {
+      "title": "Meine App-Tickets"
+    },
+    "voucher": {
+      "referral": "Freund:innen einladen <br> und Guthaben verdienen"
+    }
+  },
+  "voucherpurchase": {
+    "description": "Du möchtest jemandem eine Freude bereiten? Oder suchst noch nach einer Geschenkidee? Wähle deinen Wunschbetrag und verschenke einen Kulturgutschein für die <30-App der Bayerischen Staatsoper. Der Gutschein wird dir per E-Mail als PDF zugestellt."
+  }
+}

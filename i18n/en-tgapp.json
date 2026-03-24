@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "hosts": "Organisers"
+  },
+  "share": {
+    "performance": {
+      "message": "Just found on {{appName}} App - {{hostName}}: {{eventName}} | {{link}}"
+    },
+    "referral": {
+      "contentDescription": "{{name}} has invited you to the {{appName}} App, the go-to-app for cultural tickets.",
+      "message": {
+        "1": "{{name}} has invited you to the {{appName}} App, the go-to-app for cultural tickets."
+      }
+    }
+  }
+}

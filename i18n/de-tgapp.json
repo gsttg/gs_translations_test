@@ -1,0 +1,17 @@
+{
+  "menu": {
+    "hosts": "Veranstalter"
+  },
+  "share": {
+    "performance": {
+      "message": "Gerade in der {{appName}} App entdeckt - {{hostName}}: {{eventName}} | {{link}}"
+    },
+    "referral": {
+      "contentDescription": "{{name}} hat dich zur {{appName}} App, der App für Kulturtickets, eingeladen.",
+      "message": {
+        "1": "{{name}} hat dich zur {{appName}} App, der App für Kulturtickets, eingeladen.",
+        "2": " Wenn du dich in der App registrierst, erhältst du automatisch ein Guthaben von {{rewardReceiver}} auf deinen ersten Ticketkauf."
+      }
+    }
+  }
+}

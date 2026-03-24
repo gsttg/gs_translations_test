@@ -1,0 +1,10 @@
+{
+  "ad-tracking": {
+    "reactivate": "Um personalisierte Empfehlungen zu aktivieren, erlaube bitte Tracking in den iOS Einstellungen."
+  },
+  "event-filter": {
+    "category": {
+      "HOST": "Spielstätten"
+    }
+  }
+}

@@ -1,0 +1,527 @@
+{
+  "auth": {
+    "additionalMessage": "If you do not have an email address associated with your existing Met Opera account, please contact Customer Care at 212.362.6000.",
+    "agb2": "terms & conditions",
+    "confirmpassword": "Repeat password",
+    "create-account": "Create an account to continue",
+    "ds": "privacy terms",
+    "email": "Email",
+    "firstname": "First Name",
+    "forgotpassword": {
+      "success": "The password reset email has just been sent"
+    },
+    "lastname": "Last Name",
+    "logout": {
+      "popup": {
+        "prompt": {
+          "guidelines": "Password must be 8-16 characters and contain at least one lower case letter, one upper case letter, one number, and one special character"
+        }
+      }
+    },
+    "message": "You can use your existing metopera.org account to log in here, if you have one, or enter your email address to register a new account.",
+    "newpassword": "New password",
+    "password": "Password",
+    "title": "Login/Register"
+  },
+  "booking-options": {
+    "alert": {
+      "lottery": {
+        "header": "Rush Lottery"
+      }
+    },
+    "enter-lottery": "Enter lottery for your chance at discounted tickets",
+    "get-tickets": "Get tickets",
+    "learn-more": "Learn more.",
+    "lottery-tickets": "Toll Rush Tickets",
+    "lottery-tickets-note": "Rush tickets are deeply discounted tickets made available the day before the performance via an online lottery, accessible through the Met app."
+  },
+  "button": {
+    "book": "Buy Tickets",
+    "login": "Login",
+    "register": "Create account"
+  },
+  "calendar-list": {
+    "filter": {
+      "event": {
+        "button": "Filter"
+      }
+    }
+  },
+  "cart-configuration": {
+    "errors": {
+      "server": {
+        "INSUFFICIENT_REQUIRED_SEATS": "The seat you are selecting is a companion seat and only available with the selection of the adjacent accessible location. For more information, please contact Met Customer Care at 212.362.6000.",
+        "TOO_MANY_TICKETS_PERFORMANCE_APPLICABILITY_RULE-nopromotion": "You have reached the maximum number of tickets allowed for this seat type."
+      }
+    }
+  },
+  "event-filter": {
+    "category": {
+      "PROMOTION": "Discounts"
+    }
+  },
+  "finished-order": {
+    "contribution": {
+      "message": "Your support helps to ensure a bright future for the Metropolitan Opera and for our art form. We look forward to seeing you at the opera house soon!"
+    },
+    "header": "Thank you for your purchase!",
+    "mail-sent-to": "The confirmation has been sent to the following email address:",
+    "more-info": "Please check your confirmation email or the My Tickets page for more purchase information."
+  },
+  "form": {
+    "email": {
+      "email": "Email is invalid.",
+      "pattern": "Email is invalid.",
+      "required": "Email is required."
+    }
+  },
+  "generic": {
+    "error": {
+      "ALREADYINVITED": "We’re sorry, but this user has already received a referral credit."
+    }
+  },
+  "home": {
+    "tabs": {
+      "additionalTab": "BY DATE",
+      "home": "BY OPERA"
+    }
+  },
+  "intro": {
+    "slide1": {
+      "text1": "Enter the lottery for rush tickets or secure your tickets now to any upcoming performance.",
+      "text2": "Look for the chandelier icon on any performance to enter the rush lottery for a chance to secure great seats for just $25 each.",
+      "title": "Welcome to the Met"
+    },
+    "slide2": {
+      "text1": "Once you've entered a rush lottery, you'll see a countdown until the lottery closes.",
+      "text2": "During this time, you may leave the lottery, join other lotteries, or purchase other tickets.",
+      "text3": "Only three  active lotteries are permitted.",
+      "title": "Rush Tickets"
+    },
+    "slide3": {
+      "text1": "All tickets purchased through the Met app will be available on your phone.",
+      "text2": "Swipe to browse the full season, enter rush lotteries, and purchase tickets.",
+      "title": "Enjoy the Show"
+    }
+  },
+  "lottery-cart": {
+    "checkout-notice": "You must checkout and buy your tickets to secure your seats",
+    "congratulations": "Congratulations! You won the rush lottery.",
+    "countdown": {
+      "minutes": "{{minutes}} minutes, {{seconds}} seconds to checkout and secure your seats",
+      "seconds": "{{seconds}} seconds to checkout and secure your seats"
+    },
+    "no-ticket": "THIS IS NOT YOUR TICKET",
+    "seat": "Seat",
+    "seats": "Your Rush Lottery Seats",
+    "section": "Section",
+    "title": "Toll Rush Tickets"
+  },
+  "lottery-confirmation": {
+    "alert": {
+      "leave-lottery": {
+        "cancel": "Cancel",
+        "confirm": "Leave",
+        "header": "Leave Lottery",
+        "message": "Are you sure you want to leave the lottery?"
+      }
+    },
+    "auto-payment": {
+      "change": "Change payment method",
+      "optional": "Optional",
+      "text": "We automatically charge your chosen payment method if you are successful in the lottery. If you wish to revoke your autopayment preference, you may do so at any time before the lottery. Please note that if you do not opt in to automatic payment, you will have 90 minutes from the time you are notified of your win to complete your purchase. If you do not complete your purchase during the allotted time, you will forfeit your tickets. ",
+      "title": "Automatic Payment",
+      "toggle": "Toggle Automatic Payment"
+    },
+    "countdown": {
+      "closing": "UNTIL TICKET LOTTERY CLOSES",
+      "days": "DAYS",
+      "hours": "HOURS",
+      "minutes": "MINUTES",
+      "seconds": "SECONDS"
+    },
+    "payment-details": {
+      "text": "Payment is due within {{minutes}} minutes of the lottery if you are successful.",
+      "title": "Payment Details"
+    },
+    "summary": {
+      "cta": "LEAVE LOTTERY",
+      "text": "Changed your mind?",
+      "title": "Summary"
+    },
+    "title": "Toll Rush Tickets",
+    "you-are-in": "You are in the ticket lottery!"
+  },
+  "lottery-payment": {
+    "continue-browsing": "CONTINUE BROWSING",
+    "credit-card": "Credit card",
+    "enter-lottery": "ENTER LOTTERY",
+    "fees": "Ticket Fees",
+    "legal": {
+      "checkbox": "I confirm that I have read the terms and conditions and the official lottery rules and I accept them.",
+      "text": {
+        "1": "The",
+        "2": "terms and conditions",
+        "3": "and",
+        "4": "official lottery rules",
+        "5": "of {{legalName}} apply."
+      }
+    },
+    "title": "Checkout",
+    "toast": {
+      "push": {
+        "cancel": "Cancel",
+        "dismiss-forever": "Do not ask again",
+        "enable": "Enable now",
+        "header": "Push notifications",
+        "message": "Do not miss out on your chance to win rush tickets. Enable push notifications now to be notified when the lottery closes."
+      }
+    },
+    "tos": {
+      "title": "TERMS OF SERVICE"
+    },
+    "total": "Total"
+  },
+  "lottery-region-status": {
+    "answer": "Answer",
+    "blocked": "Unfortunately the Rush Lottery is not currently available due to legal requirements in your region.",
+    "cancel": "Cancel",
+    "late": {
+      "plural": "Your time is up. You have {{count}} attempts left.",
+      "singular": "Your time is up. You have {{count}} attempt left."
+    },
+    "locked": "You have used all your attempts and your access to the Rush Lottery has been suspended.",
+    "ok": "OK",
+    "remaining": {
+      "plural": "You have {{minutes}} minutes remaining to answer the question.",
+      "singular": "You have {{minutes}} minute remaining to answer the question."
+    },
+    "restricted": "To comply with the legal regulations in your region, you must solve the following math question within 10 minutes, without assistance of any kind, to enter.",
+    "rules": "Please see the <u>Rush Lottery rules</u> for more information.",
+    "submit": "Submit",
+    "success": "Your answer is correct. You may now enter the lottery.",
+    "wrong": {
+      "plural": "Your answer is incorrect. You have {{count}} attempts left.",
+      "singular": "Your answer is incorrect. You have {{count}} attempt left."
+    }
+  },
+  "lottery-select-tickets": {
+    "accessibility": {
+      "edit": "Edit accessibility request",
+      "modal": {
+        "add-request": "Add request",
+        "form": {
+          "other-seating-requests": "Please only note accessibility requirements for your party in this field"
+        },
+        "people-remain-in-seat": "How many in your party will remain in their wheelchair or mobility aid?",
+        "people-transfer": "How many in your party will transfer to an accessible seat?",
+        "remove-request": "Remove request",
+        "title": "Accessibility Request",
+        "update-request": "Update request"
+      },
+      "no-tickets": "Please select the number of tickets first.",
+      "request": "Add accessibility request",
+      "request-removed": "Accessibility request removed",
+      "request-saved": "Accessibility request saved"
+    },
+    "auto-payment": {
+      "benefits": "View Benefits",
+      "benefits-alert": {
+        "message": {
+          "1": "Secure your tickets right away should you win.",
+          "2": "Hassle free, no need to come back to the app and checkout.",
+          "3": "For select performances, access to exclusive discounts for the same performance if you are not successful in the lottery."
+        },
+        "title": "Automatic Payment"
+      },
+      "checkbox-label": "I agree for the Met to take payment automatically if I'm successful in this lottery.",
+      "credit-card-picker": {
+        "new-card": "Add new card"
+      },
+      "error-alert": {
+        "buttons": {
+          "add-card": "Add new card"
+        },
+        "message": "You need to add a credit card first if you want to use automatic payment.",
+        "title": "Action required"
+      },
+      "note": "We automatically charge your chosen payment method if you are successful in the lottery. If you wish to revoke your autopayment preference, you may do so at any time before the lottery. Please note that if you do not opt in to automatic payment, you will have 90 minutes from the time you are notified of your win to complete your purchase. If you do not complete your purchase during the allotted time, you will forfeit your tickets. ",
+      "optional": "Optional",
+      "title": "Automatic Payment"
+    },
+    "description": "Select number of lottery tickets",
+    "maxTickets": "MAX OF {{ maxTickets }} TICKETS PER LOTTERY",
+    "title": "Toll Rush Tickets"
+  },
+  "lottery-ticket-list": {
+    "active": "Active",
+    "expired": "Expired",
+    "go-to-lotteries": "View lotteries",
+    "limited-lotteries": "You can only have {{activeLotteries}} active lotteries",
+    "login-description": "Here you can find all your active and expired rush lotteries. To view them, please log in.",
+    "lottery-ended": "This lottery has ended.",
+    "no-active-lotteries": "You currently have no active lotteries.",
+    "no-expired-lotteries": "You currently have no expired lotteries.",
+    "payment-too-late": "Unfortunately you missed the payment window for this lottery.",
+    "successful": "Successful",
+    "terms-and-conditions": {
+      "and": "and the",
+      "lottery-rules": "official lottery rules",
+      "tos": "terms & conditions",
+      "view": "View our"
+    },
+    "title": "Rush Lottery",
+    "toast": {
+      "preorder-ready": {
+        "message": "You've won the lottery! Complete your purchase now.",
+        "pay-now": "Pay now"
+      }
+    },
+    "upcoming": "Upcoming",
+    "view-available-lotteries": "View available rush lotteries here"
+  },
+  "menu": {
+    "home": "HOME",
+    "lottery": "MY RUSH LOTTERIES",
+    "my-tickets": "MY TICKETS",
+    "profile": "ACCOUNT"
+  },
+  "order-overview": {
+    "my-tickets": "My Tickets"
+  },
+  "payment": {
+    "generic": {
+      "title": "Checkout"
+    },
+    "legal": {
+      "refund": "Please be aware that this order cannot be cancelled or changed. Your ticket will appear in this app, or if you prefer to pick up your ticket at the Met box office, please call <a href=\"tel:212-362-6000\" target=\"_system\">212-362-6000</a>."
+    },
+    "official-partner": "Official Payment Partner",
+    "options": {
+      "creditcard": {
+        "expired": "Inactive",
+        "states": {
+          "INACTIVE": "Inactive"
+        }
+      },
+      "title": "Payment"
+    }
+  },
+  "performance": {
+    "bookable": {
+      "generalpresale": "General public on sale starts on {{date}}"
+    },
+    "lottery": {
+      "active": "You're in the Rush Lottery",
+      "available": "Rush tickets available",
+      "completed": "Tickets secured",
+      "waiting": "Payment needed"
+    },
+    "presale": {
+      "text": "Tickets go on sale to the general public starting {{date}}",
+      "title": "Please Note"
+    },
+    "promotions": {
+      "available": "Discounted tickets available"
+    },
+    "read-synopsis": "Read synopsis",
+    "synopsis": "Synopsis",
+    "tabs": {
+      "dates": "SELECT PERFORMANCE",
+      "info": "MORE INFO"
+    }
+  },
+  "preorder": {
+    "status": {
+      "CANCELLED": {
+        "description": "You've withdrawn your participation from the lottery.",
+        "title": "Cancelled"
+      },
+      "COMPLETED": {
+        "description": "You can find your tickets in the My Tickets section.",
+        "title": "Tickets secured"
+      },
+      "FAILED": {
+        "title": "Error"
+      },
+      "IN_PROGRESS": {
+        "description": "The lottery is currently taking place.",
+        "title": "In lottery"
+      },
+      "NEW": {
+        "description": "Until the lottery has started, you can still withdraw your participation and toggle the automatic payment on and off.",
+        "title": "In lottery"
+      },
+      "NO_REACTION": {
+        "description": "You only have limited time to complete your purchase. You can use automatic payment to secure your tickets next time.",
+        "title": "Missed payment window"
+      },
+      "NOT_EXECUTABLE": {
+        "description": "You didn't have luck this time.",
+        "title": "Lost"
+      },
+      "WAITING_FOR_USER": {
+        "description": "You've won the lottery! Complete your purchase now.",
+        "title": "Payment needed"
+      }
+    },
+    "time-left-payment": {
+      "days": "{{days}} Days,",
+      "hours": "{{hours}} Hours,",
+      "minutes": "{{minutes}} Minutes,",
+      "warning": "{{seconds}} Seconds to checkout and secure your seats"
+    }
+  },
+  "push": {
+    "text": {
+      "1": "Reminders about your tickets and",
+      "1-1": "Rush Lottery entry results",
+      "2": "Exclusive",
+      "2-2": "offers and discounts",
+      "3": "Important information about",
+      "3-3": "upcoming events"
+    }
+  },
+  "referral": {
+    "alreadyregistered": {
+      "message": "You have already registered this account and therefore are not eligible to receive a new user referral\ncredit."
+    },
+    "creditlabel": {
+      "receiver": "Welcome credit from",
+      "sender": "Referral credit from"
+    },
+    "creditsreceived": {
+      "message": "Your new user referral credit will be automatically applied to your first ticket purchase of $51 or more."
+    },
+    "info": {
+      "both": "Invite your friends to use the {{appName}} app and you’ll both receive a $25 app credit.<br/><br/>You can redeem your bonus as soon as your friends have completed their first in-app purchase.<br/><br/>Only applies to the referral of new customers (one invitation per registered user, independent from downloads and installed devices). Redeemable for order values of at least $51. A maximum of 100 invites per user.\nOffer does not apply to special presentations.",
+      "sender": "Invite your friends to use the {{appName}} app and receive {{rewardSender}} credit for your next ticket purchase for every new customer you have referred.<br/><br/>You can redeem your bonus as soon as your friends have completed their first purchase.<br/><br/>Only applies to the referral of new customers (one invitation per registered user, independent from downloads and installed devices). Redeemable for order values of at least {{minimumPayment}}. A maximum of {{maxUsesPerLink}} invites per user.\nOffer does not apply to special presentations."
+    },
+    "invite": {
+      "description": {
+        "default": "Invite your friends to {{appName}}. For every successfully invited new customer you will receive a credit of <b>$25</b>.",
+        "senderonly": "Invite your friends to {{appName}}. For every successfully invited new customer you will receive a credit of <b>$25</b>."
+      },
+      "header": "Earn credits for every friend you refer!",
+      "moreinfo": "How do invitations work?"
+    },
+    "landingpage": {
+      "description": "We are thrilled that you have accepted {{createdBy}}'s invitation! As a thank you, you’ll each receive a $25 credit to use in the app. Your friend will receive their credit once you’ve made your first purchase in the app.",
+      "header": "Welcome to the Met!"
+    },
+    "skipwarn": {
+      "message": {
+        "no-credit-receiver": "In order to secure your welcome credit you need to register. Do you want to register now?"
+      }
+    }
+  },
+  "Reisepass": "Passport",
+  "seatplan": {
+    "context-menu": {
+      "title": "Information"
+    },
+    "promotionoverlay": {
+      "prices": "Price Types",
+      "seat-types": {
+        "ada-seat": "Wheelchair",
+        "available-seat": "Available",
+        "companion-seat": "Companion Seat",
+        "partialview-seat": "Partial view",
+        "removable-armrest": "Removable armrest",
+        "title": "Seat Types",
+        "unavailable-seat": "Unavailable"
+      }
+    }
+  },
+  "share": {
+    "referral": {
+      "contentDescription": "{{name}} has invited you to the Met Opera app! ",
+      "message": {
+        "1": "{{name}} has invited you to the Met Opera app! ",
+        "2": "When you create an account in the app, you will automatically receive a credit of $25 to use on your first ticket purchase with a minimum value of $51. ",
+        "4": " | Alternatively you can enter this code ({{inviteCode}}) as a credit.\n"
+      },
+      "subject": "You’re Invited to the Met Opera App. Your $25 credit is waiting! "
+    }
+  },
+  "specialcode": {
+    "add": "Add a Credit or Promo Code",
+    "available": "Your Credits and Promotions",
+    "credits": {
+      "minimum": "This credit is only valid on orders where the ticket value is minimum {{amount}}."
+    },
+    "info": "The credit is automatically applied on the payment page.",
+    "nocredits": "You have no available credits.",
+    "placeholder": "Credit or Promo Code",
+    "title": "Promotions & Credits"
+  },
+  "ticket-details": {
+    "congrats": "Congratulations! You’re going to the opera.",
+    "pagination": "Ticket <strong>{{current}}</strong> of {{total}}",
+    "title": "Your Tickets"
+  },
+  "ticket-item": {
+    "cancelled": "Voided",
+    "row": "Row/Box"
+  },
+  "ticket-single": {
+    "address": "Venue Address",
+    "barcode-hidden": "The barcode will be visible {{duration}} before the performance.",
+    "customer": {
+      "number": "Customer #"
+    },
+    "ordernumber": "Order #",
+    "ticketnumber": "Ticket #"
+  },
+  "ticketcontainer": {
+    "row": "Row",
+    "row-fallback": "Row/Box"
+  },
+  "user": {
+    "moreinfo": {
+      "title": "More Information"
+    },
+    "notifications": {
+      "marketingMessages": {
+        "description": "Timely information about special offers and upcoming events.",
+        "title": "Event Recommendations and Promotions",
+        "trackingNote": "To receive communications about events and special offers, <span class='link'>usage data and personalized recommendations</span> must be enabled."
+      },
+      "operationalMessages": {
+        "description": "Important information including your lottery results, order confirmations, and upcoming events.",
+        "email": "Email",
+        "push": "Push",
+        "title": "Required Messages"
+      }
+    },
+    "payment": {
+      "title": "Credit Cards"
+    },
+    "privacy": {
+      "mandatory": {
+        "description": "Data is collected that is required for the creation of user accounts and for purchasing tickets."
+      }
+    },
+    "profile": {
+      "title": "My Profile"
+    },
+    "tickets": {
+      "title": "My Tickets"
+    },
+    "user-account": {
+      "delete-account": {
+        "message": "This will delete your entire Metropolitan Opera account, as well your account within the App."
+      },
+      "delete": {
+        "popup": {
+          "subHeader": "Do you really want to delete your account? This will delete your entire Metropolitan Opera account, as well your account within the App.\n"
+        }
+      }
+    },
+    "voucher": {
+      "referral": "Invite friends <br> to earn credits",
+      "title": "Promotions & Credits",
+      "voucherredeem": "Your credits and promotions"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+# Schaubühne Berlin — formal German + English
+types:
+  app:
+    languages:
+      de:
+        sources:
+          - de.json
+          - de-formal.json
+          - de-sbb.json
+      en:
+        sources:
+          - en.json
+          - en-sbb.json

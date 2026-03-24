@@ -1,0 +1,8 @@
+# Met Opera — English only, no formal address
+types:
+  app:
+    languages:
+      en:
+        sources:
+          - en.json
+          - en-metpass.json

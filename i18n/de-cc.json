@@ -1,0 +1,181 @@
+{
+  "ad-tracking": {
+    "text": "Ermögliche uns personalisierte Empfehlungen anzuzeigen, die deinen Vorlieben entsprechen und damit diese App weiterhin in gewohnter Qualität betreiben zu können. Tippe dazu im nächsten Fenster auf 'Erlauben'.",
+    "title": "Empfehlungen nach deinem Geschmack"
+  },
+  "auth": {
+    "tokenlogin": {
+      "popup": {
+        "nopw": {
+          "message": "Bitte setze im E-Mail ein neues Passwort, um dich hier anmelden zu können."
+        }
+      }
+    }
+  },
+  "cart-configuration": {
+    "errors": {
+      "server": {
+        "TOO_FEW_BASE_PROMO_TICKETS": "{{promotionLabel}} kann nur in Verbindung mit einem ClassicCard Ticket gebucht werden."
+      }
+    }
+  },
+  "community": {
+    "explainer": "Füge Freund*innen hinzu und holt euch online zusammen Karten."
+  },
+  "event-filter": {
+    "category": {
+      "TAG": "Kategorien"
+    }
+  },
+  "favourite-artists": {
+    "explainer": "Füge deine Lieblingskünstler*innen hinzu.",
+    "search": "Künstler*innen suchen",
+    "title": "Lieblingskünstler*innen"
+  },
+  "finished-order": {
+    "subscription": {
+      "back": "Jetzt loslegen",
+      "header": "Herzlich willkommen und viel Spaß mit deiner ClassicCard!",
+      "validity": "Deine Mitgliedschaft ist gültig bis {{days}}."
+    }
+  },
+  "intro": {
+    "button": {
+      "forward": "Weiter",
+      "login": "Einloggen",
+      "skip": "Überspringen"
+    },
+    "slide1": {
+      "text1": "Eine für alle: Die ganze Welt der Klassik in deiner Hand!",
+      "title": "Willkommen bei der ClassicCard App"
+    },
+    "slide2": {
+      "text1": "mit der ClassicCard!",
+      "text2": "Oper/Ballett",
+      "text3": "Konzerte",
+      "title": "Spare bis zu"
+    },
+    "slide3": {
+      "text1": "Elf Veranstalter in einer App. Über 1000 Events im Jahr zur Auswahl.",
+      "title": "Dein Zugang zur Welt der Klassik!"
+    },
+    "slide4": {
+      "text1": "Werde Teil der ClassicCard-Community und erlebe Klassik gemeinsam!",
+      "title": "Connecte dich!"
+    }
+  },
+  "menu": {
+    "calendar": "Kalender",
+    "categories": "Feed",
+    "community": "Community",
+    "events": "Events",
+    "favourites": "Wunschliste",
+    "home": "Übersicht",
+    "hostdetails": "Information",
+    "hosts": "Spielstätten",
+    "info": "Information",
+    "my-events": "My Events",
+    "profile": "Profil"
+  },
+  "order-no-item": {
+    "current": "Kaufe ganz einfach Tickets für dich und deine Freunde."
+  },
+  "package": {
+    "select-people": {
+      "modal": {
+        "exist": {
+          "subtitle": "Sende eine Einladung, um sie deinen Freund*innen hinzuzufügen."
+        },
+        "new": {
+          "title": "Freund*in anmelden"
+        },
+        "title": "Freund*in hinzufügen"
+      }
+    }
+  },
+  "payment": {
+    "legal": {
+      "agbp": {
+        "1": "Der Verkauf erfolgt im Namen und auf Rechnung der {{legalName}}.",
+        "2": "Mit dem Kauf stimme ich der Übermittlung der Daten an die {{legalName}} zu."
+      }
+    }
+  },
+  "performance": {
+    "attendance": {
+      "plural": {
+        "GENERAL": "Mitglieder"
+      },
+      "singular": {
+        "GENERAL": "Mitglied"
+      }
+    },
+    "otherperformances": "Termine",
+    "persons": "Künstler*innen",
+    "popular": "Fast ausverkauft",
+    "pricelist": {
+      "title": "Preis"
+    },
+    "segments": {
+      "0": "Termine",
+      "1": "Kalender"
+    }
+  },
+  "referral": {
+    "info": {
+      "both": "Lade deine Freund*innen zur {{appName}} ein und erhaltet beide ein Guthaben von {{rewardSender}} für einen Ticketkauf über die App.<br/><br/>Deine Freund*innen erhalten die Gutschrift automatisch beim ersten Ticketkauf. Du kannst die Ermäßigung bei deinem nächsten Kulturbesuch einlösen – sobald deine Freund*innen die ersten Tickets gekauft haben.<br/><br/>Nur gültig für Neuregistrierungen (einmal pro Nutzer, unabhängig von der Anzahl installierter Geräte). Einlösbar ab einem Bestellwert von mindestens {{minimumPayment}}. Maximal {{maxUsesPerLink}} Einladungen pro Nutzer.",
+      "sender": "Lade deine Freund*innen zur {{appName}} ein und erhalte ein Guthaben von {{rewardSender}} für einen Ticketkauf über die App.<br/><br/>Du kannst die Ermäßigung bei deinem nächsten Kulturbesuch einlösen – sobald deine Freund*innen die ersten Tickets gekauft haben.<br/><br/>Nur gültig für Neuregistrierungen (einmal pro Nutzer, unabhängig von der Anzahl installierter Geräte). Einlösbar ab einem Bestellwert von mindestens {{minimumPayment}}. Maximal {{maxUsesPerLink}} Einladungen pro Nutzer."
+    },
+    "invite": {
+      "description": {
+        "default": "Lade deine Freund*innen zur {{appName}} ein. Für jeden erfolgreich geworbenen Neukunden erhaltet ihr beide ein Guthaben in Höhe von <b>{{rewardSender}}</b>."
+      },
+      "generic": "Freund*innen einladen"
+    },
+    "landingpage": {
+      "description": "Schön, dass du der Einladung von {{createdBy}} gefolgt bist!",
+      "getCredit": "Registrieren"
+    },
+    "skipwarn": {
+      "message": {
+        "no-credit-sender": "Damit deine(e) Freund*in nach deinem ersten Kauf den Bonus erhält, registriere dich bitte jetzt."
+      }
+    },
+    "title": "Freund*innen einladen"
+  },
+  "share": {
+    "referral": {
+      "title": "Freund*innen einladen"
+    }
+  },
+  "subscription": {
+    "signup": {
+      "renewable-to": {
+        "not-valid": "Du kannst deine ClassicCard noch bis {{renewableTo}} verlängern."
+      },
+      "state": {
+        "PENDING_MANUAL": {
+          "subtitle": "Bei der Ausweiserkennung ist etwas schief gelaufen. Eine Mitarbeiter*in sieht sich das an."
+        }
+      }
+    }
+  },
+  "support-form": {
+    "name-change-request": {
+      "placeholder": {
+        "description": "Bitte schicke uns deinen Namen und warum du ihn ändern möchtest."
+      }
+    }
+  },
+  "user": {
+    "discounts": {
+      "title": "Mitgliedschaft"
+    },
+    "voucher": {
+      "referral": "Freund*innen einladen <br> und Guthaben verdienen"
+    }
+  },
+  "voucherpurchase": {
+    "description": "Du möchtest jemandem eine Freude bereiten? Oder suchst noch nach einer Geschenkidee? Wähle deinen Wunschbetrag (z.B.: €28 für eine ClassicCard Mitgliedschaft) und verschenke einen Kulturgutschein von {{appName}}. Der Gutschein wird dir per E-Mail als PDF zugestellt."
+  }
+}
