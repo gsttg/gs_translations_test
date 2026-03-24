@@ -14,5 +14,8 @@
       }
     }
   },
-  "Personalausweis": "Personalausweis"
+  "Personalausweis": "Personalausweis",
+  "auth": {
+    "agb3": " von {{legalName}}.."
+  }
 }
