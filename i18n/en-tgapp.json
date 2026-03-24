@@ -12,5 +12,14 @@
         "1": "{{name}} has invited you to the {{appName}} App, the go-to-app for cultural tickets."
       }
     }
+  },
+  "auth": {
+    "logout": {
+      "popup": {
+        "prompt": {
+          "message": "Please set a password so you can login to {{appName}} again.."
+        }
+      }
+    }
   }
 }
