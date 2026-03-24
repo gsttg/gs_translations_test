@@ -173,5 +173,8 @@
   },
   "voucherpurchase": {
     "description": "Du möchtest jemandem eine Freude bereiten? Oder bist noch auf der Suche nach einer Geschenkidee? Hier kannst du ganz einfach einen Gutschein erstellen."
+  },
+  "app": {
+    "title": "Test Title from ec-translate"
   }
 }
