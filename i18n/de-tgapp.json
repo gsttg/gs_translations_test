@@ -13,5 +13,8 @@
         "2": " Wenn du dich in der App registrierst, erhältst du automatisch ein Guthaben von {{rewardReceiver}} auf deinen ersten Ticketkauf."
       }
     }
+  },
+  "ad-tracking": {
+    "reactivate": "Um personalisierte Empfehlungen zu aktivieren, erlaube bitte. Tracking in den iOS Einstellungen."
   }
 }
