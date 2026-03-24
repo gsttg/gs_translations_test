@@ -13,5 +13,12 @@
         "2": " Wenn du dich in der App registrierst, erhältst du automatisch ein Guthaben von {{rewardReceiver}} auf deinen ersten Ticketkauf."
       }
     }
+  },
+  "auth": {
+    "login": {
+      "error": {
+        "ACCOUNT_BLOCKED": "Das Konto ist wegen zu vieler fehlgeschlagener Anmeldungen, gesperrt. Versuchen Sie, Ihr Passwort zurückzusetzen."
+      }
+    }
   }
 }
