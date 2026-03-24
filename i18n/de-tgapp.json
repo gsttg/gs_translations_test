@@ -15,5 +15,8 @@
     }
   },
   "Personalausweis": "Personalausweis",
-  "Reisepass": "Reisepasss"
+  "Reisepass": "Reisepasss",
+  "ad-tracking": {
+    "text": "Ermögliche  uns personalisierte Empfehlungen anzuzeigen, die deinen Vorlieben entsprechen und damit diese App weiterhin in gewohnter Qualität betreiben zu können. Tippe dazu im nächsten Fenster auf 'Erlauben'."
+  }
 }
